@@ -1,0 +1,100 @@
+<html>
+
+   <head>
+      <title>The jQuery Example</title>
+      <script type = "text/javascript" 
+         src = "http://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+		
+      <script type = "text/javascript" language = "javascript">
+         $(document).ready(function() {
+			   var numClicked=0;
+               $.getJSON('results.json', function(jd) {
+
+                  $('#stage').html('<p> A wizard who had an arcane tool,' + jd.user+ ', felt a great urge to reach out and communicate with someone distant.</p>');
+                  $('#stage').append('<p> Using the old language of ' + jd.protocol+ ', they tried to reach out to someone specific. That someone was '+jd.host+' who responded in kind</p>');
+
+                  // function notify(self) {
+                  //    alert( "clicked" );
+                  //    $("buttonhost").remove();
+                  // }
+
+                  //location.reload();
+               });
+            function refreshData()
+            {
+                x = 5;  // 5 Seconds
+               if(Math.random()>0.5)
+               {
+                   $.getJSON('results.json', function(jd) {
+                   $('#stage').append('<p> Using the old language of ' + jd.protocol+ ', they tried to reach out to someone specific. That someone was '+jd.host+' who responded in kind</p>');
+                   });
+               }
+               else
+               {
+                  $.getJSON('results.json', function(jd) {
+                   $('#stage').append('<p> Nothing</p>');
+                   });
+               }
+    // Do your thing here
+
+    setTimeout(refreshData, x*1000);
+}
+
+
+refreshData(); // execute function
+            });
+   
+      </script>
+   </head>
+	
+   <body>
+      <p><strong>You have visited this page: </strong> <span id="visits">0 times</span></p>
+      <div id = "stage" style = "background-color:#cc0;">
+      </div>
+		<div class="host">
+      <button type="button">Who was that Host?</button> 
+      </div>
+      <div class="user">
+      <button type="button">Who were we?</button>
+   </div>
+
+
+<script type="text/javascript" src="json-serialization.js"></script>
+<script type="text/javascript" src="session.js"></script>
+<script type="text/javascript">
+// <![CDATA[
+
+// initialize application defaults
+var counter = Session.get("counter") || {
+   visits: 0,
+   //time: []
+};
+
+// onload
+function nice(num) {
+
+   // update previous visits
+  // var d = new Date();
+   counter.visits=num;
+   console.log("number: "+counter.visits);
+  // counter.time.push(Pad(d.getHours()) + ":" + Pad(d.getMinutes()) + ":" + Pad(d.getSeconds()));
+   // if (counter.time.length > 10) counter.time = counter.time.slice(1);
+
+   // update page
+   document.getElementById("visits").firstChild.nodeValue = counter.visits + " time" + (counter.visits == 1 ? "" : "s");
+   // store value in session
+   Session.set("counter", counter);
+
+};
+
+// add leading zeros
+function Pad(n) {
+   n = "00" + n;
+   return n.substr(n.length-2);
+}
+// ]]>
+</script>
+
+   </body>
+	
+</html>

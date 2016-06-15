@@ -1,0 +1,95 @@
+<html>
+
+   <head>
+      <title>The jQuery Example</title>
+      <script type = "text/javascript" 
+         src = "http://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+		
+      <script type = "text/javascript" language = "javascript">
+         $(document).ready(function() {
+			   var numClicked=0;
+               $.getJSON('results.json', function(jd) {
+
+                  $('#stage').html('<p> Once upon a time, there were few who communicated using the ancient language of ' + jd.protocol + ' </p>');
+                  // function notify(self) {
+                  //    alert( "clicked" );
+                  //    $("buttonhost").remove();
+                  // }
+      
+                  function showUser() {
+                     $(this).remove();
+                    $.getJSON('results.json', function(jd) {
+
+                 $('#stage').append('<p> A person who had an arcane tool,' + jd.user+ ', invoked it to talk to someone.</p>');
+                  });
+               }
+
+                  function showHost()
+                  {
+                      $(this).remove();
+                      $.getJSON('results.json', function(jd) {
+
+                 $('#stage').append('<p> with the mysterious Host who went by the name ' + jd.host+ ' .</p>');
+                  });
+                  }
+               $( "div.user" ).on( "click", showUser );
+               $( "div.host" ).on( "click", showHost );
+                  //location.reload();
+               });
+
+            });
+   
+      </script>
+   </head>
+	
+   <body>
+      <p><strong>You have visited this page: </strong> <span id="visits">0 times</span></p>
+      <div id = "stage" style = "background-color:#cc0;">
+      </div>
+		<div class="host">
+      <button type="button">Who was that Host?</button> 
+      </div>
+      <div class="user">
+      <button type="button">Who were we?</button>
+   </div>
+
+
+<script type="text/javascript" src="json-serialization.js"></script>
+<script type="text/javascript" src="session.js"></script>
+<script type="text/javascript">
+// <![CDATA[
+
+// initialize application defaults
+var counter = Session.get("counter") || {
+   visits: 0,
+   //time: []
+};
+
+// onload
+function nice(num) {
+
+   // update previous visits
+  // var d = new Date();
+   counter.visits=num;
+   console.log("number: "+counter.visits);
+  // counter.time.push(Pad(d.getHours()) + ":" + Pad(d.getMinutes()) + ":" + Pad(d.getSeconds()));
+   // if (counter.time.length > 10) counter.time = counter.time.slice(1);
+
+   // update page
+   document.getElementById("visits").firstChild.nodeValue = counter.visits + " time" + (counter.visits == 1 ? "" : "s");
+   // store value in session
+   Session.set("counter", counter);
+
+};
+
+// add leading zeros
+function Pad(n) {
+   n = "00" + n;
+   return n.substr(n.length-2);
+}
+// ]]>
+</script>
+
+   </body>
+	
+</html>
