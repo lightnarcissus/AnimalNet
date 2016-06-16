@@ -2,6 +2,7 @@ import pyshark
 import json
 import math
 import random
+import base64
 cap = pyshark.LiveCapture('Wi-Fi')
 a= []
 def print_conversation_header(pkt):
@@ -20,14 +21,16 @@ def print_conversation_header(pkt):
         dst_addr = pkt.ip.dst
         dst_port = pkt[pkt.transport_layer].dstport
         ip_id=pkt.ip.id
-        ok=""
-        while random.random() > 0.1:
-            ok+="    "
-        ok+=str(pkt.ip.id)
-        print ok
-        if pkt.ssl is not None:
-            print "SSL is here"
-        handshake_length=pkt.ssl.handshake_length
+        # ok=""
+        # while random.random() > 0.1:
+        #     ok+="    "
+        ascii_string = str(base64.b16decode(pkt.ip_id))[2:-1]
+        print (ascii_string)
+        # ok=str(pkt.ip.id)
+        # print ok
+        # if pkt.ssl is not None:
+        #     print "SSL is here"
+        # handshake_length=pkt.ssl.handshake_length
         
         #print ip_id
         # json_obj = {
@@ -41,9 +44,9 @@ def print_conversation_header(pkt):
 
         #a.append(json_obj)
         #print len(a)
-        with open('results.json', 'w') as fp:
-            json.dump(json_obj, fp)
-            json_obj.close();
+        # with open('results.json', 'w') as fp:
+        #     json.dump(json_obj, fp)
+        #     json_obj.close();
         #temporarily disabled
         # if protocol == 'UDP':
         #     print 'A human who went by the title of %s , residing at %s , looked out the window marked with number %s, to talk to %s, who lived at %s via the ancient mystic language of %s'  % (http_user, src_addr, src_port, http_host, dst_addr, protocol)
