@@ -7,42 +7,6 @@ counter=0;
 
 def print_conversation_header(pkt):
     try:
-        for layer in pkt.layers:
-            # if 'ssl' in layer.layer_name:
-            #     ssl_content_type=layer.record
-            #     ok=str(ssl_content_type)
-            #     fine=ok.split(" ")
-            #     print "A secret " + fine[len(fine)-1] + " " + fine[len(fine)-2] + " was exchanged between them"
-
-            # if 'http' in layer.layer_name:
-            #     print "My precious cookie: " + str(layer.cookie) + " watches as you browse " + str(layer.request_full_uri) 
-            #     if(random.random() > 0.5):
-            #         print "An accommodating HTTP from " + str(layer.host) + " accepts " + str(layer.accept_encoding) + " variants of encoding reducing burden"
-            #     else:
-            #         print "While being served by " + str(layer.server) + " the HTTP packet from " + str(layer.host) + " mutters the phrase: " + str(layer.response_phrase)
-                
-            if 'udp' in layer.layer_name:
-                print "An unreliable UDP packet seeks denies identification"
-            # if 'tcp' in layer.layer_name:
-            #     if(random.random() < 0.3):
-            #         print "In the sky, " + str(layer.analysis_bytes_in_flight) + " bytes are still flying"
-            #     if(random.random() < 0.6):
-            #         print "Someone waved a flag marked with " + str(layer.flags) +  " that only TCP-speakers can understand"
-            #     else:
-            #         print "Packet #" + str(layer.seq) + " said that it was waiting for Packet #" + str(layer.nxtseq)
-
-            #     if str(layer.urgent_pointer)=='1':
-            #         print "I have an URGENT message to me"
-
-            # if 'ip' in layer.layer_name:
-            #     if(random.random() > 0.5):
-            #         print "Alas " + str(layer.id) + " only has " + str(layer.ttl) + " moments to live" 
-            #     if str(layer.flags_df)=='1':
-            #         print "The packet " + str(layer.id) + " requests, please DO NOT FRAGMENT me. I have more coming behind me." 
-            #     else:
-            #         print "It is OK, says Packet " + str(layer.id) + ". You can FRAGMENT me now"
-
-
         protocol =  pkt.transport_layer
         http_user= pkt.http.user_agent
         if "Firefox" in http_user:
@@ -56,17 +20,68 @@ def print_conversation_header(pkt):
         dst_addr = pkt.ip.dst
         dst_port = pkt[pkt.transport_layer].dstport
         ip_id=pkt.ip.id
-        # if pkt.ssl is not None:
-        #     print "SSL is here"
-        # handshake_length=pkt.ssl.handshake_length
         global counter
         counter+=1
         if counter==1:
-            print "You sat down on a table, " + str(http_user) + " an arcane tool, in your hands. " 
-            print "You couldn't help but notice that there was a marker on your table that had " + str(src_addr) + " written on it. This is who you are now." 
+            print "You sat down on a table, " + str(http_user) + ", an arcane tool, in your hands. " 
+            print "You couldn't help but notice that there was a marker on your table that had " + str(src_addr) + " written on it. This is who you are, for now." 
             print "Your eyes scanned across the room for "+ str(http_host) + " as you tried to find them."
             print "They said they would be waiting for you at Table " + str(dst_addr) + " but you couldn't see any from where you sat."
-            print "They spoke the long forgotten language of "+ str(protocol) 
+            print "Suddenly, a huge wave of frogs stormed into the room"
+            print "They spoke the long forgotten language of "+ str(protocol) + ". So you tried to communicate with them in their language."
+            print " 'Do you like to shake hands?', you asked"
+            print " 'That won't be necessary', one of the frogs replied"
+
+
+        for layer in pkt.layers:
+            print "Frogs hop around"
+            if 'ssl' in layer.layer_name:
+                ssl_content_type=layer.record
+                ok=str(ssl_content_type)
+                fine=ok.split(" ")
+                print "A rare SSL frog appears"
+                print "The rare SSL frog passes secret " + fine[len(fine)-1] + " " + fine[len(fine)-2] + " messages to you"
+                print "You nod, acknowledging it, in secret."
+
+            if 'http' in layer.layer_name:
+                print "A frog in the guise of a cookie" + str(layer.cookie) + " watches as you browse " + str(layer.request_full_uri) 
+                print "An accommodating HTTP frog from " + str(layer.host) + " accepts " + str(layer.accept_encoding) + " variants of croak-coding reducing frog congestion in the room"
+                print "While being served by " + str(layer.server) + " the HTTP frog from " + str(layer.host) + " mutters the phrase: " + str(layer.response_phrase)
+                
+            if 'udp' in layer.layer_name:
+                print "An unreliable UDP frog disables its own identification"
+            if 'tcp' in layer.layer_name:
+                if(random.random() < 0.3):
+                    print "In the sky, " + str(layer.analysis_bytes_in_flight) + " frogs are still flying"
+                if(random.random() < 0.6):
+                    print "A frog waved a flag " + str(layer.flags) +  " that only other TCP-speaking frogs can understand"
+                else:
+                    print "Frog #" + str(layer.seq) + " said that it was waiting for Frog #" + str(layer.nxtseq)
+
+                if str(layer.urgent_pointer)=='0':
+                    print "I have an URGENT message to deliver to port " + str(layer.dstport) + ". Can you prioritize my message over other frogs?"
+
+            if 'ip' in layer.layer_name:
+                if str(layer.flags_df)=='1':
+                    print "A IPv4 Frog #" + str(layer.id) + " arrives and requests, 'Please DO NOT FRAGMENT me. I have more coming behind me.'"
+                    print "'Do you have any EXPLICIT CONGESTION NOTIFICATIONS?', you ask to the IPV4 Frog #" + str(layer.id) + "."
+                    print " 'No, I don't and I like traffic', the IPV4 Frog #" + str(layer.id) + " replies"
+                    print " 'That is fine', you reply. 'Please wait until more of you arrive from '" + str(layer.src) 
+                else:
+                    print "It is OK, says Frog #" + str(layer.id) + ". You can FRAGMENT me now"
+                    print "OK, bye Frog #" + str(layer.id) + ". You shall be forgotten as you disappear in the crowd now."
+                
+                if(random.random() > 0.5):
+                    print " 'Halt, Frog #" + str(layer.id) + "!', you shout. 'I need to know you aren't lost and just wandering like a croak. Show me your checksum!'"
+                    print " The IPv4 frog shows its checksum " + str(layer.checksum) + " but unfortunately nobody cares about it."
+                else:
+                    print "Alas, the IPV4  Frog #" + str(layer.id) + " only has " + str(layer.ttl) + " hops to live" 
+
+
+        
+        # if pkt.ssl is not None:
+        #     print "SSL is here"
+        # handshake_length=pkt.ssl.handshake_length
         
         #print ip_id
         # json_obj = {
