@@ -34,7 +34,7 @@ def print_conversation_header(pkt):
 
 
         for layer in pkt.layers:
-            print "Frogs hop around"
+            print "Frogs hop around."
             if 'ssl' in layer.layer_name:
                 ssl_content_type=layer.record
                 ok=str(ssl_content_type)
@@ -46,6 +46,8 @@ def print_conversation_header(pkt):
             if 'http' in layer.layer_name:
                 print "A frog in the guise of a cookie" + str(layer.cookie) + " watches as you browse " + str(layer.request_full_uri) 
                 print "An accommodating HTTP frog from " + str(layer.host) + " accepts " + str(layer.accept_encoding) + " variants of croak-coding reducing frog congestion in the room"
+                print "'Are you an ETH Frog?', you ask"
+                print "Deep down, all frogs are ETH frogs." 
                 print "While being served by " + str(layer.server) + " the HTTP frog from " + str(layer.host) + " mutters the phrase: " + str(layer.response_phrase)
                 
             if 'udp' in layer.layer_name:
