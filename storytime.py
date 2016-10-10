@@ -2,6 +2,16 @@ import pyshark
 import json
 import math
 import random
+import platform
+interface=""
+
+if platform.system()=="linux":
+    interface="wlo1"
+elif platform.system()=="Darwin":
+    interface="en1"
+elif platform.system()=="Windows":
+    interface="Wi-Fi"
+
 cap = pyshark.LiveCapture('Wi-Fi')
 counter=0;
 
