@@ -2,8 +2,18 @@ import pyshark
 import json
 import math
 import random
-cap = pyshark.LiveCapture('Wi-Fi')
+import platform
+interface=""
+if platform.system()=="Linux":
+    interface="wlo1"
+elif platform.system()=="Darwin":
+    interface="en1"
+elif platform.system()=="Windows":
+    interface="Wi-Fi"
+
+cap = pyshark.LiveCapture(interface)
 counter=0;
+
 
 def print_conversation_header(pkt):
     try:

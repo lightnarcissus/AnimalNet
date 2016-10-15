@@ -4,15 +4,15 @@ import math
 import random
 import platform
 interface=""
-
-if platform.system()=="linux":
+print platform.system()
+if platform.system()=="Linux":
     interface="wlo1"
 elif platform.system()=="Darwin":
     interface="en1"
 elif platform.system()=="Windows":
     interface="Wi-Fi"
 
-cap = pyshark.LiveCapture('Wi-Fi')
+cap = pyshark.LiveCapture(interface)
 counter=0;
 
 def print_conversation_header(pkt):
