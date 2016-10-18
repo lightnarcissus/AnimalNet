@@ -1,1 +1,1891 @@
-trying
+You sat down on a table, Firefox, an arcane tool, in your hands. 
+You couldn't help but notice that there was a marker on your table that had 128.59.87.85 written on it. This is who you are, for now.
+Your eyes scanned across the room for requirejs.org as you tried to find them.
+They said they would be waiting for you at Table 205.186.175.229 but you couldn't see any from where you sat.
+Suddenly, a huge wave of frogs stormed into the room
+They spoke the long forgotten language of TCP. So you tried to communicate with them in their language.
+ 'Do you like to shake hands?', you asked
+ 'That won't be necessary', one of the frogs replied
+Frogs hop around.
+Frogs hop around.
+A IPv4 Frog #0x0000abd8 arrives and requests, 'Please DO NOT FRAGMENT me. I have more coming behind me.'
+'Do you have any EXPLICIT CONGESTION NOTIFICATIONS?', you ask to the IPV4 Frog #0x0000abd8.
+ 'No, I don't and I like traffic', the IPV4 Frog #0x0000abd8 replies
+ 'That is fine', you reply. 'Please wait until more of you arrive from '128.59.87.85
+Alas, the IPV4  Frog #0x0000abd8 only has 64 hops to live
+Frogs hop around.
+A frog waved a flag 0x00000018 that only other TCP-speaking frogs can understand
+I have an URGENT message to deliver to port 80. Can you prioritize my message over other frogs?
+Frogs hop around.
+Frogs hop around.
+Frogs hop around.
+A IPv4 Frog #0x000083bd arrives and requests, 'Please DO NOT FRAGMENT me. I have more coming behind me.'
+'Do you have any EXPLICIT CONGESTION NOTIFICATIONS?', you ask to the IPV4 Frog #0x000083bd.
+ 'No, I don't and I like traffic', the IPV4 Frog #0x000083bd replies
+ 'That is fine', you reply. 'Please wait until more of you arrive from '128.59.87.85
+Alas, the IPV4  Frog #0x000083bd only has 64 hops to live
+Frogs hop around.
+Frog #430 said that it was waiting for Frog #859
+I have an URGENT message to deliver to port 80. Can you prioritize my message over other frogs?
+Frogs hop around.
+Frogs hop around.
+Frogs hop around.
+A IPv4 Frog #0x000028ae arrives and requests, 'Please DO NOT FRAGMENT me. I have more coming behind me.'
+'Do you have any EXPLICIT CONGESTION NOTIFICATIONS?', you ask to the IPV4 Frog #0x000028ae.
+ 'No, I don't and I like traffic', the IPV4 Frog #0x000028ae replies
+ 'That is fine', you reply. 'Please wait until more of you arrive from '128.59.87.85
+ 'Halt, Frog #0x000028ae!', you shout. 'I need to know you aren't lost and just wandering like a croak. Show me your checksum!'
+ The IPv4 frog shows its checksum 0x00000000 but unfortunately nobody cares about it.
+Frogs hop around.
+In the sky, 429 frogs are still flying
+Frog #859 said that it was waiting for Frog #1288
+I have an URGENT message to deliver to port 80. Can you prioritize my message over other frogs?
+Frogs hop around.
+Frogs hop around.
+Frogs hop around.
+A IPv4 Frog #0x0000673b arrives and requests, 'Please DO NOT FRAGMENT me. I have more coming behind me.'
+'Do you have any EXPLICIT CONGESTION NOTIFICATIONS?', you ask to the IPV4 Frog #0x0000673b.
+ 'No, I don't and I like traffic', the IPV4 Frog #0x0000673b replies
+ 'That is fine', you reply. 'Please wait until more of you arrive from '128.59.87.85
+Alas, the IPV4  Frog #0x0000673b only has 64 hops to live
+Frogs hop around.
+In the sky, 429 frogs are still flying
+Frog #1288 said that it was waiting for Frog #1717
+I have an URGENT message to deliver to port 80. Can you prioritize my message over other frogs?
+Frogs hop around.
+Frogs hop around.
+Frogs hop around.
+A IPv4 Frog #0x0000bada arrives and requests, 'Please DO NOT FRAGMENT me. I have more coming behind me.'
+'Do you have any EXPLICIT CONGESTION NOTIFICATIONS?', you ask to the IPV4 Frog #0x0000bada.
+ 'No, I don't and I like traffic', the IPV4 Frog #0x0000bada replies
+ 'That is fine', you reply. 'Please wait until more of you arrive from '128.59.87.85
+Alas, the IPV4  Frog #0x0000bada only has 64 hops to live
+Frogs hop around.
+In the sky, 429 frogs are still flying
+A frog waved a flag 0x00000018 that only other TCP-speaking frogs can understand
+I have an URGENT message to deliver to port 80. Can you prioritize my message over other frogs?
+Frogs hop around.
+Frogs hop around.
+Frogs hop around.
+A IPv4 Frog #0x0000c728 arrives and requests, 'Please DO NOT FRAGMENT me. I have more coming behind me.'
+'Do you have any EXPLICIT CONGESTION NOTIFICATIONS?', you ask to the IPV4 Frog #0x0000c728.
+ 'No, I don't and I like traffic', the IPV4 Frog #0x0000c728 replies
+ 'That is fine', you reply. 'Please wait until more of you arrive from '128.59.87.85
+ 'Halt, Frog #0x0000c728!', you shout. 'I need to know you aren't lost and just wandering like a croak. Show me your checksum!'
+ The IPv4 frog shows its checksum 0x00000000 but unfortunately nobody cares about it.
+Frogs hop around.
+A frog waved a flag 0x00000018 that only other TCP-speaking frogs can understand
+I have an URGENT message to deliver to port 80. Can you prioritize my message over other frogs?
+Frogs hop around.
+Frogs hop around.
+Frogs hop around.
+A IPv4 Frog #0x0000983e arrives and requests, 'Please DO NOT FRAGMENT me. I have more coming behind me.'
+'Do you have any EXPLICIT CONGESTION NOTIFICATIONS?', you ask to the IPV4 Frog #0x0000983e.
+ 'No, I don't and I like traffic', the IPV4 Frog #0x0000983e replies
+ 'That is fine', you reply. 'Please wait until more of you arrive from '128.59.87.85
+ 'Halt, Frog #0x0000983e!', you shout. 'I need to know you aren't lost and just wandering like a croak. Show me your checksum!'
+ The IPv4 frog shows its checksum 0x00000000 but unfortunately nobody cares about it.
+Frogs hop around.
+A frog waved a flag 0x00000018 that only other TCP-speaking frogs can understand
+I have an URGENT message to deliver to port 80. Can you prioritize my message over other frogs?
+Frogs hop around.
+Frogs hop around.
+Frogs hop around.
+A IPv4 Frog #0x0000983f arrives and requests, 'Please DO NOT FRAGMENT me. I have more coming behind me.'
+'Do you have any EXPLICIT CONGESTION NOTIFICATIONS?', you ask to the IPV4 Frog #0x0000983f.
+ 'No, I don't and I like traffic', the IPV4 Frog #0x0000983f replies
+ 'That is fine', you reply. 'Please wait until more of you arrive from '128.59.87.85
+Alas, the IPV4  Frog #0x0000983f only has 64 hops to live
+Frogs hop around.
+A frog waved a flag 0x00000018 that only other TCP-speaking frogs can understand
+I have an URGENT message to deliver to port 80. Can you prioritize my message over other frogs?
+Frogs hop around.
+Frogs hop around.
+Frogs hop around.
+A IPv4 Frog #0x0000cb41 arrives and requests, 'Please DO NOT FRAGMENT me. I have more coming behind me.'
+'Do you have any EXPLICIT CONGESTION NOTIFICATIONS?', you ask to the IPV4 Frog #0x0000cb41.
+ 'No, I don't and I like traffic', the IPV4 Frog #0x0000cb41 replies
+ 'That is fine', you reply. 'Please wait until more of you arrive from '128.59.87.85
+ 'Halt, Frog #0x0000cb41!', you shout. 'I need to know you aren't lost and just wandering like a croak. Show me your checksum!'
+ The IPv4 frog shows its checksum 0x00000000 but unfortunately nobody cares about it.
+Frogs hop around.
+Frog #859 said that it was waiting for Frog #1288
+I have an URGENT message to deliver to port 80. Can you prioritize my message over other frogs?
+Frogs hop around.
+Frogs hop around.
+Frogs hop around.
+A IPv4 Frog #0x000004fc arrives and requests, 'Please DO NOT FRAGMENT me. I have more coming behind me.'
+'Do you have any EXPLICIT CONGESTION NOTIFICATIONS?', you ask to the IPV4 Frog #0x000004fc.
+ 'No, I don't and I like traffic', the IPV4 Frog #0x000004fc replies
+ 'That is fine', you reply. 'Please wait until more of you arrive from '128.59.87.85
+ 'Halt, Frog #0x000004fc!', you shout. 'I need to know you aren't lost and just wandering like a croak. Show me your checksum!'
+ The IPv4 frog shows its checksum 0x00000000 but unfortunately nobody cares about it.
+Frogs hop around.
+Frog #2575 said that it was waiting for Frog #3004
+I have an URGENT message to deliver to port 80. Can you prioritize my message over other frogs?
+Frogs hop around.
+Frogs hop around.
+Frogs hop around.
+A IPv4 Frog #0x0000ffa8 arrives and requests, 'Please DO NOT FRAGMENT me. I have more coming behind me.'
+'Do you have any EXPLICIT CONGESTION NOTIFICATIONS?', you ask to the IPV4 Frog #0x0000ffa8.
+ 'No, I don't and I like traffic', the IPV4 Frog #0x0000ffa8 replies
+ 'That is fine', you reply. 'Please wait until more of you arrive from '128.59.87.85
+ 'Halt, Frog #0x0000ffa8!', you shout. 'I need to know you aren't lost and just wandering like a croak. Show me your checksum!'
+ The IPv4 frog shows its checksum 0x00000000 but unfortunately nobody cares about it.
+Frogs hop around.
+Frog #1288 said that it was waiting for Frog #1717
+I have an URGENT message to deliver to port 80. Can you prioritize my message over other frogs?
+Frogs hop around.
+Frogs hop around.
+Frogs hop around.
+A IPv4 Frog #0x00005ede arrives and requests, 'Please DO NOT FRAGMENT me. I have more coming behind me.'
+'Do you have any EXPLICIT CONGESTION NOTIFICATIONS?', you ask to the IPV4 Frog #0x00005ede.
+ 'No, I don't and I like traffic', the IPV4 Frog #0x00005ede replies
+ 'That is fine', you reply. 'Please wait until more of you arrive from '128.59.87.85
+Alas, the IPV4  Frog #0x00005ede only has 64 hops to live
+Frogs hop around.
+A frog waved a flag 0x00000018 that only other TCP-speaking frogs can understand
+I have an URGENT message to deliver to port 80. Can you prioritize my message over other frogs?
+Frogs hop around.
+Frogs hop around.
+Frogs hop around.
+A IPv4 Frog #0x00003553 arrives and requests, 'Please DO NOT FRAGMENT me. I have more coming behind me.'
+'Do you have any EXPLICIT CONGESTION NOTIFICATIONS?', you ask to the IPV4 Frog #0x00003553.
+ 'No, I don't and I like traffic', the IPV4 Frog #0x00003553 replies
+ 'That is fine', you reply. 'Please wait until more of you arrive from '128.59.87.85
+ 'Halt, Frog #0x00003553!', you shout. 'I need to know you aren't lost and just wandering like a croak. Show me your checksum!'
+ The IPv4 frog shows its checksum 0x00000000 but unfortunately nobody cares about it.
+Frogs hop around.
+A frog waved a flag 0x00000018 that only other TCP-speaking frogs can understand
+I have an URGENT message to deliver to port 80. Can you prioritize my message over other frogs?
+Frogs hop around.
+Frogs hop around.
+Frogs hop around.
+A IPv4 Frog #0x0000f913 arrives and requests, 'Please DO NOT FRAGMENT me. I have more coming behind me.'
+'Do you have any EXPLICIT CONGESTION NOTIFICATIONS?', you ask to the IPV4 Frog #0x0000f913.
+ 'No, I don't and I like traffic', the IPV4 Frog #0x0000f913 replies
+ 'That is fine', you reply. 'Please wait until more of you arrive from '128.59.87.85
+ 'Halt, Frog #0x0000f913!', you shout. 'I need to know you aren't lost and just wandering like a croak. Show me your checksum!'
+ The IPv4 frog shows its checksum 0x00000000 but unfortunately nobody cares about it.
+Frogs hop around.
+In the sky, 429 frogs are still flying
+Frog #3433 said that it was waiting for Frog #3862
+I have an URGENT message to deliver to port 80. Can you prioritize my message over other frogs?
+Frogs hop around.
+Frogs hop around.
+Frogs hop around.
+A IPv4 Frog #0x000076e5 arrives and requests, 'Please DO NOT FRAGMENT me. I have more coming behind me.'
+'Do you have any EXPLICIT CONGESTION NOTIFICATIONS?', you ask to the IPV4 Frog #0x000076e5.
+ 'No, I don't and I like traffic', the IPV4 Frog #0x000076e5 replies
+ 'That is fine', you reply. 'Please wait until more of you arrive from '128.59.87.85
+ 'Halt, Frog #0x000076e5!', you shout. 'I need to know you aren't lost and just wandering like a croak. Show me your checksum!'
+ The IPv4 frog shows its checksum 0x00000000 but unfortunately nobody cares about it.
+Frogs hop around.
+Frog #3862 said that it was waiting for Frog #4291
+I have an URGENT message to deliver to port 80. Can you prioritize my message over other frogs?
+Frogs hop around.
+Frogs hop around.
+Frogs hop around.
+A IPv4 Frog #0x00008fb9 arrives and requests, 'Please DO NOT FRAGMENT me. I have more coming behind me.'
+'Do you have any EXPLICIT CONGESTION NOTIFICATIONS?', you ask to the IPV4 Frog #0x00008fb9.
+ 'No, I don't and I like traffic', the IPV4 Frog #0x00008fb9 replies
+ 'That is fine', you reply. 'Please wait until more of you arrive from '128.59.87.85
+ 'Halt, Frog #0x00008fb9!', you shout. 'I need to know you aren't lost and just wandering like a croak. Show me your checksum!'
+ The IPv4 frog shows its checksum 0x00000000 but unfortunately nobody cares about it.
+Frogs hop around.
+In the sky, 429 frogs are still flying
+Frog #4291 said that it was waiting for Frog #4720
+I have an URGENT message to deliver to port 80. Can you prioritize my message over other frogs?
+Frogs hop around.
+Frogs hop around.
+Frogs hop around.
+A IPv4 Frog #0x000016dd arrives and requests, 'Please DO NOT FRAGMENT me. I have more coming behind me.'
+'Do you have any EXPLICIT CONGESTION NOTIFICATIONS?', you ask to the IPV4 Frog #0x000016dd.
+ 'No, I don't and I like traffic', the IPV4 Frog #0x000016dd replies
+ 'That is fine', you reply. 'Please wait until more of you arrive from '128.59.87.85
+ 'Halt, Frog #0x000016dd!', you shout. 'I need to know you aren't lost and just wandering like a croak. Show me your checksum!'
+ The IPv4 frog shows its checksum 0x00000000 but unfortunately nobody cares about it.
+Frogs hop around.
+A frog waved a flag 0x00000018 that only other TCP-speaking frogs can understand
+I have an URGENT message to deliver to port 80. Can you prioritize my message over other frogs?
+Frogs hop around.
+Frogs hop around.
+Frogs hop around.
+A IPv4 Frog #0x0000d141 arrives and requests, 'Please DO NOT FRAGMENT me. I have more coming behind me.'
+'Do you have any EXPLICIT CONGESTION NOTIFICATIONS?', you ask to the IPV4 Frog #0x0000d141.
+ 'No, I don't and I like traffic', the IPV4 Frog #0x0000d141 replies
+ 'That is fine', you reply. 'Please wait until more of you arrive from '128.59.87.85
+Alas, the IPV4  Frog #0x0000d141 only has 64 hops to live
+Frogs hop around.
+A frog waved a flag 0x00000018 that only other TCP-speaking frogs can understand
+I have an URGENT message to deliver to port 80. Can you prioritize my message over other frogs?
+Frogs hop around.
+Frogs hop around.
+Frogs hop around.
+A IPv4 Frog #0x000034bd arrives and requests, 'Please DO NOT FRAGMENT me. I have more coming behind me.'
+'Do you have any EXPLICIT CONGESTION NOTIFICATIONS?', you ask to the IPV4 Frog #0x000034bd.
+ 'No, I don't and I like traffic', the IPV4 Frog #0x000034bd replies
+ 'That is fine', you reply. 'Please wait until more of you arrive from '128.59.87.85
+ 'Halt, Frog #0x000034bd!', you shout. 'I need to know you aren't lost and just wandering like a croak. Show me your checksum!'
+ The IPv4 frog shows its checksum 0x00000000 but unfortunately nobody cares about it.
+Frogs hop around.
+A frog waved a flag 0x00000018 that only other TCP-speaking frogs can understand
+I have an URGENT message to deliver to port 80. Can you prioritize my message over other frogs?
+Frogs hop around.
+Frogs hop around.
+Frogs hop around.
+A IPv4 Frog #0x00008abb arrives and requests, 'Please DO NOT FRAGMENT me. I have more coming behind me.'
+'Do you have any EXPLICIT CONGESTION NOTIFICATIONS?', you ask to the IPV4 Frog #0x00008abb.
+ 'No, I don't and I like traffic', the IPV4 Frog #0x00008abb replies
+ 'That is fine', you reply. 'Please wait until more of you arrive from '128.59.87.85
+ 'Halt, Frog #0x00008abb!', you shout. 'I need to know you aren't lost and just wandering like a croak. Show me your checksum!'
+ The IPv4 frog shows its checksum 0x00000000 but unfortunately nobody cares about it.
+Frogs hop around.
+In the sky, 429 frogs are still flying
+Frog #6007 said that it was waiting for Frog #6436
+I have an URGENT message to deliver to port 80. Can you prioritize my message over other frogs?
+Frogs hop around.
+Frogs hop around.
+Frogs hop around.
+A IPv4 Frog #0x000032fb arrives and requests, 'Please DO NOT FRAGMENT me. I have more coming behind me.'
+'Do you have any EXPLICIT CONGESTION NOTIFICATIONS?', you ask to the IPV4 Frog #0x000032fb.
+ 'No, I don't and I like traffic', the IPV4 Frog #0x000032fb replies
+ 'That is fine', you reply. 'Please wait until more of you arrive from '128.59.87.85
+ 'Halt, Frog #0x000032fb!', you shout. 'I need to know you aren't lost and just wandering like a croak. Show me your checksum!'
+ The IPv4 frog shows its checksum 0x00000000 but unfortunately nobody cares about it.
+Frogs hop around.
+A frog waved a flag 0x00000018 that only other TCP-speaking frogs can understand
+I have an URGENT message to deliver to port 80. Can you prioritize my message over other frogs?
+Frogs hop around.
+Frogs hop around.
+Frogs hop around.
+A IPv4 Frog #0x0000ba7f arrives and requests, 'Please DO NOT FRAGMENT me. I have more coming behind me.'
+'Do you have any EXPLICIT CONGESTION NOTIFICATIONS?', you ask to the IPV4 Frog #0x0000ba7f.
+ 'No, I don't and I like traffic', the IPV4 Frog #0x0000ba7f replies
+ 'That is fine', you reply. 'Please wait until more of you arrive from '128.59.87.85
+Alas, the IPV4  Frog #0x0000ba7f only has 64 hops to live
+Frogs hop around.
+In the sky, 429 frogs are still flying
+Frog #6865 said that it was waiting for Frog #7294
+I have an URGENT message to deliver to port 80. Can you prioritize my message over other frogs?
+Frogs hop around.
+Frogs hop around.
+Frogs hop around.
+A IPv4 Frog #0x0000dfb6 arrives and requests, 'Please DO NOT FRAGMENT me. I have more coming behind me.'
+'Do you have any EXPLICIT CONGESTION NOTIFICATIONS?', you ask to the IPV4 Frog #0x0000dfb6.
+ 'No, I don't and I like traffic', the IPV4 Frog #0x0000dfb6 replies
+ 'That is fine', you reply. 'Please wait until more of you arrive from '128.59.87.85
+Alas, the IPV4  Frog #0x0000dfb6 only has 64 hops to live
+Frogs hop around.
+In the sky, 429 frogs are still flying
+A frog waved a flag 0x00000018 that only other TCP-speaking frogs can understand
+I have an URGENT message to deliver to port 80. Can you prioritize my message over other frogs?
+Frogs hop around.
+Frogs hop around.
+Frogs hop around.
+A IPv4 Frog #0x0000ca42 arrives and requests, 'Please DO NOT FRAGMENT me. I have more coming behind me.'
+'Do you have any EXPLICIT CONGESTION NOTIFICATIONS?', you ask to the IPV4 Frog #0x0000ca42.
+ 'No, I don't and I like traffic', the IPV4 Frog #0x0000ca42 replies
+ 'That is fine', you reply. 'Please wait until more of you arrive from '128.59.87.85
+Alas, the IPV4  Frog #0x0000ca42 only has 64 hops to live
+Frogs hop around.
+A frog waved a flag 0x00000018 that only other TCP-speaking frogs can understand
+I have an URGENT message to deliver to port 80. Can you prioritize my message over other frogs?
+Frogs hop around.
+Frogs hop around.
+Frogs hop around.
+A IPv4 Frog #0x00008c36 arrives and requests, 'Please DO NOT FRAGMENT me. I have more coming behind me.'
+'Do you have any EXPLICIT CONGESTION NOTIFICATIONS?', you ask to the IPV4 Frog #0x00008c36.
+ 'No, I don't and I like traffic', the IPV4 Frog #0x00008c36 replies
+ 'That is fine', you reply. 'Please wait until more of you arrive from '128.59.87.85
+Alas, the IPV4  Frog #0x00008c36 only has 64 hops to live
+Frogs hop around.
+A frog waved a flag 0x00000018 that only other TCP-speaking frogs can understand
+I have an URGENT message to deliver to port 80. Can you prioritize my message over other frogs?
+Frogs hop around.
+Frogs hop around.
+Frogs hop around.
+A IPv4 Frog #0x00006cb0 arrives and requests, 'Please DO NOT FRAGMENT me. I have more coming behind me.'
+'Do you have any EXPLICIT CONGESTION NOTIFICATIONS?', you ask to the IPV4 Frog #0x00006cb0.
+ 'No, I don't and I like traffic', the IPV4 Frog #0x00006cb0 replies
+ 'That is fine', you reply. 'Please wait until more of you arrive from '128.59.87.85
+Alas, the IPV4  Frog #0x00006cb0 only has 64 hops to live
+Frogs hop around.
+Frog #8581 said that it was waiting for Frog #9010
+I have an URGENT message to deliver to port 80. Can you prioritize my message over other frogs?
+Frogs hop around.
+Frogs hop around.
+Frogs hop around.
+A IPv4 Frog #0x0000db98 arrives and requests, 'Please DO NOT FRAGMENT me. I have more coming behind me.'
+'Do you have any EXPLICIT CONGESTION NOTIFICATIONS?', you ask to the IPV4 Frog #0x0000db98.
+ 'No, I don't and I like traffic', the IPV4 Frog #0x0000db98 replies
+ 'That is fine', you reply. 'Please wait until more of you arrive from '128.59.87.85
+Alas, the IPV4  Frog #0x0000db98 only has 64 hops to live
+Frogs hop around.
+A frog waved a flag 0x00000018 that only other TCP-speaking frogs can understand
+I have an URGENT message to deliver to port 80. Can you prioritize my message over other frogs?
+Frogs hop around.
+Frogs hop around.
+Frogs hop around.
+A IPv4 Frog #0x0000f53c arrives and requests, 'Please DO NOT FRAGMENT me. I have more coming behind me.'
+'Do you have any EXPLICIT CONGESTION NOTIFICATIONS?', you ask to the IPV4 Frog #0x0000f53c.
+ 'No, I don't and I like traffic', the IPV4 Frog #0x0000f53c replies
+ 'That is fine', you reply. 'Please wait until more of you arrive from '128.59.87.85
+Alas, the IPV4  Frog #0x0000f53c only has 64 hops to live
+Frogs hop around.
+A frog waved a flag 0x00000018 that only other TCP-speaking frogs can understand
+I have an URGENT message to deliver to port 80. Can you prioritize my message over other frogs?
+Frogs hop around.
+Frogs hop around.
+Frogs hop around.
+A IPv4 Frog #0x000063d0 arrives and requests, 'Please DO NOT FRAGMENT me. I have more coming behind me.'
+'Do you have any EXPLICIT CONGESTION NOTIFICATIONS?', you ask to the IPV4 Frog #0x000063d0.
+ 'No, I don't and I like traffic', the IPV4 Frog #0x000063d0 replies
+ 'That is fine', you reply. 'Please wait until more of you arrive from '128.59.87.85
+ 'Halt, Frog #0x000063d0!', you shout. 'I need to know you aren't lost and just wandering like a croak. Show me your checksum!'
+ The IPv4 frog shows its checksum 0x00000000 but unfortunately nobody cares about it.
+Frogs hop around.
+Frog #9868 said that it was waiting for Frog #10297
+I have an URGENT message to deliver to port 80. Can you prioritize my message over other frogs?
+Frogs hop around.
+Frogs hop around.
+Frogs hop around.
+A IPv4 Frog #0x00002092 arrives and requests, 'Please DO NOT FRAGMENT me. I have more coming behind me.'
+'Do you have any EXPLICIT CONGESTION NOTIFICATIONS?', you ask to the IPV4 Frog #0x00002092.
+ 'No, I don't and I like traffic', the IPV4 Frog #0x00002092 replies
+ 'That is fine', you reply. 'Please wait until more of you arrive from '128.59.87.85
+ 'Halt, Frog #0x00002092!', you shout. 'I need to know you aren't lost and just wandering like a croak. Show me your checksum!'
+ The IPv4 frog shows its checksum 0x00000000 but unfortunately nobody cares about it.
+Frogs hop around.
+Frog #10297 said that it was waiting for Frog #10726
+I have an URGENT message to deliver to port 80. Can you prioritize my message over other frogs?
+Frogs hop around.
+Frogs hop around.
+Frogs hop around.
+A IPv4 Frog #0x00001886 arrives and requests, 'Please DO NOT FRAGMENT me. I have more coming behind me.'
+'Do you have any EXPLICIT CONGESTION NOTIFICATIONS?', you ask to the IPV4 Frog #0x00001886.
+ 'No, I don't and I like traffic', the IPV4 Frog #0x00001886 replies
+ 'That is fine', you reply. 'Please wait until more of you arrive from '128.59.87.85
+ 'Halt, Frog #0x00001886!', you shout. 'I need to know you aren't lost and just wandering like a croak. Show me your checksum!'
+ The IPv4 frog shows its checksum 0x00000000 but unfortunately nobody cares about it.
+Frogs hop around.
+A frog waved a flag 0x00000018 that only other TCP-speaking frogs can understand
+I have an URGENT message to deliver to port 80. Can you prioritize my message over other frogs?
+Frogs hop around.
+Frogs hop around.
+Frogs hop around.
+A IPv4 Frog #0x0000309f arrives and requests, 'Please DO NOT FRAGMENT me. I have more coming behind me.'
+'Do you have any EXPLICIT CONGESTION NOTIFICATIONS?', you ask to the IPV4 Frog #0x0000309f.
+ 'No, I don't and I like traffic', the IPV4 Frog #0x0000309f replies
+ 'That is fine', you reply. 'Please wait until more of you arrive from '128.59.87.85
+Alas, the IPV4  Frog #0x0000309f only has 64 hops to live
+Frogs hop around.
+Frog #11155 said that it was waiting for Frog #11584
+I have an URGENT message to deliver to port 80. Can you prioritize my message over other frogs?
+Frogs hop around.
+Frogs hop around.
+Frogs hop around.
+A IPv4 Frog #0x000055e8 arrives and requests, 'Please DO NOT FRAGMENT me. I have more coming behind me.'
+'Do you have any EXPLICIT CONGESTION NOTIFICATIONS?', you ask to the IPV4 Frog #0x000055e8.
+ 'No, I don't and I like traffic', the IPV4 Frog #0x000055e8 replies
+ 'That is fine', you reply. 'Please wait until more of you arrive from '128.59.87.85
+Alas, the IPV4  Frog #0x000055e8 only has 64 hops to live
+Frogs hop around.
+Frog #11584 said that it was waiting for Frog #12013
+I have an URGENT message to deliver to port 80. Can you prioritize my message over other frogs?
+Frogs hop around.
+Frogs hop around.
+Frogs hop around.
+A IPv4 Frog #0x000059ec arrives and requests, 'Please DO NOT FRAGMENT me. I have more coming behind me.'
+'Do you have any EXPLICIT CONGESTION NOTIFICATIONS?', you ask to the IPV4 Frog #0x000059ec.
+ 'No, I don't and I like traffic', the IPV4 Frog #0x000059ec replies
+ 'That is fine', you reply. 'Please wait until more of you arrive from '128.59.87.85
+ 'Halt, Frog #0x000059ec!', you shout. 'I need to know you aren't lost and just wandering like a croak. Show me your checksum!'
+ The IPv4 frog shows its checksum 0x00000000 but unfortunately nobody cares about it.
+Frogs hop around.
+Frog #12013 said that it was waiting for Frog #12442
+I have an URGENT message to deliver to port 80. Can you prioritize my message over other frogs?
+Frogs hop around.
+Frogs hop around.
+Frogs hop around.
+A IPv4 Frog #0x000017be arrives and requests, 'Please DO NOT FRAGMENT me. I have more coming behind me.'
+'Do you have any EXPLICIT CONGESTION NOTIFICATIONS?', you ask to the IPV4 Frog #0x000017be.
+ 'No, I don't and I like traffic', the IPV4 Frog #0x000017be replies
+ 'That is fine', you reply. 'Please wait until more of you arrive from '128.59.87.85
+ 'Halt, Frog #0x000017be!', you shout. 'I need to know you aren't lost and just wandering like a croak. Show me your checksum!'
+ The IPv4 frog shows its checksum 0x00000000 but unfortunately nobody cares about it.
+Frogs hop around.
+A frog waved a flag 0x00000018 that only other TCP-speaking frogs can understand
+I have an URGENT message to deliver to port 80. Can you prioritize my message over other frogs?
+Frogs hop around.
+Frogs hop around.
+Frogs hop around.
+A IPv4 Frog #0x0000c1c2 arrives and requests, 'Please DO NOT FRAGMENT me. I have more coming behind me.'
+'Do you have any EXPLICIT CONGESTION NOTIFICATIONS?', you ask to the IPV4 Frog #0x0000c1c2.
+ 'No, I don't and I like traffic', the IPV4 Frog #0x0000c1c2 replies
+ 'That is fine', you reply. 'Please wait until more of you arrive from '128.59.87.85
+Alas, the IPV4  Frog #0x0000c1c2 only has 64 hops to live
+Frogs hop around.
+In the sky, 429 frogs are still flying
+Frog #12871 said that it was waiting for Frog #13300
+I have an URGENT message to deliver to port 80. Can you prioritize my message over other frogs?
+Frogs hop around.
+Frogs hop around.
+Frogs hop around.
+A IPv4 Frog #0x00009d91 arrives and requests, 'Please DO NOT FRAGMENT me. I have more coming behind me.'
+'Do you have any EXPLICIT CONGESTION NOTIFICATIONS?', you ask to the IPV4 Frog #0x00009d91.
+ 'No, I don't and I like traffic', the IPV4 Frog #0x00009d91 replies
+ 'That is fine', you reply. 'Please wait until more of you arrive from '128.59.87.85
+Alas, the IPV4  Frog #0x00009d91 only has 64 hops to live
+Frogs hop around.
+A frog waved a flag 0x00000018 that only other TCP-speaking frogs can understand
+I have an URGENT message to deliver to port 80. Can you prioritize my message over other frogs?
+Frogs hop around.
+Frogs hop around.
+Frogs hop around.
+A IPv4 Frog #0x000001c2 arrives and requests, 'Please DO NOT FRAGMENT me. I have more coming behind me.'
+'Do you have any EXPLICIT CONGESTION NOTIFICATIONS?', you ask to the IPV4 Frog #0x000001c2.
+ 'No, I don't and I like traffic', the IPV4 Frog #0x000001c2 replies
+ 'That is fine', you reply. 'Please wait until more of you arrive from '128.59.87.85
+Alas, the IPV4  Frog #0x000001c2 only has 64 hops to live
+Frogs hop around.
+A frog waved a flag 0x00000018 that only other TCP-speaking frogs can understand
+I have an URGENT message to deliver to port 80. Can you prioritize my message over other frogs?
+Frogs hop around.
+Frogs hop around.
+Frogs hop around.
+A IPv4 Frog #0x0000dcae arrives and requests, 'Please DO NOT FRAGMENT me. I have more coming behind me.'
+'Do you have any EXPLICIT CONGESTION NOTIFICATIONS?', you ask to the IPV4 Frog #0x0000dcae.
+ 'No, I don't and I like traffic', the IPV4 Frog #0x0000dcae replies
+ 'That is fine', you reply. 'Please wait until more of you arrive from '128.59.87.85
+ 'Halt, Frog #0x0000dcae!', you shout. 'I need to know you aren't lost and just wandering like a croak. Show me your checksum!'
+ The IPv4 frog shows its checksum 0x00000000 but unfortunately nobody cares about it.
+Frogs hop around.
+A frog waved a flag 0x00000018 that only other TCP-speaking frogs can understand
+I have an URGENT message to deliver to port 80. Can you prioritize my message over other frogs?
+Frogs hop around.
+Frogs hop around.
+Frogs hop around.
+A IPv4 Frog #0x00001074 arrives and requests, 'Please DO NOT FRAGMENT me. I have more coming behind me.'
+'Do you have any EXPLICIT CONGESTION NOTIFICATIONS?', you ask to the IPV4 Frog #0x00001074.
+ 'No, I don't and I like traffic', the IPV4 Frog #0x00001074 replies
+ 'That is fine', you reply. 'Please wait until more of you arrive from '128.59.87.85
+ 'Halt, Frog #0x00001074!', you shout. 'I need to know you aren't lost and just wandering like a croak. Show me your checksum!'
+ The IPv4 frog shows its checksum 0x00000000 but unfortunately nobody cares about it.
+Frogs hop around.
+Frog #14587 said that it was waiting for Frog #15016
+I have an URGENT message to deliver to port 80. Can you prioritize my message over other frogs?
+Frogs hop around.
+Frogs hop around.
+Frogs hop around.
+A IPv4 Frog #0x000060a7 arrives and requests, 'Please DO NOT FRAGMENT me. I have more coming behind me.'
+'Do you have any EXPLICIT CONGESTION NOTIFICATIONS?', you ask to the IPV4 Frog #0x000060a7.
+ 'No, I don't and I like traffic', the IPV4 Frog #0x000060a7 replies
+ 'That is fine', you reply. 'Please wait until more of you arrive from '128.59.87.85
+ 'Halt, Frog #0x000060a7!', you shout. 'I need to know you aren't lost and just wandering like a croak. Show me your checksum!'
+ The IPv4 frog shows its checksum 0x00000000 but unfortunately nobody cares about it.
+Frogs hop around.
+In the sky, 429 frogs are still flying
+A frog waved a flag 0x00000018 that only other TCP-speaking frogs can understand
+I have an URGENT message to deliver to port 80. Can you prioritize my message over other frogs?
+Frogs hop around.
+Frogs hop around.
+Frogs hop around.
+A IPv4 Frog #0x00004aff arrives and requests, 'Please DO NOT FRAGMENT me. I have more coming behind me.'
+'Do you have any EXPLICIT CONGESTION NOTIFICATIONS?', you ask to the IPV4 Frog #0x00004aff.
+ 'No, I don't and I like traffic', the IPV4 Frog #0x00004aff replies
+ 'That is fine', you reply. 'Please wait until more of you arrive from '128.59.87.85
+Alas, the IPV4  Frog #0x00004aff only has 64 hops to live
+Frogs hop around.
+A frog waved a flag 0x00000018 that only other TCP-speaking frogs can understand
+I have an URGENT message to deliver to port 80. Can you prioritize my message over other frogs?
+Frogs hop around.
+Frogs hop around.
+Frogs hop around.
+A IPv4 Frog #0x000001c7 arrives and requests, 'Please DO NOT FRAGMENT me. I have more coming behind me.'
+'Do you have any EXPLICIT CONGESTION NOTIFICATIONS?', you ask to the IPV4 Frog #0x000001c7.
+ 'No, I don't and I like traffic', the IPV4 Frog #0x000001c7 replies
+ 'That is fine', you reply. 'Please wait until more of you arrive from '128.59.87.85
+ 'Halt, Frog #0x000001c7!', you shout. 'I need to know you aren't lost and just wandering like a croak. Show me your checksum!'
+ The IPv4 frog shows its checksum 0x00000000 but unfortunately nobody cares about it.
+Frogs hop around.
+In the sky, 429 frogs are still flying
+A frog waved a flag 0x00000018 that only other TCP-speaking frogs can understand
+I have an URGENT message to deliver to port 80. Can you prioritize my message over other frogs?
+Frogs hop around.
+Frogs hop around.
+Frogs hop around.
+A IPv4 Frog #0x00004a27 arrives and requests, 'Please DO NOT FRAGMENT me. I have more coming behind me.'
+'Do you have any EXPLICIT CONGESTION NOTIFICATIONS?', you ask to the IPV4 Frog #0x00004a27.
+ 'No, I don't and I like traffic', the IPV4 Frog #0x00004a27 replies
+ 'That is fine', you reply. 'Please wait until more of you arrive from '128.59.87.85
+Alas, the IPV4  Frog #0x00004a27 only has 64 hops to live
+Frogs hop around.
+A frog waved a flag 0x00000018 that only other TCP-speaking frogs can understand
+I have an URGENT message to deliver to port 80. Can you prioritize my message over other frogs?
+Frogs hop around.
+Frogs hop around.
+Frogs hop around.
+A IPv4 Frog #0x00008445 arrives and requests, 'Please DO NOT FRAGMENT me. I have more coming behind me.'
+'Do you have any EXPLICIT CONGESTION NOTIFICATIONS?', you ask to the IPV4 Frog #0x00008445.
+ 'No, I don't and I like traffic', the IPV4 Frog #0x00008445 replies
+ 'That is fine', you reply. 'Please wait until more of you arrive from '128.59.87.85
+ 'Halt, Frog #0x00008445!', you shout. 'I need to know you aren't lost and just wandering like a croak. Show me your checksum!'
+ The IPv4 frog shows its checksum 0x00000000 but unfortunately nobody cares about it.
+Frogs hop around.
+In the sky, 429 frogs are still flying
+Frog #16732 said that it was waiting for Frog #17161
+I have an URGENT message to deliver to port 80. Can you prioritize my message over other frogs?
+Frogs hop around.
+Frogs hop around.
+Frogs hop around.
+A IPv4 Frog #0x00001f88 arrives and requests, 'Please DO NOT FRAGMENT me. I have more coming behind me.'
+'Do you have any EXPLICIT CONGESTION NOTIFICATIONS?', you ask to the IPV4 Frog #0x00001f88.
+ 'No, I don't and I like traffic', the IPV4 Frog #0x00001f88 replies
+ 'That is fine', you reply. 'Please wait until more of you arrive from '128.59.87.85
+Alas, the IPV4  Frog #0x00001f88 only has 64 hops to live
+Frogs hop around.
+In the sky, 429 frogs are still flying
+Frog #17161 said that it was waiting for Frog #17590
+I have an URGENT message to deliver to port 80. Can you prioritize my message over other frogs?
+Frogs hop around.
+Frogs hop around.
+Frogs hop around.
+A IPv4 Frog #0x00008383 arrives and requests, 'Please DO NOT FRAGMENT me. I have more coming behind me.'
+'Do you have any EXPLICIT CONGESTION NOTIFICATIONS?', you ask to the IPV4 Frog #0x00008383.
+ 'No, I don't and I like traffic', the IPV4 Frog #0x00008383 replies
+ 'That is fine', you reply. 'Please wait until more of you arrive from '128.59.87.85
+ 'Halt, Frog #0x00008383!', you shout. 'I need to know you aren't lost and just wandering like a croak. Show me your checksum!'
+ The IPv4 frog shows its checksum 0x00000000 but unfortunately nobody cares about it.
+Frogs hop around.
+In the sky, 429 frogs are still flying
+A frog waved a flag 0x00000018 that only other TCP-speaking frogs can understand
+I have an URGENT message to deliver to port 80. Can you prioritize my message over other frogs?
+Frogs hop around.
+Frogs hop around.
+Frogs hop around.
+A IPv4 Frog #0x00001bf6 arrives and requests, 'Please DO NOT FRAGMENT me. I have more coming behind me.'
+'Do you have any EXPLICIT CONGESTION NOTIFICATIONS?', you ask to the IPV4 Frog #0x00001bf6.
+ 'No, I don't and I like traffic', the IPV4 Frog #0x00001bf6 replies
+ 'That is fine', you reply. 'Please wait until more of you arrive from '128.59.87.85
+ 'Halt, Frog #0x00001bf6!', you shout. 'I need to know you aren't lost and just wandering like a croak. Show me your checksum!'
+ The IPv4 frog shows its checksum 0x00000000 but unfortunately nobody cares about it.
+Frogs hop around.
+A frog waved a flag 0x00000018 that only other TCP-speaking frogs can understand
+I have an URGENT message to deliver to port 80. Can you prioritize my message over other frogs?
+Frogs hop around.
+Frogs hop around.
+Frogs hop around.
+A IPv4 Frog #0x000041df arrives and requests, 'Please DO NOT FRAGMENT me. I have more coming behind me.'
+'Do you have any EXPLICIT CONGESTION NOTIFICATIONS?', you ask to the IPV4 Frog #0x000041df.
+ 'No, I don't and I like traffic', the IPV4 Frog #0x000041df replies
+ 'That is fine', you reply. 'Please wait until more of you arrive from '128.59.87.85
+ 'Halt, Frog #0x000041df!', you shout. 'I need to know you aren't lost and just wandering like a croak. Show me your checksum!'
+ The IPv4 frog shows its checksum 0x00000000 but unfortunately nobody cares about it.
+Frogs hop around.
+In the sky, 429 frogs are still flying
+A frog waved a flag 0x00000018 that only other TCP-speaking frogs can understand
+I have an URGENT message to deliver to port 80. Can you prioritize my message over other frogs?
+Frogs hop around.
+Frogs hop around.
+Frogs hop around.
+A IPv4 Frog #0x00005852 arrives and requests, 'Please DO NOT FRAGMENT me. I have more coming behind me.'
+'Do you have any EXPLICIT CONGESTION NOTIFICATIONS?', you ask to the IPV4 Frog #0x00005852.
+ 'No, I don't and I like traffic', the IPV4 Frog #0x00005852 replies
+ 'That is fine', you reply. 'Please wait until more of you arrive from '128.59.87.85
+ 'Halt, Frog #0x00005852!', you shout. 'I need to know you aren't lost and just wandering like a croak. Show me your checksum!'
+ The IPv4 frog shows its checksum 0x00000000 but unfortunately nobody cares about it.
+Frogs hop around.
+Frog #18877 said that it was waiting for Frog #19306
+I have an URGENT message to deliver to port 80. Can you prioritize my message over other frogs?
+Frogs hop around.
+Frogs hop around.
+Frogs hop around.
+A IPv4 Frog #0x00008916 arrives and requests, 'Please DO NOT FRAGMENT me. I have more coming behind me.'
+'Do you have any EXPLICIT CONGESTION NOTIFICATIONS?', you ask to the IPV4 Frog #0x00008916.
+ 'No, I don't and I like traffic', the IPV4 Frog #0x00008916 replies
+ 'That is fine', you reply. 'Please wait until more of you arrive from '128.59.87.85
+Alas, the IPV4  Frog #0x00008916 only has 64 hops to live
+Frogs hop around.
+Frog #19306 said that it was waiting for Frog #19735
+I have an URGENT message to deliver to port 80. Can you prioritize my message over other frogs?
+Frogs hop around.
+Frogs hop around.
+Frogs hop around.
+A IPv4 Frog #0x00000b06 arrives and requests, 'Please DO NOT FRAGMENT me. I have more coming behind me.'
+'Do you have any EXPLICIT CONGESTION NOTIFICATIONS?', you ask to the IPV4 Frog #0x00000b06.
+ 'No, I don't and I like traffic', the IPV4 Frog #0x00000b06 replies
+ 'That is fine', you reply. 'Please wait until more of you arrive from '128.59.87.85
+ 'Halt, Frog #0x00000b06!', you shout. 'I need to know you aren't lost and just wandering like a croak. Show me your checksum!'
+ The IPv4 frog shows its checksum 0x00000000 but unfortunately nobody cares about it.
+Frogs hop around.
+A frog waved a flag 0x00000018 that only other TCP-speaking frogs can understand
+I have an URGENT message to deliver to port 80. Can you prioritize my message over other frogs?
+Frogs hop around.
+Frogs hop around.
+Frogs hop around.
+A IPv4 Frog #0x000036ad arrives and requests, 'Please DO NOT FRAGMENT me. I have more coming behind me.'
+'Do you have any EXPLICIT CONGESTION NOTIFICATIONS?', you ask to the IPV4 Frog #0x000036ad.
+ 'No, I don't and I like traffic', the IPV4 Frog #0x000036ad replies
+ 'That is fine', you reply. 'Please wait until more of you arrive from '128.59.87.85
+ 'Halt, Frog #0x000036ad!', you shout. 'I need to know you aren't lost and just wandering like a croak. Show me your checksum!'
+ The IPv4 frog shows its checksum 0x00000000 but unfortunately nobody cares about it.
+Frogs hop around.
+In the sky, 429 frogs are still flying
+Frog #20164 said that it was waiting for Frog #20593
+I have an URGENT message to deliver to port 80. Can you prioritize my message over other frogs?
+Frogs hop around.
+Frogs hop around.
+Frogs hop around.
+A IPv4 Frog #0x0000a88a arrives and requests, 'Please DO NOT FRAGMENT me. I have more coming behind me.'
+'Do you have any EXPLICIT CONGESTION NOTIFICATIONS?', you ask to the IPV4 Frog #0x0000a88a.
+ 'No, I don't and I like traffic', the IPV4 Frog #0x0000a88a replies
+ 'That is fine', you reply. 'Please wait until more of you arrive from '128.59.87.85
+Alas, the IPV4  Frog #0x0000a88a only has 64 hops to live
+Frogs hop around.
+A frog waved a flag 0x00000018 that only other TCP-speaking frogs can understand
+I have an URGENT message to deliver to port 80. Can you prioritize my message over other frogs?
+Frogs hop around.
+Frogs hop around.
+Frogs hop around.
+A IPv4 Frog #0x000061e8 arrives and requests, 'Please DO NOT FRAGMENT me. I have more coming behind me.'
+'Do you have any EXPLICIT CONGESTION NOTIFICATIONS?', you ask to the IPV4 Frog #0x000061e8.
+ 'No, I don't and I like traffic', the IPV4 Frog #0x000061e8 replies
+ 'That is fine', you reply. 'Please wait until more of you arrive from '128.59.87.85
+Alas, the IPV4  Frog #0x000061e8 only has 64 hops to live
+Frogs hop around.
+A frog waved a flag 0x00000018 that only other TCP-speaking frogs can understand
+I have an URGENT message to deliver to port 80. Can you prioritize my message over other frogs?
+Frogs hop around.
+Frogs hop around.
+Frogs hop around.
+A IPv4 Frog #0x000089d9 arrives and requests, 'Please DO NOT FRAGMENT me. I have more coming behind me.'
+'Do you have any EXPLICIT CONGESTION NOTIFICATIONS?', you ask to the IPV4 Frog #0x000089d9.
+ 'No, I don't and I like traffic', the IPV4 Frog #0x000089d9 replies
+ 'That is fine', you reply. 'Please wait until more of you arrive from '128.59.87.85
+Alas, the IPV4  Frog #0x000089d9 only has 64 hops to live
+Frogs hop around.
+Frog #1 said that it was waiting for Frog #430
+I have an URGENT message to deliver to port 80. Can you prioritize my message over other frogs?
+Frogs hop around.
+Frogs hop around.
+Frogs hop around.
+A IPv4 Frog #0x00003138 arrives and requests, 'Please DO NOT FRAGMENT me. I have more coming behind me.'
+'Do you have any EXPLICIT CONGESTION NOTIFICATIONS?', you ask to the IPV4 Frog #0x00003138.
+ 'No, I don't and I like traffic', the IPV4 Frog #0x00003138 replies
+ 'That is fine', you reply. 'Please wait until more of you arrive from '128.59.87.85
+Alas, the IPV4  Frog #0x00003138 only has 64 hops to live
+Frogs hop around.
+Frog #1 said that it was waiting for Frog #430
+I have an URGENT message to deliver to port 80. Can you prioritize my message over other frogs?
+Frogs hop around.
+Frogs hop around.
+Frogs hop around.
+A IPv4 Frog #0x00007055 arrives and requests, 'Please DO NOT FRAGMENT me. I have more coming behind me.'
+'Do you have any EXPLICIT CONGESTION NOTIFICATIONS?', you ask to the IPV4 Frog #0x00007055.
+ 'No, I don't and I like traffic', the IPV4 Frog #0x00007055 replies
+ 'That is fine', you reply. 'Please wait until more of you arrive from '128.59.87.85
+Alas, the IPV4  Frog #0x00007055 only has 64 hops to live
+Frogs hop around.
+Frog #1 said that it was waiting for Frog #394
+I have an URGENT message to deliver to port 80. Can you prioritize my message over other frogs?
+Frogs hop around.
+Frogs hop around.
+Frogs hop around.
+A IPv4 Frog #0x00009f3c arrives and requests, 'Please DO NOT FRAGMENT me. I have more coming behind me.'
+'Do you have any EXPLICIT CONGESTION NOTIFICATIONS?', you ask to the IPV4 Frog #0x00009f3c.
+ 'No, I don't and I like traffic', the IPV4 Frog #0x00009f3c replies
+ 'That is fine', you reply. 'Please wait until more of you arrive from '128.59.87.85
+ 'Halt, Frog #0x00009f3c!', you shout. 'I need to know you aren't lost and just wandering like a croak. Show me your checksum!'
+ The IPv4 frog shows its checksum 0x00000000 but unfortunately nobody cares about it.
+Frogs hop around.
+Frog #394 said that it was waiting for Frog #793
+I have an URGENT message to deliver to port 80. Can you prioritize my message over other frogs?
+Frogs hop around.
+Frogs hop around.
+Frogs hop around.
+A IPv4 Frog #0x00000690 arrives and requests, 'Please DO NOT FRAGMENT me. I have more coming behind me.'
+'Do you have any EXPLICIT CONGESTION NOTIFICATIONS?', you ask to the IPV4 Frog #0x00000690.
+ 'No, I don't and I like traffic', the IPV4 Frog #0x00000690 replies
+ 'That is fine', you reply. 'Please wait until more of you arrive from '128.59.87.85
+ 'Halt, Frog #0x00000690!', you shout. 'I need to know you aren't lost and just wandering like a croak. Show me your checksum!'
+ The IPv4 frog shows its checksum 0x00000000 but unfortunately nobody cares about it.
+Frogs hop around.
+In the sky, 400 frogs are still flying
+Frog #793 said that it was waiting for Frog #1193
+I have an URGENT message to deliver to port 80. Can you prioritize my message over other frogs?
+Frogs hop around.
+Frogs hop around.
+Frogs hop around.
+A IPv4 Frog #0x0000fc6b arrives and requests, 'Please DO NOT FRAGMENT me. I have more coming behind me.'
+'Do you have any EXPLICIT CONGESTION NOTIFICATIONS?', you ask to the IPV4 Frog #0x0000fc6b.
+ 'No, I don't and I like traffic', the IPV4 Frog #0x0000fc6b replies
+ 'That is fine', you reply. 'Please wait until more of you arrive from '128.59.87.85
+Alas, the IPV4  Frog #0x0000fc6b only has 64 hops to live
+Frogs hop around.
+Frog #1193 said that it was waiting for Frog #1593
+I have an URGENT message to deliver to port 80. Can you prioritize my message over other frogs?
+Frogs hop around.
+Frogs hop around.
+Frogs hop around.
+A IPv4 Frog #0x0000eec5 arrives and requests, 'Please DO NOT FRAGMENT me. I have more coming behind me.'
+'Do you have any EXPLICIT CONGESTION NOTIFICATIONS?', you ask to the IPV4 Frog #0x0000eec5.
+ 'No, I don't and I like traffic', the IPV4 Frog #0x0000eec5 replies
+ 'That is fine', you reply. 'Please wait until more of you arrive from '128.59.87.85
+ 'Halt, Frog #0x0000eec5!', you shout. 'I need to know you aren't lost and just wandering like a croak. Show me your checksum!'
+ The IPv4 frog shows its checksum 0x00000000 but unfortunately nobody cares about it.
+Frogs hop around.
+In the sky, 400 frogs are still flying
+A frog waved a flag 0x00000018 that only other TCP-speaking frogs can understand
+I have an URGENT message to deliver to port 80. Can you prioritize my message over other frogs?
+Frogs hop around.
+Frogs hop around.
+Frogs hop around.
+A IPv4 Frog #0x00004c42 arrives and requests, 'Please DO NOT FRAGMENT me. I have more coming behind me.'
+'Do you have any EXPLICIT CONGESTION NOTIFICATIONS?', you ask to the IPV4 Frog #0x00004c42.
+ 'No, I don't and I like traffic', the IPV4 Frog #0x00004c42 replies
+ 'That is fine', you reply. 'Please wait until more of you arrive from '128.59.87.85
+Alas, the IPV4  Frog #0x00004c42 only has 64 hops to live
+Frogs hop around.
+A frog waved a flag 0x00000018 that only other TCP-speaking frogs can understand
+I have an URGENT message to deliver to port 80. Can you prioritize my message over other frogs?
+Frogs hop around.
+Frogs hop around.
+Frogs hop around.
+A IPv4 Frog #0x000011df arrives and requests, 'Please DO NOT FRAGMENT me. I have more coming behind me.'
+'Do you have any EXPLICIT CONGESTION NOTIFICATIONS?', you ask to the IPV4 Frog #0x000011df.
+ 'No, I don't and I like traffic', the IPV4 Frog #0x000011df replies
+ 'That is fine', you reply. 'Please wait until more of you arrive from '128.59.87.85
+Alas, the IPV4  Frog #0x000011df only has 64 hops to live
+Frogs hop around.
+Frog #2393 said that it was waiting for Frog #2793
+I have an URGENT message to deliver to port 80. Can you prioritize my message over other frogs?
+Frogs hop around.
+Frogs hop around.
+Frogs hop around.
+A IPv4 Frog #0x0000c403 arrives and requests, 'Please DO NOT FRAGMENT me. I have more coming behind me.'
+'Do you have any EXPLICIT CONGESTION NOTIFICATIONS?', you ask to the IPV4 Frog #0x0000c403.
+ 'No, I don't and I like traffic', the IPV4 Frog #0x0000c403 replies
+ 'That is fine', you reply. 'Please wait until more of you arrive from '128.59.87.85
+ 'Halt, Frog #0x0000c403!', you shout. 'I need to know you aren't lost and just wandering like a croak. Show me your checksum!'
+ The IPv4 frog shows its checksum 0x00000000 but unfortunately nobody cares about it.
+Frogs hop around.
+Frog #2793 said that it was waiting for Frog #3193
+I have an URGENT message to deliver to port 80. Can you prioritize my message over other frogs?
+Frogs hop around.
+Frogs hop around.
+Frogs hop around.
+A IPv4 Frog #0x0000c630 arrives and requests, 'Please DO NOT FRAGMENT me. I have more coming behind me.'
+'Do you have any EXPLICIT CONGESTION NOTIFICATIONS?', you ask to the IPV4 Frog #0x0000c630.
+ 'No, I don't and I like traffic', the IPV4 Frog #0x0000c630 replies
+ 'That is fine', you reply. 'Please wait until more of you arrive from '128.59.87.85
+Alas, the IPV4  Frog #0x0000c630 only has 64 hops to live
+Frogs hop around.
+A frog waved a flag 0x00000018 that only other TCP-speaking frogs can understand
+I have an URGENT message to deliver to port 80. Can you prioritize my message over other frogs?
+Frogs hop around.
+Frogs hop around.
+Frogs hop around.
+A IPv4 Frog #0x00004089 arrives and requests, 'Please DO NOT FRAGMENT me. I have more coming behind me.'
+'Do you have any EXPLICIT CONGESTION NOTIFICATIONS?', you ask to the IPV4 Frog #0x00004089.
+ 'No, I don't and I like traffic', the IPV4 Frog #0x00004089 replies
+ 'That is fine', you reply. 'Please wait until more of you arrive from '128.59.87.85
+ 'Halt, Frog #0x00004089!', you shout. 'I need to know you aren't lost and just wandering like a croak. Show me your checksum!'
+ The IPv4 frog shows its checksum 0x00000000 but unfortunately nobody cares about it.
+Frogs hop around.
+In the sky, 400 frogs are still flying
+A frog waved a flag 0x00000018 that only other TCP-speaking frogs can understand
+I have an URGENT message to deliver to port 80. Can you prioritize my message over other frogs?
+Frogs hop around.
+Frogs hop around.
+Frogs hop around.
+A IPv4 Frog #0x00006e8b arrives and requests, 'Please DO NOT FRAGMENT me. I have more coming behind me.'
+'Do you have any EXPLICIT CONGESTION NOTIFICATIONS?', you ask to the IPV4 Frog #0x00006e8b.
+ 'No, I don't and I like traffic', the IPV4 Frog #0x00006e8b replies
+ 'That is fine', you reply. 'Please wait until more of you arrive from '128.59.87.85
+Alas, the IPV4  Frog #0x00006e8b only has 64 hops to live
+Frogs hop around.
+A frog waved a flag 0x00000018 that only other TCP-speaking frogs can understand
+I have an URGENT message to deliver to port 80. Can you prioritize my message over other frogs?
+Frogs hop around.
+Frogs hop around.
+Frogs hop around.
+A IPv4 Frog #0x0000c0e6 arrives and requests, 'Please DO NOT FRAGMENT me. I have more coming behind me.'
+'Do you have any EXPLICIT CONGESTION NOTIFICATIONS?', you ask to the IPV4 Frog #0x0000c0e6.
+ 'No, I don't and I like traffic', the IPV4 Frog #0x0000c0e6 replies
+ 'That is fine', you reply. 'Please wait until more of you arrive from '128.59.87.85
+ 'Halt, Frog #0x0000c0e6!', you shout. 'I need to know you aren't lost and just wandering like a croak. Show me your checksum!'
+ The IPv4 frog shows its checksum 0x00000000 but unfortunately nobody cares about it.
+Frogs hop around.
+In the sky, 400 frogs are still flying
+Frog #3993 said that it was waiting for Frog #4393
+I have an URGENT message to deliver to port 80. Can you prioritize my message over other frogs?
+Frogs hop around.
+Frogs hop around.
+Frogs hop around.
+A IPv4 Frog #0x0000e4dd arrives and requests, 'Please DO NOT FRAGMENT me. I have more coming behind me.'
+'Do you have any EXPLICIT CONGESTION NOTIFICATIONS?', you ask to the IPV4 Frog #0x0000e4dd.
+ 'No, I don't and I like traffic', the IPV4 Frog #0x0000e4dd replies
+ 'That is fine', you reply. 'Please wait until more of you arrive from '128.59.87.85
+Alas, the IPV4  Frog #0x0000e4dd only has 64 hops to live
+Frogs hop around.
+A frog waved a flag 0x00000018 that only other TCP-speaking frogs can understand
+I have an URGENT message to deliver to port 80. Can you prioritize my message over other frogs?
+Frogs hop around.
+Frogs hop around.
+Frogs hop around.
+A IPv4 Frog #0x00002e6b arrives and requests, 'Please DO NOT FRAGMENT me. I have more coming behind me.'
+'Do you have any EXPLICIT CONGESTION NOTIFICATIONS?', you ask to the IPV4 Frog #0x00002e6b.
+ 'No, I don't and I like traffic', the IPV4 Frog #0x00002e6b replies
+ 'That is fine', you reply. 'Please wait until more of you arrive from '128.59.87.85
+ 'Halt, Frog #0x00002e6b!', you shout. 'I need to know you aren't lost and just wandering like a croak. Show me your checksum!'
+ The IPv4 frog shows its checksum 0x00000000 but unfortunately nobody cares about it.
+Frogs hop around.
+A frog waved a flag 0x00000018 that only other TCP-speaking frogs can understand
+I have an URGENT message to deliver to port 80. Can you prioritize my message over other frogs?
+Frogs hop around.
+Frogs hop around.
+Frogs hop around.
+A IPv4 Frog #0x0000adae arrives and requests, 'Please DO NOT FRAGMENT me. I have more coming behind me.'
+'Do you have any EXPLICIT CONGESTION NOTIFICATIONS?', you ask to the IPV4 Frog #0x0000adae.
+ 'No, I don't and I like traffic', the IPV4 Frog #0x0000adae replies
+ 'That is fine', you reply. 'Please wait until more of you arrive from '128.59.87.85
+Alas, the IPV4  Frog #0x0000adae only has 64 hops to live
+Frogs hop around.
+In the sky, 400 frogs are still flying
+A frog waved a flag 0x00000018 that only other TCP-speaking frogs can understand
+I have an URGENT message to deliver to port 80. Can you prioritize my message over other frogs?
+Frogs hop around.
+Frogs hop around.
+Frogs hop around.
+A IPv4 Frog #0x00002f08 arrives and requests, 'Please DO NOT FRAGMENT me. I have more coming behind me.'
+'Do you have any EXPLICIT CONGESTION NOTIFICATIONS?', you ask to the IPV4 Frog #0x00002f08.
+ 'No, I don't and I like traffic', the IPV4 Frog #0x00002f08 replies
+ 'That is fine', you reply. 'Please wait until more of you arrive from '128.59.87.85
+ 'Halt, Frog #0x00002f08!', you shout. 'I need to know you aren't lost and just wandering like a croak. Show me your checksum!'
+ The IPv4 frog shows its checksum 0x00000000 but unfortunately nobody cares about it.
+Frogs hop around.
+A frog waved a flag 0x00000018 that only other TCP-speaking frogs can understand
+I have an URGENT message to deliver to port 80. Can you prioritize my message over other frogs?
+Frogs hop around.
+Frogs hop around.
+Frogs hop around.
+A IPv4 Frog #0x0000d91f arrives and requests, 'Please DO NOT FRAGMENT me. I have more coming behind me.'
+'Do you have any EXPLICIT CONGESTION NOTIFICATIONS?', you ask to the IPV4 Frog #0x0000d91f.
+ 'No, I don't and I like traffic', the IPV4 Frog #0x0000d91f replies
+ 'That is fine', you reply. 'Please wait until more of you arrive from '128.59.87.85
+ 'Halt, Frog #0x0000d91f!', you shout. 'I need to know you aren't lost and just wandering like a croak. Show me your checksum!'
+ The IPv4 frog shows its checksum 0x00000000 but unfortunately nobody cares about it.
+Frogs hop around.
+In the sky, 400 frogs are still flying
+A frog waved a flag 0x00000018 that only other TCP-speaking frogs can understand
+I have an URGENT message to deliver to port 80. Can you prioritize my message over other frogs?
+Frogs hop around.
+Frogs hop around.
+Frogs hop around.
+A IPv4 Frog #0x000043c8 arrives and requests, 'Please DO NOT FRAGMENT me. I have more coming behind me.'
+'Do you have any EXPLICIT CONGESTION NOTIFICATIONS?', you ask to the IPV4 Frog #0x000043c8.
+ 'No, I don't and I like traffic', the IPV4 Frog #0x000043c8 replies
+ 'That is fine', you reply. 'Please wait until more of you arrive from '128.59.87.85
+ 'Halt, Frog #0x000043c8!', you shout. 'I need to know you aren't lost and just wandering like a croak. Show me your checksum!'
+ The IPv4 frog shows its checksum 0x00000000 but unfortunately nobody cares about it.
+Frogs hop around.
+Frog #6393 said that it was waiting for Frog #6793
+I have an URGENT message to deliver to port 80. Can you prioritize my message over other frogs?
+Frogs hop around.
+Frogs hop around.
+Frogs hop around.
+A IPv4 Frog #0x00006ded arrives and requests, 'Please DO NOT FRAGMENT me. I have more coming behind me.'
+'Do you have any EXPLICIT CONGESTION NOTIFICATIONS?', you ask to the IPV4 Frog #0x00006ded.
+ 'No, I don't and I like traffic', the IPV4 Frog #0x00006ded replies
+ 'That is fine', you reply. 'Please wait until more of you arrive from '128.59.87.85
+ 'Halt, Frog #0x00006ded!', you shout. 'I need to know you aren't lost and just wandering like a croak. Show me your checksum!'
+ The IPv4 frog shows its checksum 0x00000000 but unfortunately nobody cares about it.
+Frogs hop around.
+A frog waved a flag 0x00000018 that only other TCP-speaking frogs can understand
+I have an URGENT message to deliver to port 80. Can you prioritize my message over other frogs?
+Frogs hop around.
+Frogs hop around.
+Frogs hop around.
+A IPv4 Frog #0x0000b2bf arrives and requests, 'Please DO NOT FRAGMENT me. I have more coming behind me.'
+'Do you have any EXPLICIT CONGESTION NOTIFICATIONS?', you ask to the IPV4 Frog #0x0000b2bf.
+ 'No, I don't and I like traffic', the IPV4 Frog #0x0000b2bf replies
+ 'That is fine', you reply. 'Please wait until more of you arrive from '128.59.87.85
+ 'Halt, Frog #0x0000b2bf!', you shout. 'I need to know you aren't lost and just wandering like a croak. Show me your checksum!'
+ The IPv4 frog shows its checksum 0x00000000 but unfortunately nobody cares about it.
+Frogs hop around.
+A frog waved a flag 0x00000018 that only other TCP-speaking frogs can understand
+I have an URGENT message to deliver to port 80. Can you prioritize my message over other frogs?
+Frogs hop around.
+Frogs hop around.
+Frogs hop around.
+A IPv4 Frog #0x0000903d arrives and requests, 'Please DO NOT FRAGMENT me. I have more coming behind me.'
+'Do you have any EXPLICIT CONGESTION NOTIFICATIONS?', you ask to the IPV4 Frog #0x0000903d.
+ 'No, I don't and I like traffic', the IPV4 Frog #0x0000903d replies
+ 'That is fine', you reply. 'Please wait until more of you arrive from '128.59.87.85
+ 'Halt, Frog #0x0000903d!', you shout. 'I need to know you aren't lost and just wandering like a croak. Show me your checksum!'
+ The IPv4 frog shows its checksum 0x00000000 but unfortunately nobody cares about it.
+Frogs hop around.
+In the sky, 401 frogs are still flying
+A frog waved a flag 0x00000018 that only other TCP-speaking frogs can understand
+I have an URGENT message to deliver to port 80. Can you prioritize my message over other frogs?
+Frogs hop around.
+Frogs hop around.
+Frogs hop around.
+A IPv4 Frog #0x0000b95b arrives and requests, 'Please DO NOT FRAGMENT me. I have more coming behind me.'
+'Do you have any EXPLICIT CONGESTION NOTIFICATIONS?', you ask to the IPV4 Frog #0x0000b95b.
+ 'No, I don't and I like traffic', the IPV4 Frog #0x0000b95b replies
+ 'That is fine', you reply. 'Please wait until more of you arrive from '128.59.87.85
+Alas, the IPV4  Frog #0x0000b95b only has 64 hops to live
+Frogs hop around.
+In the sky, 402 frogs are still flying
+A frog waved a flag 0x00000018 that only other TCP-speaking frogs can understand
+I have an URGENT message to deliver to port 80. Can you prioritize my message over other frogs?
+Frogs hop around.
+Frogs hop around.
+Frogs hop around.
+A IPv4 Frog #0x000036af arrives and requests, 'Please DO NOT FRAGMENT me. I have more coming behind me.'
+'Do you have any EXPLICIT CONGESTION NOTIFICATIONS?', you ask to the IPV4 Frog #0x000036af.
+ 'No, I don't and I like traffic', the IPV4 Frog #0x000036af replies
+ 'That is fine', you reply. 'Please wait until more of you arrive from '128.59.87.85
+ 'Halt, Frog #0x000036af!', you shout. 'I need to know you aren't lost and just wandering like a croak. Show me your checksum!'
+ The IPv4 frog shows its checksum 0x00000000 but unfortunately nobody cares about it.
+Frogs hop around.
+A frog waved a flag 0x00000018 that only other TCP-speaking frogs can understand
+I have an URGENT message to deliver to port 80. Can you prioritize my message over other frogs?
+Frogs hop around.
+Frogs hop around.
+Frogs hop around.
+A IPv4 Frog #0x00001249 arrives and requests, 'Please DO NOT FRAGMENT me. I have more coming behind me.'
+'Do you have any EXPLICIT CONGESTION NOTIFICATIONS?', you ask to the IPV4 Frog #0x00001249.
+ 'No, I don't and I like traffic', the IPV4 Frog #0x00001249 replies
+ 'That is fine', you reply. 'Please wait until more of you arrive from '128.59.87.85
+Alas, the IPV4  Frog #0x00001249 only has 64 hops to live
+Frogs hop around.
+In the sky, 402 frogs are still flying
+Frog #8798 said that it was waiting for Frog #9200
+I have an URGENT message to deliver to port 80. Can you prioritize my message over other frogs?
+Frogs hop around.
+Frogs hop around.
+Frogs hop around.
+A IPv4 Frog #0x0000c874 arrives and requests, 'Please DO NOT FRAGMENT me. I have more coming behind me.'
+'Do you have any EXPLICIT CONGESTION NOTIFICATIONS?', you ask to the IPV4 Frog #0x0000c874.
+ 'No, I don't and I like traffic', the IPV4 Frog #0x0000c874 replies
+ 'That is fine', you reply. 'Please wait until more of you arrive from '128.59.87.85
+Alas, the IPV4  Frog #0x0000c874 only has 64 hops to live
+Frogs hop around.
+A frog waved a flag 0x00000018 that only other TCP-speaking frogs can understand
+I have an URGENT message to deliver to port 80. Can you prioritize my message over other frogs?
+Frogs hop around.
+Frogs hop around.
+Frogs hop around.
+A IPv4 Frog #0x00004c0e arrives and requests, 'Please DO NOT FRAGMENT me. I have more coming behind me.'
+'Do you have any EXPLICIT CONGESTION NOTIFICATIONS?', you ask to the IPV4 Frog #0x00004c0e.
+ 'No, I don't and I like traffic', the IPV4 Frog #0x00004c0e replies
+ 'That is fine', you reply. 'Please wait until more of you arrive from '128.59.87.85
+ 'Halt, Frog #0x00004c0e!', you shout. 'I need to know you aren't lost and just wandering like a croak. Show me your checksum!'
+ The IPv4 frog shows its checksum 0x00000000 but unfortunately nobody cares about it.
+Frogs hop around.
+In the sky, 393 frogs are still flying
+Frog #9602 said that it was waiting for Frog #9995
+I have an URGENT message to deliver to port 80. Can you prioritize my message over other frogs?
+Frogs hop around.
+Frogs hop around.
+Frogs hop around.
+A IPv4 Frog #0x0000b4d7 arrives and requests, 'Please DO NOT FRAGMENT me. I have more coming behind me.'
+'Do you have any EXPLICIT CONGESTION NOTIFICATIONS?', you ask to the IPV4 Frog #0x0000b4d7.
+ 'No, I don't and I like traffic', the IPV4 Frog #0x0000b4d7 replies
+ 'That is fine', you reply. 'Please wait until more of you arrive from '128.59.87.85
+Alas, the IPV4  Frog #0x0000b4d7 only has 64 hops to live
+Frogs hop around.
+A frog waved a flag 0x00000018 that only other TCP-speaking frogs can understand
+I have an URGENT message to deliver to port 80. Can you prioritize my message over other frogs?
+Frogs hop around.
+Frogs hop around.
+Frogs hop around.
+A IPv4 Frog #0x0000b349 arrives and requests, 'Please DO NOT FRAGMENT me. I have more coming behind me.'
+'Do you have any EXPLICIT CONGESTION NOTIFICATIONS?', you ask to the IPV4 Frog #0x0000b349.
+ 'No, I don't and I like traffic', the IPV4 Frog #0x0000b349 replies
+ 'That is fine', you reply. 'Please wait until more of you arrive from '128.59.87.85
+Alas, the IPV4  Frog #0x0000b349 only has 64 hops to live
+Frogs hop around.
+A frog waved a flag 0x00000018 that only other TCP-speaking frogs can understand
+I have an URGENT message to deliver to port 80. Can you prioritize my message over other frogs?
+Frogs hop around.
+Frogs hop around.
+Frogs hop around.
+A IPv4 Frog #0x00001dca arrives and requests, 'Please DO NOT FRAGMENT me. I have more coming behind me.'
+'Do you have any EXPLICIT CONGESTION NOTIFICATIONS?', you ask to the IPV4 Frog #0x00001dca.
+ 'No, I don't and I like traffic', the IPV4 Frog #0x00001dca replies
+ 'That is fine', you reply. 'Please wait until more of you arrive from '128.59.87.85
+ 'Halt, Frog #0x00001dca!', you shout. 'I need to know you aren't lost and just wandering like a croak. Show me your checksum!'
+ The IPv4 frog shows its checksum 0x00000000 but unfortunately nobody cares about it.
+Frogs hop around.
+Frog #10794 said that it was waiting for Frog #11194
+I have an URGENT message to deliver to port 80. Can you prioritize my message over other frogs?
+Frogs hop around.
+Frogs hop around.
+Frogs hop around.
+A IPv4 Frog #0x00005bb0 arrives and requests, 'Please DO NOT FRAGMENT me. I have more coming behind me.'
+'Do you have any EXPLICIT CONGESTION NOTIFICATIONS?', you ask to the IPV4 Frog #0x00005bb0.
+ 'No, I don't and I like traffic', the IPV4 Frog #0x00005bb0 replies
+ 'That is fine', you reply. 'Please wait until more of you arrive from '128.59.87.85
+ 'Halt, Frog #0x00005bb0!', you shout. 'I need to know you aren't lost and just wandering like a croak. Show me your checksum!'
+ The IPv4 frog shows its checksum 0x00000000 but unfortunately nobody cares about it.
+Frogs hop around.
+A frog waved a flag 0x00000018 that only other TCP-speaking frogs can understand
+I have an URGENT message to deliver to port 80. Can you prioritize my message over other frogs?
+Frogs hop around.
+Frogs hop around.
+Frogs hop around.
+A IPv4 Frog #0x00006b56 arrives and requests, 'Please DO NOT FRAGMENT me. I have more coming behind me.'
+'Do you have any EXPLICIT CONGESTION NOTIFICATIONS?', you ask to the IPV4 Frog #0x00006b56.
+ 'No, I don't and I like traffic', the IPV4 Frog #0x00006b56 replies
+ 'That is fine', you reply. 'Please wait until more of you arrive from '128.59.87.85
+ 'Halt, Frog #0x00006b56!', you shout. 'I need to know you aren't lost and just wandering like a croak. Show me your checksum!'
+ The IPv4 frog shows its checksum 0x00000000 but unfortunately nobody cares about it.
+Frogs hop around.
+A frog waved a flag 0x00000018 that only other TCP-speaking frogs can understand
+I have an URGENT message to deliver to port 80. Can you prioritize my message over other frogs?
+Frogs hop around.
+Frogs hop around.
+Frogs hop around.
+A IPv4 Frog #0x0000ef22 arrives and requests, 'Please DO NOT FRAGMENT me. I have more coming behind me.'
+'Do you have any EXPLICIT CONGESTION NOTIFICATIONS?', you ask to the IPV4 Frog #0x0000ef22.
+ 'No, I don't and I like traffic', the IPV4 Frog #0x0000ef22 replies
+ 'That is fine', you reply. 'Please wait until more of you arrive from '128.59.87.85
+Alas, the IPV4  Frog #0x0000ef22 only has 64 hops to live
+Frogs hop around.
+In the sky, 400 frogs are still flying
+A frog waved a flag 0x00000018 that only other TCP-speaking frogs can understand
+I have an URGENT message to deliver to port 80. Can you prioritize my message over other frogs?
+Frogs hop around.
+Frogs hop around.
+Frogs hop around.
+A IPv4 Frog #0x00001009 arrives and requests, 'Please DO NOT FRAGMENT me. I have more coming behind me.'
+'Do you have any EXPLICIT CONGESTION NOTIFICATIONS?', you ask to the IPV4 Frog #0x00001009.
+ 'No, I don't and I like traffic', the IPV4 Frog #0x00001009 replies
+ 'That is fine', you reply. 'Please wait until more of you arrive from '128.59.87.85
+ 'Halt, Frog #0x00001009!', you shout. 'I need to know you aren't lost and just wandering like a croak. Show me your checksum!'
+ The IPv4 frog shows its checksum 0x00000000 but unfortunately nobody cares about it.
+Frogs hop around.
+In the sky, 400 frogs are still flying
+Frog #12394 said that it was waiting for Frog #12794
+I have an URGENT message to deliver to port 80. Can you prioritize my message over other frogs?
+Frogs hop around.
+Frogs hop around.
+Frogs hop around.
+A IPv4 Frog #0x00002874 arrives and requests, 'Please DO NOT FRAGMENT me. I have more coming behind me.'
+'Do you have any EXPLICIT CONGESTION NOTIFICATIONS?', you ask to the IPV4 Frog #0x00002874.
+ 'No, I don't and I like traffic', the IPV4 Frog #0x00002874 replies
+ 'That is fine', you reply. 'Please wait until more of you arrive from '128.59.87.85
+ 'Halt, Frog #0x00002874!', you shout. 'I need to know you aren't lost and just wandering like a croak. Show me your checksum!'
+ The IPv4 frog shows its checksum 0x00000000 but unfortunately nobody cares about it.
+Frogs hop around.
+A frog waved a flag 0x00000018 that only other TCP-speaking frogs can understand
+I have an URGENT message to deliver to port 80. Can you prioritize my message over other frogs?
+Frogs hop around.
+Frogs hop around.
+Frogs hop around.
+A IPv4 Frog #0x0000988c arrives and requests, 'Please DO NOT FRAGMENT me. I have more coming behind me.'
+'Do you have any EXPLICIT CONGESTION NOTIFICATIONS?', you ask to the IPV4 Frog #0x0000988c.
+ 'No, I don't and I like traffic', the IPV4 Frog #0x0000988c replies
+ 'That is fine', you reply. 'Please wait until more of you arrive from '128.59.87.85
+ 'Halt, Frog #0x0000988c!', you shout. 'I need to know you aren't lost and just wandering like a croak. Show me your checksum!'
+ The IPv4 frog shows its checksum 0x00000000 but unfortunately nobody cares about it.
+Frogs hop around.
+Frog #13194 said that it was waiting for Frog #13594
+I have an URGENT message to deliver to port 80. Can you prioritize my message over other frogs?
+Frogs hop around.
+Frogs hop around.
+Frogs hop around.
+A IPv4 Frog #0x0000d30c arrives and requests, 'Please DO NOT FRAGMENT me. I have more coming behind me.'
+'Do you have any EXPLICIT CONGESTION NOTIFICATIONS?', you ask to the IPV4 Frog #0x0000d30c.
+ 'No, I don't and I like traffic', the IPV4 Frog #0x0000d30c replies
+ 'That is fine', you reply. 'Please wait until more of you arrive from '128.59.87.85
+Alas, the IPV4  Frog #0x0000d30c only has 64 hops to live
+Frogs hop around.
+Frog #13594 said that it was waiting for Frog #13994
+I have an URGENT message to deliver to port 80. Can you prioritize my message over other frogs?
+Frogs hop around.
+Frogs hop around.
+Frogs hop around.
+A IPv4 Frog #0x000088a4 arrives and requests, 'Please DO NOT FRAGMENT me. I have more coming behind me.'
+'Do you have any EXPLICIT CONGESTION NOTIFICATIONS?', you ask to the IPV4 Frog #0x000088a4.
+ 'No, I don't and I like traffic', the IPV4 Frog #0x000088a4 replies
+ 'That is fine', you reply. 'Please wait until more of you arrive from '128.59.87.85
+Alas, the IPV4  Frog #0x000088a4 only has 64 hops to live
+Frogs hop around.
+A frog waved a flag 0x00000018 that only other TCP-speaking frogs can understand
+I have an URGENT message to deliver to port 80. Can you prioritize my message over other frogs?
+Frogs hop around.
+Frogs hop around.
+Frogs hop around.
+A IPv4 Frog #0x000039dd arrives and requests, 'Please DO NOT FRAGMENT me. I have more coming behind me.'
+'Do you have any EXPLICIT CONGESTION NOTIFICATIONS?', you ask to the IPV4 Frog #0x000039dd.
+ 'No, I don't and I like traffic', the IPV4 Frog #0x000039dd replies
+ 'That is fine', you reply. 'Please wait until more of you arrive from '128.59.87.85
+ 'Halt, Frog #0x000039dd!', you shout. 'I need to know you aren't lost and just wandering like a croak. Show me your checksum!'
+ The IPv4 frog shows its checksum 0x00000000 but unfortunately nobody cares about it.
+Frogs hop around.
+In the sky, 400 frogs are still flying
+A frog waved a flag 0x00000018 that only other TCP-speaking frogs can understand
+I have an URGENT message to deliver to port 80. Can you prioritize my message over other frogs?
+Frogs hop around.
+Frogs hop around.
+Frogs hop around.
+A IPv4 Frog #0x00000738 arrives and requests, 'Please DO NOT FRAGMENT me. I have more coming behind me.'
+'Do you have any EXPLICIT CONGESTION NOTIFICATIONS?', you ask to the IPV4 Frog #0x00000738.
+ 'No, I don't and I like traffic', the IPV4 Frog #0x00000738 replies
+ 'That is fine', you reply. 'Please wait until more of you arrive from '128.59.87.85
+ 'Halt, Frog #0x00000738!', you shout. 'I need to know you aren't lost and just wandering like a croak. Show me your checksum!'
+ The IPv4 frog shows its checksum 0x00000000 but unfortunately nobody cares about it.
+Frogs hop around.
+In the sky, 400 frogs are still flying
+Frog #14794 said that it was waiting for Frog #15194
+I have an URGENT message to deliver to port 80. Can you prioritize my message over other frogs?
+Frogs hop around.
+Frogs hop around.
+Frogs hop around.
+A IPv4 Frog #0x0000281e arrives and requests, 'Please DO NOT FRAGMENT me. I have more coming behind me.'
+'Do you have any EXPLICIT CONGESTION NOTIFICATIONS?', you ask to the IPV4 Frog #0x0000281e.
+ 'No, I don't and I like traffic', the IPV4 Frog #0x0000281e replies
+ 'That is fine', you reply. 'Please wait until more of you arrive from '128.59.87.85
+Alas, the IPV4  Frog #0x0000281e only has 64 hops to live
+Frogs hop around.
+A frog waved a flag 0x00000018 that only other TCP-speaking frogs can understand
+I have an URGENT message to deliver to port 80. Can you prioritize my message over other frogs?
+Frogs hop around.
+Frogs hop around.
+Frogs hop around.
+A IPv4 Frog #0x00009a76 arrives and requests, 'Please DO NOT FRAGMENT me. I have more coming behind me.'
+'Do you have any EXPLICIT CONGESTION NOTIFICATIONS?', you ask to the IPV4 Frog #0x00009a76.
+ 'No, I don't and I like traffic', the IPV4 Frog #0x00009a76 replies
+ 'That is fine', you reply. 'Please wait until more of you arrive from '128.59.87.85
+ 'Halt, Frog #0x00009a76!', you shout. 'I need to know you aren't lost and just wandering like a croak. Show me your checksum!'
+ The IPv4 frog shows its checksum 0x00000000 but unfortunately nobody cares about it.
+Frogs hop around.
+Frog #15594 said that it was waiting for Frog #15994
+I have an URGENT message to deliver to port 80. Can you prioritize my message over other frogs?
+Frogs hop around.
+Frogs hop around.
+Frogs hop around.
+A IPv4 Frog #0x00004a8e arrives and requests, 'Please DO NOT FRAGMENT me. I have more coming behind me.'
+'Do you have any EXPLICIT CONGESTION NOTIFICATIONS?', you ask to the IPV4 Frog #0x00004a8e.
+ 'No, I don't and I like traffic', the IPV4 Frog #0x00004a8e replies
+ 'That is fine', you reply. 'Please wait until more of you arrive from '128.59.87.85
+Alas, the IPV4  Frog #0x00004a8e only has 64 hops to live
+Frogs hop around.
+A frog waved a flag 0x00000018 that only other TCP-speaking frogs can understand
+I have an URGENT message to deliver to port 80. Can you prioritize my message over other frogs?
+Frogs hop around.
+Frogs hop around.
+Frogs hop around.
+A IPv4 Frog #0x0000dd1e arrives and requests, 'Please DO NOT FRAGMENT me. I have more coming behind me.'
+'Do you have any EXPLICIT CONGESTION NOTIFICATIONS?', you ask to the IPV4 Frog #0x0000dd1e.
+ 'No, I don't and I like traffic', the IPV4 Frog #0x0000dd1e replies
+ 'That is fine', you reply. 'Please wait until more of you arrive from '128.59.87.85
+Alas, the IPV4  Frog #0x0000dd1e only has 64 hops to live
+Frogs hop around.
+Frog #16394 said that it was waiting for Frog #16794
+I have an URGENT message to deliver to port 80. Can you prioritize my message over other frogs?
+Frogs hop around.
+Frogs hop around.
+Frogs hop around.
+A IPv4 Frog #0x0000e141 arrives and requests, 'Please DO NOT FRAGMENT me. I have more coming behind me.'
+'Do you have any EXPLICIT CONGESTION NOTIFICATIONS?', you ask to the IPV4 Frog #0x0000e141.
+ 'No, I don't and I like traffic', the IPV4 Frog #0x0000e141 replies
+ 'That is fine', you reply. 'Please wait until more of you arrive from '128.59.87.85
+Alas, the IPV4  Frog #0x0000e141 only has 64 hops to live
+Frogs hop around.
+In the sky, 400 frogs are still flying
+A frog waved a flag 0x00000018 that only other TCP-speaking frogs can understand
+I have an URGENT message to deliver to port 80. Can you prioritize my message over other frogs?
+Frogs hop around.
+Frogs hop around.
+Frogs hop around.
+A IPv4 Frog #0x0000c402 arrives and requests, 'Please DO NOT FRAGMENT me. I have more coming behind me.'
+'Do you have any EXPLICIT CONGESTION NOTIFICATIONS?', you ask to the IPV4 Frog #0x0000c402.
+ 'No, I don't and I like traffic', the IPV4 Frog #0x0000c402 replies
+ 'That is fine', you reply. 'Please wait until more of you arrive from '128.59.87.85
+Alas, the IPV4  Frog #0x0000c402 only has 64 hops to live
+Frogs hop around.
+A frog waved a flag 0x00000018 that only other TCP-speaking frogs can understand
+I have an URGENT message to deliver to port 80. Can you prioritize my message over other frogs?
+Frogs hop around.
+Frogs hop around.
+Frogs hop around.
+A IPv4 Frog #0x0000ba06 arrives and requests, 'Please DO NOT FRAGMENT me. I have more coming behind me.'
+'Do you have any EXPLICIT CONGESTION NOTIFICATIONS?', you ask to the IPV4 Frog #0x0000ba06.
+ 'No, I don't and I like traffic', the IPV4 Frog #0x0000ba06 replies
+ 'That is fine', you reply. 'Please wait until more of you arrive from '128.59.87.85
+ 'Halt, Frog #0x0000ba06!', you shout. 'I need to know you aren't lost and just wandering like a croak. Show me your checksum!'
+ The IPv4 frog shows its checksum 0x00000000 but unfortunately nobody cares about it.
+Frogs hop around.
+In the sky, 402 frogs are still flying
+A frog waved a flag 0x00000018 that only other TCP-speaking frogs can understand
+I have an URGENT message to deliver to port 80. Can you prioritize my message over other frogs?
+Frogs hop around.
+Frogs hop around.
+Frogs hop around.
+A IPv4 Frog #0x0000b7db arrives and requests, 'Please DO NOT FRAGMENT me. I have more coming behind me.'
+'Do you have any EXPLICIT CONGESTION NOTIFICATIONS?', you ask to the IPV4 Frog #0x0000b7db.
+ 'No, I don't and I like traffic', the IPV4 Frog #0x0000b7db replies
+ 'That is fine', you reply. 'Please wait until more of you arrive from '128.59.87.85
+Alas, the IPV4  Frog #0x0000b7db only has 64 hops to live
+Frogs hop around.
+Frog #1 said that it was waiting for Frog #430
+I have an URGENT message to deliver to port 80. Can you prioritize my message over other frogs?
+Frogs hop around.
+Frogs hop around.
+Frogs hop around.
+A IPv4 Frog #0x0000ec76 arrives and requests, 'Please DO NOT FRAGMENT me. I have more coming behind me.'
+'Do you have any EXPLICIT CONGESTION NOTIFICATIONS?', you ask to the IPV4 Frog #0x0000ec76.
+ 'No, I don't and I like traffic', the IPV4 Frog #0x0000ec76 replies
+ 'That is fine', you reply. 'Please wait until more of you arrive from '128.59.87.85
+ 'Halt, Frog #0x0000ec76!', you shout. 'I need to know you aren't lost and just wandering like a croak. Show me your checksum!'
+ The IPv4 frog shows its checksum 0x00000000 but unfortunately nobody cares about it.
+Frogs hop around.
+In the sky, 429 frogs are still flying
+A frog waved a flag 0x00000018 that only other TCP-speaking frogs can understand
+I have an URGENT message to deliver to port 80. Can you prioritize my message over other frogs?
+Frogs hop around.
+Frogs hop around.
+Frogs hop around.
+A IPv4 Frog #0x000018e7 arrives and requests, 'Please DO NOT FRAGMENT me. I have more coming behind me.'
+'Do you have any EXPLICIT CONGESTION NOTIFICATIONS?', you ask to the IPV4 Frog #0x000018e7.
+ 'No, I don't and I like traffic', the IPV4 Frog #0x000018e7 replies
+ 'That is fine', you reply. 'Please wait until more of you arrive from '128.59.87.85
+Alas, the IPV4  Frog #0x000018e7 only has 64 hops to live
+Frogs hop around.
+In the sky, 429 frogs are still flying
+A frog waved a flag 0x00000018 that only other TCP-speaking frogs can understand
+I have an URGENT message to deliver to port 80. Can you prioritize my message over other frogs?
+Frogs hop around.
+Frogs hop around.
+Frogs hop around.
+A IPv4 Frog #0x0000e871 arrives and requests, 'Please DO NOT FRAGMENT me. I have more coming behind me.'
+'Do you have any EXPLICIT CONGESTION NOTIFICATIONS?', you ask to the IPV4 Frog #0x0000e871.
+ 'No, I don't and I like traffic', the IPV4 Frog #0x0000e871 replies
+ 'That is fine', you reply. 'Please wait until more of you arrive from '128.59.87.85
+Alas, the IPV4  Frog #0x0000e871 only has 64 hops to live
+Frogs hop around.
+A frog waved a flag 0x00000018 that only other TCP-speaking frogs can understand
+I have an URGENT message to deliver to port 80. Can you prioritize my message over other frogs?
+Frogs hop around.
+Frogs hop around.
+Frogs hop around.
+A IPv4 Frog #0x00008c23 arrives and requests, 'Please DO NOT FRAGMENT me. I have more coming behind me.'
+'Do you have any EXPLICIT CONGESTION NOTIFICATIONS?', you ask to the IPV4 Frog #0x00008c23.
+ 'No, I don't and I like traffic', the IPV4 Frog #0x00008c23 replies
+ 'That is fine', you reply. 'Please wait until more of you arrive from '128.59.87.85
+Alas, the IPV4  Frog #0x00008c23 only has 64 hops to live
+Frogs hop around.
+A frog waved a flag 0x00000018 that only other TCP-speaking frogs can understand
+I have an URGENT message to deliver to port 80. Can you prioritize my message over other frogs?
+Frogs hop around.
+Frogs hop around.
+Frogs hop around.
+Frogs hop around.
+A IPv4 Frog #0x00006dca arrives and requests, 'Please DO NOT FRAGMENT me. I have more coming behind me.'
+'Do you have any EXPLICIT CONGESTION NOTIFICATIONS?', you ask to the IPV4 Frog #0x00006dca.
+ 'No, I don't and I like traffic', the IPV4 Frog #0x00006dca replies
+ 'That is fine', you reply. 'Please wait until more of you arrive from '128.59.87.85
+Alas, the IPV4  Frog #0x00006dca only has 64 hops to live
+Frogs hop around.
+In the sky, 393 frogs are still flying
+Frog #1 said that it was waiting for Frog #394
+I have an URGENT message to deliver to port 80. Can you prioritize my message over other frogs?
+Frogs hop around.
+Frogs hop around.
+Frogs hop around.
+A IPv4 Frog #0x000059ea arrives and requests, 'Please DO NOT FRAGMENT me. I have more coming behind me.'
+'Do you have any EXPLICIT CONGESTION NOTIFICATIONS?', you ask to the IPV4 Frog #0x000059ea.
+ 'No, I don't and I like traffic', the IPV4 Frog #0x000059ea replies
+ 'That is fine', you reply. 'Please wait until more of you arrive from '128.59.87.85
+ 'Halt, Frog #0x000059ea!', you shout. 'I need to know you aren't lost and just wandering like a croak. Show me your checksum!'
+ The IPv4 frog shows its checksum 0x00000000 but unfortunately nobody cares about it.
+Frogs hop around.
+A frog waved a flag 0x00000018 that only other TCP-speaking frogs can understand
+I have an URGENT message to deliver to port 80. Can you prioritize my message over other frogs?
+Frogs hop around.
+Frogs hop around.
+Frogs hop around.
+A IPv4 Frog #0x0000d9fb arrives and requests, 'Please DO NOT FRAGMENT me. I have more coming behind me.'
+'Do you have any EXPLICIT CONGESTION NOTIFICATIONS?', you ask to the IPV4 Frog #0x0000d9fb.
+ 'No, I don't and I like traffic', the IPV4 Frog #0x0000d9fb replies
+ 'That is fine', you reply. 'Please wait until more of you arrive from '128.59.87.85
+Alas, the IPV4  Frog #0x0000d9fb only has 64 hops to live
+Frogs hop around.
+A frog waved a flag 0x00000018 that only other TCP-speaking frogs can understand
+I have an URGENT message to deliver to port 80. Can you prioritize my message over other frogs?
+Frogs hop around.
+Frogs hop around.
+Frogs hop around.
+A IPv4 Frog #0x0000b66c arrives and requests, 'Please DO NOT FRAGMENT me. I have more coming behind me.'
+'Do you have any EXPLICIT CONGESTION NOTIFICATIONS?', you ask to the IPV4 Frog #0x0000b66c.
+ 'No, I don't and I like traffic', the IPV4 Frog #0x0000b66c replies
+ 'That is fine', you reply. 'Please wait until more of you arrive from '128.59.87.85
+ 'Halt, Frog #0x0000b66c!', you shout. 'I need to know you aren't lost and just wandering like a croak. Show me your checksum!'
+ The IPv4 frog shows its checksum 0x00000000 but unfortunately nobody cares about it.
+Frogs hop around.
+In the sky, 400 frogs are still flying
+Frog #1193 said that it was waiting for Frog #1593
+I have an URGENT message to deliver to port 80. Can you prioritize my message over other frogs?
+Frogs hop around.
+Frogs hop around.
+Frogs hop around.
+A IPv4 Frog #0x0000532d arrives and requests, 'Please DO NOT FRAGMENT me. I have more coming behind me.'
+'Do you have any EXPLICIT CONGESTION NOTIFICATIONS?', you ask to the IPV4 Frog #0x0000532d.
+ 'No, I don't and I like traffic', the IPV4 Frog #0x0000532d replies
+ 'That is fine', you reply. 'Please wait until more of you arrive from '128.59.87.85
+ 'Halt, Frog #0x0000532d!', you shout. 'I need to know you aren't lost and just wandering like a croak. Show me your checksum!'
+ The IPv4 frog shows its checksum 0x00000000 but unfortunately nobody cares about it.
+Frogs hop around.
+A frog waved a flag 0x00000018 that only other TCP-speaking frogs can understand
+I have an URGENT message to deliver to port 80. Can you prioritize my message over other frogs?
+Frogs hop around.
+Frogs hop around.
+Frogs hop around.
+A IPv4 Frog #0x0000e167 arrives and requests, 'Please DO NOT FRAGMENT me. I have more coming behind me.'
+'Do you have any EXPLICIT CONGESTION NOTIFICATIONS?', you ask to the IPV4 Frog #0x0000e167.
+ 'No, I don't and I like traffic', the IPV4 Frog #0x0000e167 replies
+ 'That is fine', you reply. 'Please wait until more of you arrive from '128.59.87.85
+Alas, the IPV4  Frog #0x0000e167 only has 64 hops to live
+Frogs hop around.
+A frog waved a flag 0x00000018 that only other TCP-speaking frogs can understand
+I have an URGENT message to deliver to port 80. Can you prioritize my message over other frogs?
+Frogs hop around.
+Frogs hop around.
+Frogs hop around.
+A IPv4 Frog #0x0000fde2 arrives and requests, 'Please DO NOT FRAGMENT me. I have more coming behind me.'
+'Do you have any EXPLICIT CONGESTION NOTIFICATIONS?', you ask to the IPV4 Frog #0x0000fde2.
+ 'No, I don't and I like traffic', the IPV4 Frog #0x0000fde2 replies
+ 'That is fine', you reply. 'Please wait until more of you arrive from '128.59.87.85
+Alas, the IPV4  Frog #0x0000fde2 only has 64 hops to live
+Frogs hop around.
+A frog waved a flag 0x00000018 that only other TCP-speaking frogs can understand
+I have an URGENT message to deliver to port 80. Can you prioritize my message over other frogs?
+Frogs hop around.
+Frogs hop around.
+Frogs hop around.
+A IPv4 Frog #0x00006eb4 arrives and requests, 'Please DO NOT FRAGMENT me. I have more coming behind me.'
+'Do you have any EXPLICIT CONGESTION NOTIFICATIONS?', you ask to the IPV4 Frog #0x00006eb4.
+ 'No, I don't and I like traffic', the IPV4 Frog #0x00006eb4 replies
+ 'That is fine', you reply. 'Please wait until more of you arrive from '128.59.87.85
+Alas, the IPV4  Frog #0x00006eb4 only has 64 hops to live
+Frogs hop around.
+In the sky, 400 frogs are still flying
+Frog #2793 said that it was waiting for Frog #3193
+I have an URGENT message to deliver to port 80. Can you prioritize my message over other frogs?
+Frogs hop around.
+Frogs hop around.
+Frogs hop around.
+A IPv4 Frog #0x000042ac arrives and requests, 'Please DO NOT FRAGMENT me. I have more coming behind me.'
+'Do you have any EXPLICIT CONGESTION NOTIFICATIONS?', you ask to the IPV4 Frog #0x000042ac.
+ 'No, I don't and I like traffic', the IPV4 Frog #0x000042ac replies
+ 'That is fine', you reply. 'Please wait until more of you arrive from '128.59.87.85
+ 'Halt, Frog #0x000042ac!', you shout. 'I need to know you aren't lost and just wandering like a croak. Show me your checksum!'
+ The IPv4 frog shows its checksum 0x00000000 but unfortunately nobody cares about it.
+Frogs hop around.
+Frog #3193 said that it was waiting for Frog #3593
+I have an URGENT message to deliver to port 80. Can you prioritize my message over other frogs?
+Frogs hop around.
+Frogs hop around.
+Frogs hop around.
+A IPv4 Frog #0x0000f6da arrives and requests, 'Please DO NOT FRAGMENT me. I have more coming behind me.'
+'Do you have any EXPLICIT CONGESTION NOTIFICATIONS?', you ask to the IPV4 Frog #0x0000f6da.
+ 'No, I don't and I like traffic', the IPV4 Frog #0x0000f6da replies
+ 'That is fine', you reply. 'Please wait until more of you arrive from '128.59.87.85
+ 'Halt, Frog #0x0000f6da!', you shout. 'I need to know you aren't lost and just wandering like a croak. Show me your checksum!'
+ The IPv4 frog shows its checksum 0x00000000 but unfortunately nobody cares about it.
+Frogs hop around.
+A frog waved a flag 0x00000018 that only other TCP-speaking frogs can understand
+I have an URGENT message to deliver to port 80. Can you prioritize my message over other frogs?
+Frogs hop around.
+Frogs hop around.
+Frogs hop around.
+A IPv4 Frog #0x000092bb arrives and requests, 'Please DO NOT FRAGMENT me. I have more coming behind me.'
+'Do you have any EXPLICIT CONGESTION NOTIFICATIONS?', you ask to the IPV4 Frog #0x000092bb.
+ 'No, I don't and I like traffic', the IPV4 Frog #0x000092bb replies
+ 'That is fine', you reply. 'Please wait until more of you arrive from '128.59.87.85
+ 'Halt, Frog #0x000092bb!', you shout. 'I need to know you aren't lost and just wandering like a croak. Show me your checksum!'
+ The IPv4 frog shows its checksum 0x00000000 but unfortunately nobody cares about it.
+Frogs hop around.
+Frog #3993 said that it was waiting for Frog #4393
+I have an URGENT message to deliver to port 80. Can you prioritize my message over other frogs?
+Frogs hop around.
+Frogs hop around.
+Frogs hop around.
+A IPv4 Frog #0x0000868d arrives and requests, 'Please DO NOT FRAGMENT me. I have more coming behind me.'
+'Do you have any EXPLICIT CONGESTION NOTIFICATIONS?', you ask to the IPV4 Frog #0x0000868d.
+ 'No, I don't and I like traffic', the IPV4 Frog #0x0000868d replies
+ 'That is fine', you reply. 'Please wait until more of you arrive from '128.59.87.85
+ 'Halt, Frog #0x0000868d!', you shout. 'I need to know you aren't lost and just wandering like a croak. Show me your checksum!'
+ The IPv4 frog shows its checksum 0x00000000 but unfortunately nobody cares about it.
+Frogs hop around.
+In the sky, 400 frogs are still flying
+A frog waved a flag 0x00000018 that only other TCP-speaking frogs can understand
+I have an URGENT message to deliver to port 80. Can you prioritize my message over other frogs?
+Frogs hop around.
+Frogs hop around.
+Frogs hop around.
+A IPv4 Frog #0x00007932 arrives and requests, 'Please DO NOT FRAGMENT me. I have more coming behind me.'
+'Do you have any EXPLICIT CONGESTION NOTIFICATIONS?', you ask to the IPV4 Frog #0x00007932.
+ 'No, I don't and I like traffic', the IPV4 Frog #0x00007932 replies
+ 'That is fine', you reply. 'Please wait until more of you arrive from '128.59.87.85
+ 'Halt, Frog #0x00007932!', you shout. 'I need to know you aren't lost and just wandering like a croak. Show me your checksum!'
+ The IPv4 frog shows its checksum 0x00000000 but unfortunately nobody cares about it.
+Frogs hop around.
+Frog #4793 said that it was waiting for Frog #5193
+I have an URGENT message to deliver to port 80. Can you prioritize my message over other frogs?
+Frogs hop around.
+Frogs hop around.
+Frogs hop around.
+A IPv4 Frog #0x0000072a arrives and requests, 'Please DO NOT FRAGMENT me. I have more coming behind me.'
+'Do you have any EXPLICIT CONGESTION NOTIFICATIONS?', you ask to the IPV4 Frog #0x0000072a.
+ 'No, I don't and I like traffic', the IPV4 Frog #0x0000072a replies
+ 'That is fine', you reply. 'Please wait until more of you arrive from '128.59.87.85
+Alas, the IPV4  Frog #0x0000072a only has 64 hops to live
+Frogs hop around.
+In the sky, 400 frogs are still flying
+Frog #5193 said that it was waiting for Frog #5593
+I have an URGENT message to deliver to port 80. Can you prioritize my message over other frogs?
+Frogs hop around.
+Frogs hop around.
+Frogs hop around.
+A IPv4 Frog #0x0000ef14 arrives and requests, 'Please DO NOT FRAGMENT me. I have more coming behind me.'
+'Do you have any EXPLICIT CONGESTION NOTIFICATIONS?', you ask to the IPV4 Frog #0x0000ef14.
+ 'No, I don't and I like traffic', the IPV4 Frog #0x0000ef14 replies
+ 'That is fine', you reply. 'Please wait until more of you arrive from '128.59.87.85
+ 'Halt, Frog #0x0000ef14!', you shout. 'I need to know you aren't lost and just wandering like a croak. Show me your checksum!'
+ The IPv4 frog shows its checksum 0x00000000 but unfortunately nobody cares about it.
+Frogs hop around.
+A frog waved a flag 0x00000018 that only other TCP-speaking frogs can understand
+I have an URGENT message to deliver to port 80. Can you prioritize my message over other frogs?
+Frogs hop around.
+Frogs hop around.
+Frogs hop around.
+A IPv4 Frog #0x0000e634 arrives and requests, 'Please DO NOT FRAGMENT me. I have more coming behind me.'
+'Do you have any EXPLICIT CONGESTION NOTIFICATIONS?', you ask to the IPV4 Frog #0x0000e634.
+ 'No, I don't and I like traffic', the IPV4 Frog #0x0000e634 replies
+ 'That is fine', you reply. 'Please wait until more of you arrive from '128.59.87.85
+Alas, the IPV4  Frog #0x0000e634 only has 64 hops to live
+Frogs hop around.
+In the sky, 400 frogs are still flying
+Frog #5993 said that it was waiting for Frog #6393
+I have an URGENT message to deliver to port 80. Can you prioritize my message over other frogs?
+Frogs hop around.
+Frogs hop around.
+Frogs hop around.
+A IPv4 Frog #0x000018c2 arrives and requests, 'Please DO NOT FRAGMENT me. I have more coming behind me.'
+'Do you have any EXPLICIT CONGESTION NOTIFICATIONS?', you ask to the IPV4 Frog #0x000018c2.
+ 'No, I don't and I like traffic', the IPV4 Frog #0x000018c2 replies
+ 'That is fine', you reply. 'Please wait until more of you arrive from '128.59.87.85
+ 'Halt, Frog #0x000018c2!', you shout. 'I need to know you aren't lost and just wandering like a croak. Show me your checksum!'
+ The IPv4 frog shows its checksum 0x00000000 but unfortunately nobody cares about it.
+Frogs hop around.
+A frog waved a flag 0x00000018 that only other TCP-speaking frogs can understand
+I have an URGENT message to deliver to port 80. Can you prioritize my message over other frogs?
+Frogs hop around.
+Frogs hop around.
+Frogs hop around.
+A IPv4 Frog #0x0000daab arrives and requests, 'Please DO NOT FRAGMENT me. I have more coming behind me.'
+'Do you have any EXPLICIT CONGESTION NOTIFICATIONS?', you ask to the IPV4 Frog #0x0000daab.
+ 'No, I don't and I like traffic', the IPV4 Frog #0x0000daab replies
+ 'That is fine', you reply. 'Please wait until more of you arrive from '128.59.87.85
+Alas, the IPV4  Frog #0x0000daab only has 64 hops to live
+Frogs hop around.
+Frog #1 said that it was waiting for Frog #446
+I have an URGENT message to deliver to port 80. Can you prioritize my message over other frogs?
+Frogs hop around.
+Frogs hop around.
+Frogs hop around.
+A IPv4 Frog #0x0000300f arrives and requests, 'Please DO NOT FRAGMENT me. I have more coming behind me.'
+'Do you have any EXPLICIT CONGESTION NOTIFICATIONS?', you ask to the IPV4 Frog #0x0000300f.
+ 'No, I don't and I like traffic', the IPV4 Frog #0x0000300f replies
+ 'That is fine', you reply. 'Please wait until more of you arrive from '128.59.87.85
+ 'Halt, Frog #0x0000300f!', you shout. 'I need to know you aren't lost and just wandering like a croak. Show me your checksum!'
+ The IPv4 frog shows its checksum 0x00000000 but unfortunately nobody cares about it.
+Frogs hop around.
+Frog #1 said that it was waiting for Frog #195
+I have an URGENT message to deliver to port 80. Can you prioritize my message over other frogs?
+Frogs hop around.
+Frogs hop around.
+Frogs hop around.
+A IPv4 Frog #0x000053b4 arrives and requests, 'Please DO NOT FRAGMENT me. I have more coming behind me.'
+'Do you have any EXPLICIT CONGESTION NOTIFICATIONS?', you ask to the IPV4 Frog #0x000053b4.
+ 'No, I don't and I like traffic', the IPV4 Frog #0x000053b4 replies
+ 'That is fine', you reply. 'Please wait until more of you arrive from '128.59.87.85
+ 'Halt, Frog #0x000053b4!', you shout. 'I need to know you aren't lost and just wandering like a croak. Show me your checksum!'
+ The IPv4 frog shows its checksum 0x00000000 but unfortunately nobody cares about it.
+Frogs hop around.
+Frog #1 said that it was waiting for Frog #430
+I have an URGENT message to deliver to port 80. Can you prioritize my message over other frogs?
+Frogs hop around.
+Frogs hop around.
+Frogs hop around.
+A IPv4 Frog #0x0000f22b arrives and requests, 'Please DO NOT FRAGMENT me. I have more coming behind me.'
+'Do you have any EXPLICIT CONGESTION NOTIFICATIONS?', you ask to the IPV4 Frog #0x0000f22b.
+ 'No, I don't and I like traffic', the IPV4 Frog #0x0000f22b replies
+ 'That is fine', you reply. 'Please wait until more of you arrive from '128.59.87.85
+ 'Halt, Frog #0x0000f22b!', you shout. 'I need to know you aren't lost and just wandering like a croak. Show me your checksum!'
+ The IPv4 frog shows its checksum 0x00000000 but unfortunately nobody cares about it.
+Frogs hop around.
+Frog #1 said that it was waiting for Frog #475
+I have an URGENT message to deliver to port 80. Can you prioritize my message over other frogs?
+Frogs hop around.
+Frogs hop around.
+Frogs hop around.
+A IPv4 Frog #0x00008bf0 arrives and requests, 'Please DO NOT FRAGMENT me. I have more coming behind me.'
+'Do you have any EXPLICIT CONGESTION NOTIFICATIONS?', you ask to the IPV4 Frog #0x00008bf0.
+ 'No, I don't and I like traffic', the IPV4 Frog #0x00008bf0 replies
+ 'That is fine', you reply. 'Please wait until more of you arrive from '128.59.87.85
+Alas, the IPV4  Frog #0x00008bf0 only has 64 hops to live
+Frogs hop around.
+A frog waved a flag 0x00000018 that only other TCP-speaking frogs can understand
+I have an URGENT message to deliver to port 80. Can you prioritize my message over other frogs?
+Frogs hop around.
+Frogs hop around.
+Frogs hop around.
+A IPv4 Frog #0x0000d592 arrives and requests, 'Please DO NOT FRAGMENT me. I have more coming behind me.'
+'Do you have any EXPLICIT CONGESTION NOTIFICATIONS?', you ask to the IPV4 Frog #0x0000d592.
+ 'No, I don't and I like traffic', the IPV4 Frog #0x0000d592 replies
+ 'That is fine', you reply. 'Please wait until more of you arrive from '128.59.87.85
+ 'Halt, Frog #0x0000d592!', you shout. 'I need to know you aren't lost and just wandering like a croak. Show me your checksum!'
+ The IPv4 frog shows its checksum 0x00000000 but unfortunately nobody cares about it.
+Frogs hop around.
+A frog waved a flag 0x00000018 that only other TCP-speaking frogs can understand
+I have an URGENT message to deliver to port 80. Can you prioritize my message over other frogs?
+Frogs hop around.
+Frogs hop around.
+Frogs hop around.
+A IPv4 Frog #0x0000dbf5 arrives and requests, 'Please DO NOT FRAGMENT me. I have more coming behind me.'
+'Do you have any EXPLICIT CONGESTION NOTIFICATIONS?', you ask to the IPV4 Frog #0x0000dbf5.
+ 'No, I don't and I like traffic', the IPV4 Frog #0x0000dbf5 replies
+ 'That is fine', you reply. 'Please wait until more of you arrive from '128.59.87.85
+ 'Halt, Frog #0x0000dbf5!', you shout. 'I need to know you aren't lost and just wandering like a croak. Show me your checksum!'
+ The IPv4 frog shows its checksum 0x00000000 but unfortunately nobody cares about it.
+Frogs hop around.
+Frog #1 said that it was waiting for Frog #440
+I have an URGENT message to deliver to port 80. Can you prioritize my message over other frogs?
+Frogs hop around.
+Frogs hop around.
+Frogs hop around.
+A IPv4 Frog #0x00003869 arrives and requests, 'Please DO NOT FRAGMENT me. I have more coming behind me.'
+'Do you have any EXPLICIT CONGESTION NOTIFICATIONS?', you ask to the IPV4 Frog #0x00003869.
+ 'No, I don't and I like traffic', the IPV4 Frog #0x00003869 replies
+ 'That is fine', you reply. 'Please wait until more of you arrive from '128.59.87.85
+Alas, the IPV4  Frog #0x00003869 only has 64 hops to live
+Frogs hop around.
+In the sky, 120 frogs are still flying
+A frog waved a flag 0x00000018 that only other TCP-speaking frogs can understand
+I have an URGENT message to deliver to port 80. Can you prioritize my message over other frogs?
+Frogs hop around.
+Frogs hop around.
+Frogs hop around.
+A IPv4 Frog #0x000050d3 arrives and requests, 'Please DO NOT FRAGMENT me. I have more coming behind me.'
+'Do you have any EXPLICIT CONGESTION NOTIFICATIONS?', you ask to the IPV4 Frog #0x000050d3.
+ 'No, I don't and I like traffic', the IPV4 Frog #0x000050d3 replies
+ 'That is fine', you reply. 'Please wait until more of you arrive from '128.59.87.85
+Alas, the IPV4  Frog #0x000050d3 only has 64 hops to live
+Frogs hop around.
+In the sky, 392 frogs are still flying
+A frog waved a flag 0x00000018 that only other TCP-speaking frogs can understand
+I have an URGENT message to deliver to port 80. Can you prioritize my message over other frogs?
+Frogs hop around.
+Frogs hop around.
+Frogs hop around.
+A IPv4 Frog #0x0000739f arrives and requests, 'Please DO NOT FRAGMENT me. I have more coming behind me.'
+'Do you have any EXPLICIT CONGESTION NOTIFICATIONS?', you ask to the IPV4 Frog #0x0000739f.
+ 'No, I don't and I like traffic', the IPV4 Frog #0x0000739f replies
+ 'That is fine', you reply. 'Please wait until more of you arrive from '128.59.87.85
+ 'Halt, Frog #0x0000739f!', you shout. 'I need to know you aren't lost and just wandering like a croak. Show me your checksum!'
+ The IPv4 frog shows its checksum 0x00000000 but unfortunately nobody cares about it.
+Frogs hop around.
+Frog #393 said that it was waiting for Frog #786
+I have an URGENT message to deliver to port 80. Can you prioritize my message over other frogs?
+Frogs hop around.
+Frogs hop around.
+Frogs hop around.
+A IPv4 Frog #0x00003a6c arrives and requests, 'Please DO NOT FRAGMENT me. I have more coming behind me.'
+'Do you have any EXPLICIT CONGESTION NOTIFICATIONS?', you ask to the IPV4 Frog #0x00003a6c.
+ 'No, I don't and I like traffic', the IPV4 Frog #0x00003a6c replies
+ 'That is fine', you reply. 'Please wait until more of you arrive from '128.59.87.85
+Alas, the IPV4  Frog #0x00003a6c only has 64 hops to live
+Frogs hop around.
+A frog waved a flag 0x00000018 that only other TCP-speaking frogs can understand
+I have an URGENT message to deliver to port 80. Can you prioritize my message over other frogs?
+Frogs hop around.
+Frogs hop around.
+Frogs hop around.
+A IPv4 Frog #0x0000a577 arrives and requests, 'Please DO NOT FRAGMENT me. I have more coming behind me.'
+'Do you have any EXPLICIT CONGESTION NOTIFICATIONS?', you ask to the IPV4 Frog #0x0000a577.
+ 'No, I don't and I like traffic', the IPV4 Frog #0x0000a577 replies
+ 'That is fine', you reply. 'Please wait until more of you arrive from '128.59.87.85
+Alas, the IPV4  Frog #0x0000a577 only has 64 hops to live
+Frogs hop around.
+In the sky, 394 frogs are still flying
+A frog waved a flag 0x00000018 that only other TCP-speaking frogs can understand
+I have an URGENT message to deliver to port 80. Can you prioritize my message over other frogs?
+Frogs hop around.
+Frogs hop around.
+Frogs hop around.
+A IPv4 Frog #0x00003c5e arrives and requests, 'Please DO NOT FRAGMENT me. I have more coming behind me.'
+'Do you have any EXPLICIT CONGESTION NOTIFICATIONS?', you ask to the IPV4 Frog #0x00003c5e.
+ 'No, I don't and I like traffic', the IPV4 Frog #0x00003c5e replies
+ 'That is fine', you reply. 'Please wait until more of you arrive from '128.59.87.85
+ 'Halt, Frog #0x00003c5e!', you shout. 'I need to know you aren't lost and just wandering like a croak. Show me your checksum!'
+ The IPv4 frog shows its checksum 0x00000000 but unfortunately nobody cares about it.
+Frogs hop around.
+Frog #1572 said that it was waiting for Frog #1966
+I have an URGENT message to deliver to port 80. Can you prioritize my message over other frogs?
+Frogs hop around.
+Frogs hop around.
+Frogs hop around.
+A IPv4 Frog #0x00008704 arrives and requests, 'Please DO NOT FRAGMENT me. I have more coming behind me.'
+'Do you have any EXPLICIT CONGESTION NOTIFICATIONS?', you ask to the IPV4 Frog #0x00008704.
+ 'No, I don't and I like traffic', the IPV4 Frog #0x00008704 replies
+ 'That is fine', you reply. 'Please wait until more of you arrive from '128.59.87.85
+ 'Halt, Frog #0x00008704!', you shout. 'I need to know you aren't lost and just wandering like a croak. Show me your checksum!'
+ The IPv4 frog shows its checksum 0x00000000 but unfortunately nobody cares about it.
+Frogs hop around.
+A frog waved a flag 0x00000018 that only other TCP-speaking frogs can understand
+I have an URGENT message to deliver to port 80. Can you prioritize my message over other frogs?
+Frogs hop around.
+Frogs hop around.
+Frogs hop around.
+A IPv4 Frog #0x0000de47 arrives and requests, 'Please DO NOT FRAGMENT me. I have more coming behind me.'
+'Do you have any EXPLICIT CONGESTION NOTIFICATIONS?', you ask to the IPV4 Frog #0x0000de47.
+ 'No, I don't and I like traffic', the IPV4 Frog #0x0000de47 replies
+ 'That is fine', you reply. 'Please wait until more of you arrive from '128.59.87.85
+Alas, the IPV4  Frog #0x0000de47 only has 64 hops to live
+Frogs hop around.
+In the sky, 194 frogs are still flying
+Frog #1 said that it was waiting for Frog #195
+I have an URGENT message to deliver to port 80. Can you prioritize my message over other frogs?
+Frogs hop around.
+Frogs hop around.
+Frogs hop around.
+A IPv4 Frog #0x000016bf arrives and requests, 'Please DO NOT FRAGMENT me. I have more coming behind me.'
+'Do you have any EXPLICIT CONGESTION NOTIFICATIONS?', you ask to the IPV4 Frog #0x000016bf.
+ 'No, I don't and I like traffic', the IPV4 Frog #0x000016bf replies
+ 'That is fine', you reply. 'Please wait until more of you arrive from '128.59.87.85
+Alas, the IPV4  Frog #0x000016bf only has 64 hops to live
+Frogs hop around.
+A frog waved a flag 0x00000018 that only other TCP-speaking frogs can understand
+I have an URGENT message to deliver to port 80. Can you prioritize my message over other frogs?
+Frogs hop around.
+Frogs hop around.
+Frogs hop around.
+A IPv4 Frog #0x000078f1 arrives and requests, 'Please DO NOT FRAGMENT me. I have more coming behind me.'
+'Do you have any EXPLICIT CONGESTION NOTIFICATIONS?', you ask to the IPV4 Frog #0x000078f1.
+ 'No, I don't and I like traffic', the IPV4 Frog #0x000078f1 replies
+ 'That is fine', you reply. 'Please wait until more of you arrive from '128.59.87.85
+Alas, the IPV4  Frog #0x000078f1 only has 64 hops to live
+Frogs hop around.
+Frog #172 said that it was waiting for Frog #221
+I have an URGENT message to deliver to port 80. Can you prioritize my message over other frogs?
+Frogs hop around.
+Frogs hop around.
+Frogs hop around.
+Frogs hop around.
+A IPv4 Frog #0x0000c2f1 arrives and requests, 'Please DO NOT FRAGMENT me. I have more coming behind me.'
+'Do you have any EXPLICIT CONGESTION NOTIFICATIONS?', you ask to the IPV4 Frog #0x0000c2f1.
+ 'No, I don't and I like traffic', the IPV4 Frog #0x0000c2f1 replies
+ 'That is fine', you reply. 'Please wait until more of you arrive from '128.59.87.85
+Alas, the IPV4  Frog #0x0000c2f1 only has 64 hops to live
+Frogs hop around.
+A frog waved a flag 0x00000018 that only other TCP-speaking frogs can understand
+I have an URGENT message to deliver to port 80. Can you prioritize my message over other frogs?
+Frogs hop around.
+Frogs hop around.
+Frogs hop around.
+A IPv4 Frog #0x00004db0 arrives and requests, 'Please DO NOT FRAGMENT me. I have more coming behind me.'
+'Do you have any EXPLICIT CONGESTION NOTIFICATIONS?', you ask to the IPV4 Frog #0x00004db0.
+ 'No, I don't and I like traffic', the IPV4 Frog #0x00004db0 replies
+ 'That is fine', you reply. 'Please wait until more of you arrive from '128.59.87.85
+ 'Halt, Frog #0x00004db0!', you shout. 'I need to know you aren't lost and just wandering like a croak. Show me your checksum!'
+ The IPv4 frog shows its checksum 0x00000000 but unfortunately nobody cares about it.
+Frogs hop around.
+In the sky, 507 frogs are still flying
+A frog waved a flag 0x00000018 that only other TCP-speaking frogs can understand
+I have an URGENT message to deliver to port 80. Can you prioritize my message over other frogs?
+Frogs hop around.
+Frogs hop around.
+Frogs hop around.
+A IPv4 Frog #0x0000b9bd arrives and requests, 'Please DO NOT FRAGMENT me. I have more coming behind me.'
+'Do you have any EXPLICIT CONGESTION NOTIFICATIONS?', you ask to the IPV4 Frog #0x0000b9bd.
+ 'No, I don't and I like traffic', the IPV4 Frog #0x0000b9bd replies
+ 'That is fine', you reply. 'Please wait until more of you arrive from '128.59.87.85
+Alas, the IPV4  Frog #0x0000b9bd only has 64 hops to live
+Frogs hop around.
+Frog #508 said that it was waiting for Frog #998
+I have an URGENT message to deliver to port 80. Can you prioritize my message over other frogs?
+Frogs hop around.
+Frogs hop around.
+Frogs hop around.
+A IPv4 Frog #0x00005354 arrives and requests, 'Please DO NOT FRAGMENT me. I have more coming behind me.'
+'Do you have any EXPLICIT CONGESTION NOTIFICATIONS?', you ask to the IPV4 Frog #0x00005354.
+ 'No, I don't and I like traffic', the IPV4 Frog #0x00005354 replies
+ 'That is fine', you reply. 'Please wait until more of you arrive from '128.59.87.85
+Alas, the IPV4  Frog #0x00005354 only has 64 hops to live
+Frogs hop around.
+In the sky, 394 frogs are still flying
+A frog waved a flag 0x00000018 that only other TCP-speaking frogs can understand
+I have an URGENT message to deliver to port 80. Can you prioritize my message over other frogs?
+Frogs hop around.
+Frogs hop around.
+Frogs hop around.
+A IPv4 Frog #0x0000d7c1 arrives and requests, 'Please DO NOT FRAGMENT me. I have more coming behind me.'
+'Do you have any EXPLICIT CONGESTION NOTIFICATIONS?', you ask to the IPV4 Frog #0x0000d7c1.
+ 'No, I don't and I like traffic', the IPV4 Frog #0x0000d7c1 replies
+ 'That is fine', you reply. 'Please wait until more of you arrive from '128.59.87.85
+Alas, the IPV4  Frog #0x0000d7c1 only has 64 hops to live
+Frogs hop around.
+A frog waved a flag 0x00000018 that only other TCP-speaking frogs can understand
+I have an URGENT message to deliver to port 80. Can you prioritize my message over other frogs?
+Frogs hop around.
+Frogs hop around.
+Frogs hop around.
+A IPv4 Frog #0x00005300 arrives and requests, 'Please DO NOT FRAGMENT me. I have more coming behind me.'
+'Do you have any EXPLICIT CONGESTION NOTIFICATIONS?', you ask to the IPV4 Frog #0x00005300.
+ 'No, I don't and I like traffic', the IPV4 Frog #0x00005300 replies
+ 'That is fine', you reply. 'Please wait until more of you arrive from '128.59.87.85
+Alas, the IPV4  Frog #0x00005300 only has 64 hops to live
+Frogs hop around.
+Frog #788 said that it was waiting for Frog #1182
+I have an URGENT message to deliver to port 80. Can you prioritize my message over other frogs?
+Frogs hop around.
+Frogs hop around.
+Frogs hop around.
+A IPv4 Frog #0x0000045f arrives and requests, 'Please DO NOT FRAGMENT me. I have more coming behind me.'
+'Do you have any EXPLICIT CONGESTION NOTIFICATIONS?', you ask to the IPV4 Frog #0x0000045f.
+ 'No, I don't and I like traffic', the IPV4 Frog #0x0000045f replies
+ 'That is fine', you reply. 'Please wait until more of you arrive from '128.59.87.85
+Alas, the IPV4  Frog #0x0000045f only has 64 hops to live
+Frogs hop around.
+In the sky, 395 frogs are still flying
+A frog waved a flag 0x00000018 that only other TCP-speaking frogs can understand
+I have an URGENT message to deliver to port 80. Can you prioritize my message over other frogs?
+Frogs hop around.
+Frogs hop around.
+Frogs hop around.
+A IPv4 Frog #0x000012c1 arrives and requests, 'Please DO NOT FRAGMENT me. I have more coming behind me.'
+'Do you have any EXPLICIT CONGESTION NOTIFICATIONS?', you ask to the IPV4 Frog #0x000012c1.
+ 'No, I don't and I like traffic', the IPV4 Frog #0x000012c1 replies
+ 'That is fine', you reply. 'Please wait until more of you arrive from '128.59.87.85
+ 'Halt, Frog #0x000012c1!', you shout. 'I need to know you aren't lost and just wandering like a croak. Show me your checksum!'
+ The IPv4 frog shows its checksum 0x00000000 but unfortunately nobody cares about it.
+Frogs hop around.
+A frog waved a flag 0x00000018 that only other TCP-speaking frogs can understand
+I have an URGENT message to deliver to port 80. Can you prioritize my message over other frogs?
+Frogs hop around.
+Frogs hop around.
+Frogs hop around.
+A IPv4 Frog #0x000085ea arrives and requests, 'Please DO NOT FRAGMENT me. I have more coming behind me.'
+'Do you have any EXPLICIT CONGESTION NOTIFICATIONS?', you ask to the IPV4 Frog #0x000085ea.
+ 'No, I don't and I like traffic', the IPV4 Frog #0x000085ea replies
+ 'That is fine', you reply. 'Please wait until more of you arrive from '128.59.87.85
+ 'Halt, Frog #0x000085ea!', you shout. 'I need to know you aren't lost and just wandering like a croak. Show me your checksum!'
+ The IPv4 frog shows its checksum 0x00000000 but unfortunately nobody cares about it.
+Frogs hop around.
+Frog #1 said that it was waiting for Frog #430
+I have an URGENT message to deliver to port 80. Can you prioritize my message over other frogs?
+Frogs hop around.
+Frogs hop around.
+Frogs hop around.
+A IPv4 Frog #0x000050c0 arrives and requests, 'Please DO NOT FRAGMENT me. I have more coming behind me.'
+'Do you have any EXPLICIT CONGESTION NOTIFICATIONS?', you ask to the IPV4 Frog #0x000050c0.
+ 'No, I don't and I like traffic', the IPV4 Frog #0x000050c0 replies
+ 'That is fine', you reply. 'Please wait until more of you arrive from '128.59.87.85
+Alas, the IPV4  Frog #0x000050c0 only has 64 hops to live
+Frogs hop around.
+A frog waved a flag 0x00000018 that only other TCP-speaking frogs can understand
+I have an URGENT message to deliver to port 80. Can you prioritize my message over other frogs?
+Frogs hop around.
+Frogs hop around.
+Frogs hop around.
+A IPv4 Frog #0x000019f2 arrives and requests, 'Please DO NOT FRAGMENT me. I have more coming behind me.'
+'Do you have any EXPLICIT CONGESTION NOTIFICATIONS?', you ask to the IPV4 Frog #0x000019f2.
+ 'No, I don't and I like traffic', the IPV4 Frog #0x000019f2 replies
+ 'That is fine', you reply. 'Please wait until more of you arrive from '128.59.87.85
+ 'Halt, Frog #0x000019f2!', you shout. 'I need to know you aren't lost and just wandering like a croak. Show me your checksum!'
+ The IPv4 frog shows its checksum 0x00000000 but unfortunately nobody cares about it.
+Frogs hop around.
+A frog waved a flag 0x00000018 that only other TCP-speaking frogs can understand
+I have an URGENT message to deliver to port 80. Can you prioritize my message over other frogs?
+Frogs hop around.
+Frogs hop around.
+Frogs hop around.
+A IPv4 Frog #0x00006f0e arrives and requests, 'Please DO NOT FRAGMENT me. I have more coming behind me.'
+'Do you have any EXPLICIT CONGESTION NOTIFICATIONS?', you ask to the IPV4 Frog #0x00006f0e.
+ 'No, I don't and I like traffic', the IPV4 Frog #0x00006f0e replies
+ 'That is fine', you reply. 'Please wait until more of you arrive from '128.59.87.85
+Alas, the IPV4  Frog #0x00006f0e only has 64 hops to live
+Frogs hop around.
+In the sky, 429 frogs are still flying
+A frog waved a flag 0x00000018 that only other TCP-speaking frogs can understand
+I have an URGENT message to deliver to port 80. Can you prioritize my message over other frogs?
+Frogs hop around.
+Frogs hop around.
+Frogs hop around.
+A IPv4 Frog #0x0000e725 arrives and requests, 'Please DO NOT FRAGMENT me. I have more coming behind me.'
+'Do you have any EXPLICIT CONGESTION NOTIFICATIONS?', you ask to the IPV4 Frog #0x0000e725.
+ 'No, I don't and I like traffic', the IPV4 Frog #0x0000e725 replies
+ 'That is fine', you reply. 'Please wait until more of you arrive from '128.59.87.85
+ 'Halt, Frog #0x0000e725!', you shout. 'I need to know you aren't lost and just wandering like a croak. Show me your checksum!'
+ The IPv4 frog shows its checksum 0x00000000 but unfortunately nobody cares about it.
+Frogs hop around.
+In the sky, 429 frogs are still flying
+A frog waved a flag 0x00000018 that only other TCP-speaking frogs can understand
+I have an URGENT message to deliver to port 80. Can you prioritize my message over other frogs?
+Frogs hop around.
+Frogs hop around.
+Frogs hop around.
+A IPv4 Frog #0x0000cf8b arrives and requests, 'Please DO NOT FRAGMENT me. I have more coming behind me.'
+'Do you have any EXPLICIT CONGESTION NOTIFICATIONS?', you ask to the IPV4 Frog #0x0000cf8b.
+ 'No, I don't and I like traffic', the IPV4 Frog #0x0000cf8b replies
+ 'That is fine', you reply. 'Please wait until more of you arrive from '128.59.87.85
+Alas, the IPV4  Frog #0x0000cf8b only has 64 hops to live
+Frogs hop around.
+Frog #1 said that it was waiting for Frog #446
+I have an URGENT message to deliver to port 80. Can you prioritize my message over other frogs?
+Frogs hop around.
+Frogs hop around.
+Frogs hop around.
+A IPv4 Frog #0x000011f4 arrives and requests, 'Please DO NOT FRAGMENT me. I have more coming behind me.'
+'Do you have any EXPLICIT CONGESTION NOTIFICATIONS?', you ask to the IPV4 Frog #0x000011f4.
+ 'No, I don't and I like traffic', the IPV4 Frog #0x000011f4 replies
+ 'That is fine', you reply. 'Please wait until more of you arrive from '128.59.87.85
+Alas, the IPV4  Frog #0x000011f4 only has 64 hops to live
+Frogs hop around.
+In the sky, 49 frogs are still flying
+Frog #172 said that it was waiting for Frog #221
+I have an URGENT message to deliver to port 80. Can you prioritize my message over other frogs?
+Frogs hop around.
+Frogs hop around.
+Frogs hop around.
+Frogs hop around.
+A IPv4 Frog #0x00005976 arrives and requests, 'Please DO NOT FRAGMENT me. I have more coming behind me.'
+'Do you have any EXPLICIT CONGESTION NOTIFICATIONS?', you ask to the IPV4 Frog #0x00005976.
+ 'No, I don't and I like traffic', the IPV4 Frog #0x00005976 replies
+ 'That is fine', you reply. 'Please wait until more of you arrive from '128.59.87.85
+ 'Halt, Frog #0x00005976!', you shout. 'I need to know you aren't lost and just wandering like a croak. Show me your checksum!'
+ The IPv4 frog shows its checksum 0x00000000 but unfortunately nobody cares about it.
+Frogs hop around.
+In the sky, 445 frogs are still flying
+Frog #1 said that it was waiting for Frog #446
+I have an URGENT message to deliver to port 80. Can you prioritize my message over other frogs?
+Frogs hop around.
+Frogs hop around.
+Frogs hop around.
+A IPv4 Frog #0x0000109f arrives and requests, 'Please DO NOT FRAGMENT me. I have more coming behind me.'
+'Do you have any EXPLICIT CONGESTION NOTIFICATIONS?', you ask to the IPV4 Frog #0x0000109f.
+ 'No, I don't and I like traffic', the IPV4 Frog #0x0000109f replies
+ 'That is fine', you reply. 'Please wait until more of you arrive from '128.59.87.85
+Alas, the IPV4  Frog #0x0000109f only has 64 hops to live
+Frogs hop around.
+A frog waved a flag 0x00000018 that only other TCP-speaking frogs can understand
+I have an URGENT message to deliver to port 80. Can you prioritize my message over other frogs?
+Frogs hop around.

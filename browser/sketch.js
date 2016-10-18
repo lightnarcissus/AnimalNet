@@ -1,26 +1,32 @@
 require(['async'], function (async) {
     //foo is now loaded.
 });
-var frame;
+var frame=[];
 var someText="nothing";
 var files="ok.txt";
+var lines=[];
 
 function setup() {
+  readTextFile("ok.txt");
   createCanvas(windowWidth,windowHeight);
- 
-  frame = createElement("h2",someText);
+ // console.log(lines.length);
+  //console.log("drawing");
 }
 function draw() {
-  frame.remove();
-  frame=createElement("h2", someText);
-  frame.position(mouseX,mouseY);
+ for(var i=0;i<lines.length;i++)
+  {
+    console.log("sup");
+  frame[i]=createElement("h2", lines[i]);
+  frame[i].position=(500,500);
+  }
+ // frame.position(mouseX,mouseY);
   
-  readTextFile("ok.txt");
+  //readTextFile("ok.txt");
 }
 async.forever(
     function(readTextFile,files) {
-      console.log("sup");
-      readTextFile(files);
+      //console.log("sup");
+      //readTextFile(files);
     },
     function(err) {
         // if next is called with a value in its first parameter, it will appear
@@ -37,8 +43,10 @@ function readTextFile(file)
         {
             if(rawFile.status === 200 || rawFile.status == 0)
             {
+              console.log("ok");
                 var allText = rawFile.responseText;
-                someText=allText;
+                lines= allText.split("\n");
+                console.log(lines.length);
              //   console.log("changed some text to + " + someText);
             }
         }
