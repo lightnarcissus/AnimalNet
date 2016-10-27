@@ -67,7 +67,7 @@ public class oscControl : MonoBehaviour {
 			// show the last received from the log in the Debug console
 			if (item.Value.log.Count > 0) {
 				int lastPacketIndex = item.Value.packets.Count - 1;
-					
+				UnityEngine.Debug.Log ("received something");
 				UnityEngine.Debug.Log (String.Format ("SERVER: {0} ADDRESS: {1} VALUE : {2}", 
 					                                    item.Key, // Server name
 					                                    item.Value.packets [lastPacketIndex].Address, // OSC address

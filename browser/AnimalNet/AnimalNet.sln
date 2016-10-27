@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{849308FA-3BAA-7C43-D4F0-66E92AE6F8ED}") = "AnimalNet", "Assembly-CSharp.csproj", "{83200C37-4626-5955-8940-3D33DDB2CE4D}"
+EndProject
+Project("{849308FA-3BAA-7C43-D4F0-66E92AE6F8ED}") = "AnimalNet", "Assembly-CSharp-Editor.csproj", "{1131DCB0-77A0-E2EB-1884-916573DFC106}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{83200C37-4626-5955-8940-3D33DDB2CE4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83200C37-4626-5955-8940-3D33DDB2CE4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83200C37-4626-5955-8940-3D33DDB2CE4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83200C37-4626-5955-8940-3D33DDB2CE4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1131DCB0-77A0-E2EB-1884-916573DFC106}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1131DCB0-77A0-E2EB-1884-916573DFC106}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1131DCB0-77A0-E2EB-1884-916573DFC106}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1131DCB0-77A0-E2EB-1884-916573DFC106}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

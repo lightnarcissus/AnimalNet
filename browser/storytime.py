@@ -4,12 +4,7 @@ import math
 import random
 import platform
 interface=""
-<<<<<<< HEAD
-if platform.system()=="Linux":
-=======
-
 if platform.system()=="linux":
->>>>>>> 1e91b1c5155cc7e1924a381b113fc877272d39d4
     interface="wlo1"
 elif platform.system()=="Darwin":
     interface="en1"
