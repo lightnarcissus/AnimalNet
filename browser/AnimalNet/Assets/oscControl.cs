@@ -30,14 +30,13 @@ public class oscControl : MonoBehaviour {
 	private Dictionary<string, ServerLog> servers;
 	private Dictionary<string, ClientLog> clients;
 	private float randVal=0f;
-	public GameObject cube;
+	public GameObject frogSprite;
 	private String msg="";
 	// Script initialization
 	void Start() {	
 		OSCHandler.Instance.Init(); //init OSC
 		servers = new Dictionary<string, ServerLog>();
 		clients = new Dictionary<string,ClientLog> ();
-		cube = GameObject.Find ("Cube");
 	}
 
 	// NOTE: The received messages at each server are updated here
@@ -72,10 +71,10 @@ public class oscControl : MonoBehaviour {
 					                                    item.Key, // Server name
 					                                    item.Value.packets [lastPacketIndex].Address, // OSC address
 					                                    item.Value.packets [lastPacketIndex].Data [0].ToString ())); //First data value
-					
-				//converts the values into MIDI to scale the cube
-				float tempVal = float.Parse (item.Value.packets [lastPacketIndex].Data [0].ToString ());
-				cube.transform.localScale = new Vector3 (tempVal, tempVal, tempVal);
+
+				if (item.Value.packets [lastPacketIndex].Address == "/Frog/Spawn") {
+					Instantiate (frogSprite, new Vector3 (UnityEngine.Random.Range (0f, Screen.width), UnityEngine.Random.Range (0f, Screen.height),-8.53f), Quaternion.identity);
+				}
 			}
 		}
 			

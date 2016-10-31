@@ -82,8 +82,8 @@ def user4_handler(add, tags, stuff, source):
 
 def sendMessage():
 	msg = OSC.OSCMessage()
-	msg.setAddress(addr)
-	msg.append(list(frog_string))
+	msg.setAddress("/Frog/Spawn")
+	msg.append('hi')
 	c.send(msg)
 	print "sending message"
 
