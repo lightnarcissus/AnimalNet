@@ -71,9 +71,9 @@ public class oscControl : MonoBehaviour {
 					                                    item.Key, // Server name
 					                                    item.Value.packets [lastPacketIndex].Address, // OSC address
 					                                    item.Value.packets [lastPacketIndex].Data [0].ToString ())); //First data value
-
+				Vector3 newpos=Camera.main.ScreenToWorldPoint(new Vector3(UnityEngine.Random.Range (0f, Screen.width), UnityEngine.Random.Range (0f, Screen.height),2f));
 				if (item.Value.packets [lastPacketIndex].Address == "/Frog/Spawn") {
-					Instantiate (frogSprite, new Vector3 (UnityEngine.Random.Range (0f, Screen.width), UnityEngine.Random.Range (0f, Screen.height),-8.53f), Quaternion.identity);
+					Instantiate (frogSprite, newpos, Quaternion.identity);
 				}
 			}
 		}
