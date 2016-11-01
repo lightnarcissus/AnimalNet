@@ -72,8 +72,27 @@ public class oscControl : MonoBehaviour {
 					                                    item.Value.packets [lastPacketIndex].Address, // OSC address
 					                                    item.Value.packets [lastPacketIndex].Data [0].ToString ())); //First data value
 				Vector3 newpos=Camera.main.ScreenToWorldPoint(new Vector3(UnityEngine.Random.Range (0f, Screen.width), UnityEngine.Random.Range (0f, Screen.height),2f));
-				if (item.Value.packets [lastPacketIndex].Address == "/Frog/Spawn") {
-					Instantiate (frogSprite, newpos, Quaternion.identity);
+				if (item.Value.packets [lastPacketIndex].Address == "Frog/init") {
+					GameObject tempFrog = Instantiate (frogSprite, newpos, Quaternion.identity) as GameObject;
+					tempFrog.GetComponent<FrogScript> ().AssignIP (item.Value.packets [lastPacketIndex].Data [0].ToString ());
+				} else if (item.Value.packets [lastPacketIndex].Address == "Frog/ip") {
+					GameObject tempFrog = Instantiate (frogSprite, newpos, Quaternion.identity) as GameObject;
+					tempFrog.GetComponent<FrogScript> ().ChangeType ("ip");
+				}
+				else if (item.Value.packets [lastPacketIndex].Address == "Frog/tcp") {
+					GameObject tempFrog = Instantiate (frogSprite, newpos, Quaternion.identity) as GameObject;
+					tempFrog.GetComponent<FrogScript> ().ChangeType ("tcp");
+				}
+				else if (item.Value.packets [lastPacketIndex].Address == "Frog/http") {
+					GameObject tempFrog = Instantiate (frogSprite, newpos, Quaternion.identity) as GameObject;
+					tempFrog.GetComponent<FrogScript> ().ChangeType ("http");
+				}
+				else if (item.Value.packets [lastPacketIndex].Address == "Frog/udp") {
+					GameObject tempFrog = Instantiate (frogSprite, newpos, Quaternion.identity) as GameObject;
+					tempFrog.GetComponent<FrogScript> ().ChangeType ("udp");
+				}else if (item.Value.packets [lastPacketIndex].Address == "Frog/ssl") {
+					GameObject tempFrog = Instantiate (frogSprite, newpos, Quaternion.identity) as GameObject;
+					tempFrog.GetComponent<FrogScript> ().ChangeType ("ssl");
 				}
 			}
 		}

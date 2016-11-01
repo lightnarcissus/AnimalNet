@@ -22,11 +22,11 @@ interface=""
 if platform.system()=="linux":
     interface="wlo1"
 elif platform.system()=="Darwin":
-    interface="en1"
+    interface="en2"
 elif platform.system()=="Windows":
     interface="Wi-Fi"
 
-cap = pyshark.LiveCapture(interface)
+#cap = pyshark.LiveCapture(interface)
 counter=0;
 
 frog_string=""
@@ -85,7 +85,7 @@ def sendMessage(address,message):
 	msg.setAddress(address)
 	msg.append(message)
 	c.send(msg)
-	print "sending message"
+	print address
 
 # adding my functions
 s.addMsgHandler("/user/1", moveStop_handler)
@@ -98,6 +98,14 @@ s.addMsgHandler("/user/3", user3_handler)
 print "Registered Callback-functions are :"
 for addr in s.getOSCAddressSpace():
 	print addr
+
+def capture_frogs():
+    cap = pyshark.LiveCapture(interface='en2')
+    cap.sniff(timeout=1)
+    dir(cap)
+    for pkt in cap:
+        print pkt[0]
+    #capture_frogs()
 
 # Start OSCServer
 #print "\nStarting OSCServer. Use ctrl-C to quit."
@@ -137,7 +145,7 @@ def print_conversation_header(pkt):
         global counter
         counter+=1
         if counter==1:
-            sendMessage("/Frog/init",str(src_addr))
+            sendMessage("Frog/init",str(src_addr))
             frog_string= "You sat down on a table, " + str(http_user) + ", an arcane tool, in your hands. " 
             frog_string= "You couldn't help but notice that there was a marker on your table that had " + str(src_addr) + " written on it. This is who you are, for now." 
             frog_string= "Your eyes scanned across the room for "+ str(http_host) + " as you tried to find them."
@@ -158,7 +166,7 @@ def print_conversation_header(pkt):
                 frog_string= "A rare SSL frog appears"
                 frog_string= "The rare SSL frog passes secret " + fine[len(fine)-1] + " " + fine[len(fine)-2] + " messages to you"
                 frog_string= "You nod, acknowledging it, in secret."
-                sendMessage("/Frog/ssl", 'ack')
+                sendMessage("Frog/ssl", 'ack')
 
             if 'http' in layer.layer_name:
                 frog_string= "A frog in the guise of a cookie" + str(layer.cookie) + " watches as you browse " + str(layer.request_full_uri) 
@@ -166,10 +174,10 @@ def print_conversation_header(pkt):
                 frog_string= "'Are you an ETH Frog?', you ask"
                 frog_string= "Deep down, all frogs are ETH frogs." 
                 frog_string= "While being served by " + str(layer.server) + " the HTTP frog from " + str(layer.host) + " mutters the phrase: " + str(layer.response_phrase)
-                sendMessage("/Frog/http", 'served by HTTP frog')
+                sendMessage("Frog/http", 'served by HTTP frog')
                 
             if 'udp' in layer.layer_name:
-                sendMessage("/Frog/udp",'udp')
+                sendMessage("Frog/udp",'udp')
                 frog_string= "An unreliable UDP frog disables its own identification"
             if 'tcp' in layer.layer_name:
                 if(random.random() < 0.3):
@@ -181,6 +189,7 @@ def print_conversation_header(pkt):
 
                 if str(layer.urgent_pointer)=='0':
                     frog_string= "I have an URGENT message to deliver to port " + str(layer.dstport) + ". Can you prioritize my message over other frogs?"
+                    sendMessage("Frog/tcp",'urgent')
 
             if 'ip' in layer.layer_name:
                 if str(layer.flags_df)=='1':
@@ -197,7 +206,7 @@ def print_conversation_header(pkt):
                     frog_string= " The IPv4 frog shows its checksum " + str(layer.checksum) + " but unfortunately nobody cares about it."
                 else:
                     frog_string= "Alas, the IPV4  Frog #" + str(layer.id) + " only has " + str(layer.ttl) + " hops to live"
-                    sendMessage()                     
+                    sendMessage("Frog/ip",'few hops')                     
 
 
         
@@ -228,4 +237,6 @@ def print_conversation_header(pkt):
     except AttributeError as e:
         #ignore packets that aren't TCP/UDP or IPv4
         pass
-cap.apply_on_packets(print_conversation_header, timeout=10000)
+
+capture_frogs()
+#cap.apply_on_packets(print_conversation_header, timeout=2)

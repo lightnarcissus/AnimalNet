@@ -1,0 +1,8 @@
+Registered Callback-functions are :
+/print
+default
+/info
+/error
+/user/1
+/user/2
+/user/3
