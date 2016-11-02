@@ -72,12 +72,10 @@ public class oscControl : MonoBehaviour {
 					                                    item.Value.packets [lastPacketIndex].Address, // OSC address
 					                                    item.Value.packets [lastPacketIndex].Data [0].ToString ())); //First data value
 				Vector3 newpos=Camera.main.ScreenToWorldPoint(new Vector3(UnityEngine.Random.Range (0f, Screen.width), UnityEngine.Random.Range (0f, Screen.height),2f));
-				if (item.Value.packets [lastPacketIndex].Address == "Frog/init") {
-					GameObject tempFrog = Instantiate (frogSprite, newpos, Quaternion.identity) as GameObject;
-					tempFrog.GetComponent<FrogScript> ().AssignIP (item.Value.packets [lastPacketIndex].Data [0].ToString ());
-				} else if (item.Value.packets [lastPacketIndex].Address == "Frog/ip") {
+				if (item.Value.packets [lastPacketIndex].Address == "Frog/ip") {
 					GameObject tempFrog = Instantiate (frogSprite, newpos, Quaternion.identity) as GameObject;
 					tempFrog.GetComponent<FrogScript> ().ChangeType ("ip");
+					tempFrog.GetComponent<FrogScript> ().AssignIP (item.Value.packets [lastPacketIndex].Data [0].ToString ());
 				}
 				else if (item.Value.packets [lastPacketIndex].Address == "Frog/tcp") {
 					GameObject tempFrog = Instantiate (frogSprite, newpos, Quaternion.identity) as GameObject;
@@ -93,6 +91,10 @@ public class oscControl : MonoBehaviour {
 				}else if (item.Value.packets [lastPacketIndex].Address == "Frog/ssl") {
 					GameObject tempFrog = Instantiate (frogSprite, newpos, Quaternion.identity) as GameObject;
 					tempFrog.GetComponent<FrogScript> ().ChangeType ("ssl");
+				}else if (item.Value.packets [lastPacketIndex].Address == "Frog/wlan_addr") {
+					GameObject tempFrog = Instantiate (frogSprite, newpos, Quaternion.identity) as GameObject;
+					tempFrog.GetComponent<FrogScript> ().ChangeType ("wlan");
+					tempFrog.GetComponent<FrogScript> ().AssignIP (item.Value.packets [lastPacketIndex].Data [0].ToString ());
 				}
 			}
 		}

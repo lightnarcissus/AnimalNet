@@ -110,28 +110,52 @@ def capture_frogs():
             if "radiotap" in layer_name:
                 #print "radiotap"
                 if layer.channel_flags_5ghz == '1':
-                    print "on 5ghz"
+                    #print "on 5ghz"
+                    chan='5'
                 else:
-                    print "on 2ghz"
+                    #print "on 2ghz"
+                    chan='2'
             elif "wlan_radio" in layer_name:
                 if 'signal_dbm' in dir(layer):
                     sig_strength=layer.signal_dbm
-                    print sig_strength
+                    sendMessage("Frog/wlan_Radio",sig_strength)
+                    #print sig_strength
                 
             elif "wlan" in layer_name:
-                print "wlan"
+                #print "wlan"
                 if 'ta' in dir(layer):
                     trans_addr=layer.ta
                 if 'ra' in dir(layer):
                     rec_addr=layer.ra
-                
+                sendMessage("Frog/wlan_addr",trans_addr)
+            elif "http" in layer.layer_name:
+                print layer
+                print dir(layer)
+                if 'content_encoding' in dir(layer):
+                    content_encoding=layer.content_encoding
+                if 'set_cookie' in dir(layer):
+                    set_cookie=layer.set_cookie
+                if 'server' in dir(layer):
+                    server=layer.server
+                    sendMessage("Frog/http",server)
+                #user_agent=layer.user_agent
+                #print "USER: " + user_agent
             elif "ip" in layer._layer_name:
-                print "ip"
-                source_addr= layer.src
-                dest_addr=layer.dst
-                ttl=layer.ttl
+                #print "ip"
+                if 'src' in dir(layer):
+                    source_addr= layer.src
+                    sendMessage("Frog/ip",source_addr)
+                if 'dst' in dir(layer):
+                    dest_addr=layer.dst
+                    sendMessage("Frog/ip",dest_addr)
+                if 'ttl' in dir(layer):
+                    ttl=layer.ttl
                 if 'id' in dir(layer):
                     ip_id=layer.id
+            elif "ssl" in layer.layer_name:
+                if 'handshake' in dir(layer):
+                    handshake_protocol=layer.handshake
+                #print "a rare SSL frog appears"
 
     capture_frogs()
 

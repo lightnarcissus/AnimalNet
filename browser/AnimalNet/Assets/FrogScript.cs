@@ -25,16 +25,20 @@ public class FrogScript : MonoBehaviour {
 		switch (packetType) {
 		case "ip":
 			GetComponent<SpriteRenderer> ().color = Color.red;
+			gameObject.name = "frog_ip";
 			break;
 		case "tcp":
 			break;
 		case "http":
 			GetComponent<SpriteRenderer> ().color = Color.yellow;
+			gameObject.name = "frog_http";
 			break;
-		case "udp":
+		case "wlan":
 			GetComponent<SpriteRenderer> ().color = Color.blue;
+			gameObject.name = "frog_wlan";
 			break;
 		case "ssl":
+			gameObject.name = "frog_ssl";
 			break;
 		}
 	}
