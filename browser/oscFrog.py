@@ -101,11 +101,39 @@ for addr in s.getOSCAddressSpace():
 
 def capture_frogs():
     cap = pyshark.LiveCapture(interface='en2')
-    cap.sniff(timeout=1)
+    cap.sniff(timeout=2)
     dir(cap)
     for pkt in cap:
-        print pkt[0]
-    #capture_frogs()
+        all_layers=pkt.layers
+        for layer in all_layers:
+            layer_name=layer._layer_name
+            if "radiotap" in layer_name:
+                #print "radiotap"
+                if layer.channel_flags_5ghz == '1':
+                    print "on 5ghz"
+                else:
+                    print "on 2ghz"
+            elif "wlan_radio" in layer_name:
+                if 'signal_dbm' in dir(layer):
+                    sig_strength=layer.signal_dbm
+                    print sig_strength
+                
+            elif "wlan" in layer_name:
+                print "wlan"
+                if 'ta' in dir(layer):
+                    trans_addr=layer.ta
+                if 'ra' in dir(layer):
+                    rec_addr=layer.ra
+                
+            elif "ip" in layer._layer_name:
+                print "ip"
+                source_addr= layer.src
+                dest_addr=layer.dst
+                ttl=layer.ttl
+                if 'id' in dir(layer):
+                    ip_id=layer.id
+
+    capture_frogs()
 
 # Start OSCServer
 #print "\nStarting OSCServer. Use ctrl-C to quit."
