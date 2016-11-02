@@ -4,7 +4,6 @@ using System.Collections;
 public class FrogScript : MonoBehaviour {
 
 	public string packetType="tcp";
-
 	// Use this for initialization
 	void Start () {
 	
@@ -50,4 +49,17 @@ public class FrogScript : MonoBehaviour {
 			break;
 		}
 	}
+	public void AssignServer(string packetType)
+	{
+
+	}
+	public void GiveCookie(string packetType)
+	{
+		
+	}
+
+	public void AssignUserAgent(string packetType)
+	{
+	}
+
 }

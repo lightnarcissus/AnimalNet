@@ -100,7 +100,8 @@ for addr in s.getOSCAddressSpace():
 	print addr
 
 def capture_frogs():
-    cap = pyshark.LiveCapture(interface='en2')
+    global interface
+    cap = pyshark.LiveCapture(interface)
     cap.sniff(timeout=2)
     dir(cap)
     for pkt in cap:
@@ -119,7 +120,7 @@ def capture_frogs():
             elif "wlan_radio" in layer_name:
                 if 'signal_dbm' in dir(layer):
                     sig_strength=layer.signal_dbm
-                    sendMessage("Frog/wlan_Radio",sig_strength)
+                    sendMessage("Frog/wlan_radio",sig_strength)
                     #print sig_strength
                 
             elif "wlan" in layer_name:
@@ -143,7 +144,9 @@ def capture_frogs():
                 if 'server' in dir(layer):
                     server=layer.server
                     sendMessage("Frog/http",server)
-                #user_agent=layer.user_agent
+                if 'user_agent' in dir(layer):
+                    user_agent=layer.user_agent
+                    sendMessage("Frog/http/user_agent",user_agent)
                 #print "USER: " + user_agent
             elif "ip" in layer._layer_name:
                 #print "ip"

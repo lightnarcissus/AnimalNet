@@ -31,6 +31,7 @@ public class oscControl : MonoBehaviour {
 	private Dictionary<string, ClientLog> clients;
 	private float randVal=0f;
 	public GameObject frogSprite;
+	private GameObject tempFrog;
 	public PondManager pondManager;
 	private String msg="";
 	// Script initialization
@@ -73,31 +74,54 @@ public class oscControl : MonoBehaviour {
 					                                    item.Value.packets [lastPacketIndex].Address, // OSC address
 					                                    item.Value.packets [lastPacketIndex].Data [0].ToString ())); //First data value
 				Vector3 newpos=Camera.main.ScreenToWorldPoint(new Vector3(UnityEngine.Random.Range (0f, Screen.width), UnityEngine.Random.Range (0f, Screen.height),2f));
-				if (item.Value.packets [lastPacketIndex].Address == "Frog/ip") {
-					GameObject tempFrog = Instantiate (frogSprite, newpos, Quaternion.identity) as GameObject;
-					tempFrog.GetComponent<FrogScript> ().ChangeType ("ip");
-					tempFrog.GetComponent<FrogScript> ().AssignIP (item.Value.packets [lastPacketIndex].Data [0].ToString ());
+				if (item.Value.packets [lastPacketIndex].Address == "Frog/ip/src") {
+					if (tempFrog != null) {
+						tempFrog.GetComponent<FrogScript> ().ChangeType ("ip");
+						tempFrog.GetComponent<FrogScript> ().AssignIP (item.Value.packets [lastPacketIndex].Data [0].ToString ());
+					}
+				}
+				else if (item.Value.packets [lastPacketIndex].Address == "Frog/ip/ttl") {
+					if (tempFrog != null) {
+						tempFrog.GetComponent<FrogScript> ().ChangeType ("ip");
+						tempFrog.GetComponent<FrogScript> ().AssignIP (item.Value.packets [lastPacketIndex].Data [0].ToString ());
+					}
+				}
+				else if (item.Value.packets [lastPacketIndex].Address == "Frog/ip/dst") {
+
+					if (tempFrog != null) {
+						tempFrog.GetComponent<FrogScript> ().ChangeType ("ip");
+						tempFrog.GetComponent<FrogScript> ().AssignIP (item.Value.packets [lastPacketIndex].Data [0].ToString ());
+					}
 				}
 				else if (item.Value.packets [lastPacketIndex].Address == "Frog/radiotap") {
-					GameObject tempFrog = Instantiate (frogSprite, newpos, Quaternion.identity) as GameObject;
+					tempFrog = Instantiate (frogSprite, newpos, Quaternion.identity) as GameObject;
 					tempFrog.GetComponent<FrogScript> ().ChangeType ("ip");
 					tempFrog.GetComponent<FrogScript> ().AssignChannel (int.Parse (item.Value.packets [lastPacketIndex].Data [0].ToString ()));
 				}
 				else if (item.Value.packets [lastPacketIndex].Address == "Frog/tcp") {
-					GameObject tempFrog = Instantiate (frogSprite, newpos, Quaternion.identity) as GameObject;
+					tempFrog = Instantiate (frogSprite, newpos, Quaternion.identity) as GameObject;
 					tempFrog.GetComponent<FrogScript> ().ChangeType ("tcp");
 				}
 				else if (item.Value.packets [lastPacketIndex].Address == "Frog/http") {
-					GameObject tempFrog = Instantiate (frogSprite, newpos, Quaternion.identity) as GameObject;
-					tempFrog.GetComponent<FrogScript> ().ChangeType ("http");
+					if(tempFrog!=null)
+					tempFrog.GetComponent<FrogScript> ().AssignServer (item.Value.packets [lastPacketIndex].Data [0].ToString ());
+				}
+				else if (item.Value.packets [lastPacketIndex].Address == "Frog/http/user_agent") {
+					if(tempFrog!=null)
+						tempFrog.GetComponent<FrogScript> ().AssignUserAgent(item.Value.packets [lastPacketIndex].Data [0].ToString ());
 				}
 				else if (item.Value.packets [lastPacketIndex].Address == "Frog/udp") {
-					GameObject tempFrog = Instantiate (frogSprite, newpos, Quaternion.identity) as GameObject;
+					tempFrog = Instantiate (frogSprite, newpos, Quaternion.identity) as GameObject;
 					tempFrog.GetComponent<FrogScript> ().ChangeType ("udp");
 				}else if (item.Value.packets [lastPacketIndex].Address == "Frog/ssl") {
-					GameObject tempFrog = Instantiate (frogSprite, newpos, Quaternion.identity) as GameObject;
+					tempFrog = Instantiate (frogSprite, newpos, Quaternion.identity) as GameObject;
 					tempFrog.GetComponent<FrogScript> ().ChangeType ("ssl");
-				}else if (item.Value.packets [lastPacketIndex].Address == "Frog/wlan_addr") {
+				}
+				else if (item.Value.packets [lastPacketIndex].Address == "Frog/ssl/cookie") {
+					if(tempFrog!=null)
+						tempFrog.GetComponent<FrogScript> ().GiveCookie(item.Value.packets [lastPacketIndex].Data [0].ToString ());
+				}
+				else if (item.Value.packets [lastPacketIndex].Address == "Frog/wlan_addr") {
 					//GameObject tempFrog = Instantiate (frogSprite, newpos, Quaternion.identity) as GameObject;
 					//tempFrog.GetComponent<FrogScript> ().ChangeType ("wlan");
 					string combAddr = item.Value.packets [lastPacketIndex].Data [0].ToString ();
@@ -107,6 +131,11 @@ public class oscControl : MonoBehaviour {
 					UnityEngine.Debug.Log ("OOOOH" + combArray [0] + "AND" + combArray [1]);
 					pondManager.CheckAdd (combArray [0]);
 					//tempFrog.GetComponent<FrogScript> ().AssignIP (combArray[0]);
+				}
+				else if (item.Value.packets [lastPacketIndex].Address == "Frog/wlan_radio") {
+					//tempFrog = Instantiate (frogSprite, newpos, Quaternion.identity) as GameObject;
+					//tempFrog.GetComponent<FrogScript> ().ChangeType ("wlan");
+					pondManager.ConveySignalStrength(int.Parse (item.Value.packets [lastPacketIndex].Data [0].ToString ()));
 				}
 			}
 		}
