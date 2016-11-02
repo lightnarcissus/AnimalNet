@@ -115,6 +115,7 @@ def capture_frogs():
                 else:
                     #print "on 2ghz"
                     chan='2'
+                sendMessage("Frog/radiotap", chan)
             elif "wlan_radio" in layer_name:
                 if 'signal_dbm' in dir(layer):
                     sig_strength=layer.signal_dbm
@@ -125,16 +126,20 @@ def capture_frogs():
                 #print "wlan"
                 if 'ta' in dir(layer):
                     trans_addr=layer.ta
+                    #sendMessage("Frog/wlan_addr/trans",trans_addr)
                 if 'ra' in dir(layer):
                     rec_addr=layer.ra
-                sendMessage("Frog/wlan_addr",trans_addr)
+                    #sendMessage("Frog/wlan_addr/rec",rec_addr)
+                sendMessage("Frog/wlan_addr",trans_addr + "," + rec_addr)
             elif "http" in layer.layer_name:
                 print layer
                 print dir(layer)
                 if 'content_encoding' in dir(layer):
                     content_encoding=layer.content_encoding
+                    sendMessage("Frog/ssl/encoding",content_encoding)
                 if 'set_cookie' in dir(layer):
                     set_cookie=layer.set_cookie
+                    sendMessage("Frog/ssl/cookie",set_cookie)
                 if 'server' in dir(layer):
                     server=layer.server
                     sendMessage("Frog/http",server)
@@ -144,12 +149,13 @@ def capture_frogs():
                 #print "ip"
                 if 'src' in dir(layer):
                     source_addr= layer.src
-                    sendMessage("Frog/ip",source_addr)
+                    sendMessage("Frog/ip/src",source_addr)
                 if 'dst' in dir(layer):
                     dest_addr=layer.dst
-                    sendMessage("Frog/ip",dest_addr)
+                    sendMessage("Frog/ip/dst",dest_addr)
                 if 'ttl' in dir(layer):
                     ttl=layer.ttl
+                    sendMessage("Frog/ip/ttl",ttl)
                 if 'id' in dir(layer):
                     ip_id=layer.id
             elif "ssl" in layer.layer_name:

@@ -31,6 +31,7 @@ public class oscControl : MonoBehaviour {
 	private Dictionary<string, ClientLog> clients;
 	private float randVal=0f;
 	public GameObject frogSprite;
+	public PondManager pondManager;
 	private String msg="";
 	// Script initialization
 	void Start() {	
@@ -77,6 +78,11 @@ public class oscControl : MonoBehaviour {
 					tempFrog.GetComponent<FrogScript> ().ChangeType ("ip");
 					tempFrog.GetComponent<FrogScript> ().AssignIP (item.Value.packets [lastPacketIndex].Data [0].ToString ());
 				}
+				else if (item.Value.packets [lastPacketIndex].Address == "Frog/radiotap") {
+					GameObject tempFrog = Instantiate (frogSprite, newpos, Quaternion.identity) as GameObject;
+					tempFrog.GetComponent<FrogScript> ().ChangeType ("ip");
+					tempFrog.GetComponent<FrogScript> ().AssignChannel (int.Parse (item.Value.packets [lastPacketIndex].Data [0].ToString ()));
+				}
 				else if (item.Value.packets [lastPacketIndex].Address == "Frog/tcp") {
 					GameObject tempFrog = Instantiate (frogSprite, newpos, Quaternion.identity) as GameObject;
 					tempFrog.GetComponent<FrogScript> ().ChangeType ("tcp");
@@ -92,9 +98,15 @@ public class oscControl : MonoBehaviour {
 					GameObject tempFrog = Instantiate (frogSprite, newpos, Quaternion.identity) as GameObject;
 					tempFrog.GetComponent<FrogScript> ().ChangeType ("ssl");
 				}else if (item.Value.packets [lastPacketIndex].Address == "Frog/wlan_addr") {
-					GameObject tempFrog = Instantiate (frogSprite, newpos, Quaternion.identity) as GameObject;
-					tempFrog.GetComponent<FrogScript> ().ChangeType ("wlan");
-					tempFrog.GetComponent<FrogScript> ().AssignIP (item.Value.packets [lastPacketIndex].Data [0].ToString ());
+					//GameObject tempFrog = Instantiate (frogSprite, newpos, Quaternion.identity) as GameObject;
+					//tempFrog.GetComponent<FrogScript> ().ChangeType ("wlan");
+					string combAddr = item.Value.packets [lastPacketIndex].Data [0].ToString ();
+					string delimiter = ",";
+					char[] delimArray = delimiter.ToCharArray ();
+					string[] combArray=combAddr.Split (delimArray, 2);
+					UnityEngine.Debug.Log ("OOOOH" + combArray [0] + "AND" + combArray [1]);
+					pondManager.CheckAdd (combArray [0]);
+					//tempFrog.GetComponent<FrogScript> ().AssignIP (combArray[0]);
 				}
 			}
 		}

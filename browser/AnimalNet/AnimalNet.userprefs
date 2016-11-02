@@ -1,9 +1,10 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/oscControl.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/PondManager.cs">
     <Files>
-      <File FileName="Assets/FrogScript.cs" Line="35" Column="54" />
-      <File FileName="Assets/oscControl.cs" Line="93" Column="64" />
+      <File FileName="Assets/oscControl.cs" Line="75" Column="5" />
+      <File FileName="Assets/FrogScript.cs" Line="26" Column="37" />
+      <File FileName="Assets/PondManager.cs" Line="25" Column="94" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

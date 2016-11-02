@@ -20,6 +20,14 @@ public class FrogScript : MonoBehaviour {
 		
 	}
 
+	public void AssignChannel(int channel)
+	{
+		if (channel == 5) {
+			Debug.Log ("assigned 5 channel");
+			GetComponent<Animator> ().speed = 5;
+		}
+	}
+
 	public void ChangeType(string packetType)
 	{
 		switch (packetType) {

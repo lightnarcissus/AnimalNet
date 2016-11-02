@@ -52,6 +52,7 @@
      <Compile Include="Assets\OSC\OSCPacket.cs" />
      <Compile Include="Assets\OSC\OSCServer.cs" />
      <Compile Include="Assets\OSCHandler.cs" />
+     <Compile Include="Assets\PondManager.cs" />
      <Compile Include="Assets\oscControl.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
