@@ -26,10 +26,13 @@ public class PondManager : MonoBehaviour {
 			GameObject tempObj = Instantiate (pondPrefab, newpos, Quaternion.identity) as GameObject;
 			tempObj.transform.GetChild (0).gameObject.GetComponent<TextMesh> ().text = address;
 			activeAddress.Add (address);
+			pondList.Add (tempObj);
 		}
 		if(!activeAddress.Contains(address))
 		{
-				GameObject tempObj = Instantiate (pondPrefab, newpos, Quaternion.identity) as GameObject;
+
+			Quaternion randEuler = Quaternion.Euler (new Vector3 (0f, 0f, Random.Range (0f, 180f)));
+			GameObject tempObj = Instantiate (pondPrefab, newpos, randEuler) as GameObject;
 				tempObj.transform.GetChild (0).gameObject.GetComponent<TextMesh> ().text = address;
 				activeAddress.Add (address);
 			pondList.Add (tempObj);
@@ -45,4 +48,12 @@ public class PondManager : MonoBehaviour {
 			pondList [pondList.Count - 1].GetComponent<SpriteRenderer> ().color = new Color (currentColor.r, currentColor.g,currentColor.b, opacity);
 		}
 	}
+
+	public void AssignUserAgent(string userAgent)
+	{
+		if (pondList.Count > 0) {
+			pondList [pondList.Count - 1].transform.GetChild (0).gameObject.GetComponent<TextMesh> ().text = userAgent;
+		}
+	}
+
 }

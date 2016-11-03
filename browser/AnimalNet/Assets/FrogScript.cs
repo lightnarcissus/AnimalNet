@@ -4,8 +4,10 @@ using System.Collections;
 public class FrogScript : MonoBehaviour {
 
 	public string packetType="tcp";
+	private int ttl_main=7;
 	// Use this for initialization
 	void Start () {
+		StartCoroutine ("PrepareToLive");
 	
 	}
 	
@@ -31,35 +33,54 @@ public class FrogScript : MonoBehaviour {
 	{
 		switch (packetType) {
 		case "ip":
-			GetComponent<SpriteRenderer> ().color = Color.red;
+			GetComponent<Animator> ().SetBool ("Pink", true);
+			//GetComponent<SpriteRenderer> ().color = Color.red;
 			gameObject.name = "frog_ip";
 			break;
 		case "tcp":
 			break;
 		case "http":
-			GetComponent<SpriteRenderer> ().color = Color.yellow;
+			GetComponent<Animator> ().SetBool ("Blue", true);
 			gameObject.name = "frog_http";
 			break;
 		case "wlan":
-			GetComponent<SpriteRenderer> ().color = Color.blue;
+			GetComponent<Animator> ().SetBool ("Yellow", true);
 			gameObject.name = "frog_wlan";
 			break;
 		case "ssl":
+			GetComponent<Animator> ().SetBool ("Green", true);
 			gameObject.name = "frog_ssl";
 			break;
 		}
 	}
-	public void AssignServer(string packetType)
+	public void AssignDestination(string dest)
 	{
-
+		
+	}
+	public void SetTTL(int ttl)
+	{
+		ttl_main = ttl;
 	}
 	public void GiveCookie(string packetType)
 	{
 		
 	}
 
-	public void AssignUserAgent(string packetType)
+
+	IEnumerator PrepareToLive()
 	{
+		float time = 0f;
+		while (time < ttl_main) {
+			time += Time.deltaTime;
+			yield return 0;
+		}
+		DisappearDestroy ();
+		yield return null;
 	}
 
+	void DisappearDestroy()
+	{
+		
+		Destroy (gameObject);
+	}
 }

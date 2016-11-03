@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: 3911c64f07dba4137b5860f5885a0f64
-timeCreated: 1477927839
+timeCreated: 1478130726
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
@@ -64,9 +64,9 @@ TextureImporter:
       name: frog_0
       rect:
         serializedVersion: 2
-        x: 0
+        x: 1
         y: 0
-        width: 16
+        width: 14
         height: 14
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -77,9 +77,9 @@ TextureImporter:
       name: froggo2
       rect:
         serializedVersion: 2
-        x: 32
+        x: 33
         y: 0
-        width: 16
+        width: 14
         height: 15
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -90,9 +90,9 @@ TextureImporter:
       name: froggo3
       rect:
         serializedVersion: 2
-        x: 48
+        x: 49
         y: 0
-        width: 16
+        width: 15
         height: 15
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -103,9 +103,9 @@ TextureImporter:
       name: froggo4
       rect:
         serializedVersion: 2
-        x: 64
+        x: 65
         y: 1
-        width: 16
+        width: 14
         height: 13
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -116,9 +116,9 @@ TextureImporter:
       name: froggo5
       rect:
         serializedVersion: 2
-        x: 80
+        x: 81
         y: 1
-        width: 16
+        width: 15
         height: 12
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -131,7 +131,7 @@ TextureImporter:
         serializedVersion: 2
         x: 97
         y: 0
-        width: 15
+        width: 14
         height: 12
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -142,9 +142,9 @@ TextureImporter:
       name: froggo1
       rect:
         serializedVersion: 2
-        x: 16
+        x: 17
         y: 0
-        width: 16
+        width: 14
         height: 14
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -155,9 +155,9 @@ TextureImporter:
       name: froggo7
       rect:
         serializedVersion: 2
-        x: 112
+        x: 113
         y: 0
-        width: 16
+        width: 15
         height: 12
       alignment: 0
       pivot: {x: 0.5, y: 0.5}

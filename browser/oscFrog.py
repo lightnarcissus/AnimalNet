@@ -22,7 +22,7 @@ interface=""
 if platform.system()=="linux":
     interface="wlo1"
 elif platform.system()=="Darwin":
-    interface="en2"
+    interface="en1"
 elif platform.system()=="Windows":
     interface="Wi-Fi"
 
@@ -102,6 +102,7 @@ for addr in s.getOSCAddressSpace():
 def capture_frogs():
     global interface
     cap = pyshark.LiveCapture(interface)
+    print interface
     cap.sniff(timeout=2)
     dir(cap)
     for pkt in cap:
@@ -125,6 +126,8 @@ def capture_frogs():
                 
             elif "wlan" in layer_name:
                 #print "wlan"
+                trans_addr="";
+                rec_addr="";
                 if 'ta' in dir(layer):
                     trans_addr=layer.ta
                     #sendMessage("Frog/wlan_addr/trans",trans_addr)
