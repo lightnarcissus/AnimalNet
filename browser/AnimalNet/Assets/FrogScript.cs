@@ -33,11 +33,9 @@ public class FrogScript : MonoBehaviour {
 	{
 		switch (packetType) {
 		case "ip":
-			GetComponent<Animator> ().SetBool ("Pink", true);
+			GetComponent<Animator> ().SetBool ("Green", true);
 			//GetComponent<SpriteRenderer> ().color = Color.red;
 			gameObject.name = "frog_ip";
-			break;
-		case "tcp":
 			break;
 		case "http":
 			GetComponent<Animator> ().SetBool ("Blue", true);
@@ -48,7 +46,7 @@ public class FrogScript : MonoBehaviour {
 			gameObject.name = "frog_wlan";
 			break;
 		case "ssl":
-			GetComponent<Animator> ().SetBool ("Green", true);
+			GetComponent<Animator> ().SetBool ("Pink", true);
 			gameObject.name = "frog_ssl";
 			break;
 		}

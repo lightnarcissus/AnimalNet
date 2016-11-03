@@ -96,11 +96,9 @@ public class oscControl : MonoBehaviour {
 					tempFrog.GetComponent<FrogScript> ().ChangeType ("ip");
 					tempFrog.GetComponent<FrogScript> ().AssignChannel (int.Parse (item.Value.packets [lastPacketIndex].Data [0].ToString ()));
 				}
-				else if (item.Value.packets [lastPacketIndex].Address == "Frog/tcp") {
-					tempFrog = Instantiate (frogSprite, newpos, Quaternion.identity) as GameObject;
-					tempFrog.GetComponent<FrogScript> ().ChangeType ("tcp");
-				}
 				else if (item.Value.packets [lastPacketIndex].Address == "Frog/http") {
+					tempFrog = Instantiate (frogSprite, newpos, Quaternion.identity) as GameObject;
+					tempFrog.GetComponent<FrogScript> ().ChangeType ("http");
 					holeManager.AssignServer (item.Value.packets [lastPacketIndex].Data [0].ToString ());
 				}
 				else if (item.Value.packets [lastPacketIndex].Address == "Frog/http/user_agent") {
@@ -117,6 +115,10 @@ public class oscControl : MonoBehaviour {
 					if(tempFrog!=null)
 						tempFrog.GetComponent<FrogScript> ().GiveCookie(item.Value.packets [lastPacketIndex].Data [0].ToString ());
 				}
+				else if (item.Value.packets [lastPacketIndex].Address == "Frog/wlan_mgt/ssid") {
+					if(tempFrog!=null)
+						pondManager.AssignSSID(item.Value.packets [lastPacketIndex].Data [0].ToString ());
+				}
 				else if (item.Value.packets [lastPacketIndex].Address == "Frog/wlan_addr") {
 					//GameObject tempFrog = Instantiate (frogSprite, newpos, Quaternion.identity) as GameObject;
 					//tempFrog.GetComponent<FrogScript> ().ChangeType ("wlan");
@@ -124,6 +126,7 @@ public class oscControl : MonoBehaviour {
 					string delimiter = ",";
 					char[] delimArray = delimiter.ToCharArray ();
 					string[] combArray=combAddr.Split (delimArray, 2);
+
 					UnityEngine.Debug.Log ("OOOOH" + combArray [0] + "AND" + combArray [1]);
 					pondManager.CheckAdd (combArray [0]);
 					//holeManager.CheckAdd (combArray [1]);
@@ -133,6 +136,9 @@ public class oscControl : MonoBehaviour {
 					//tempFrog = Instantiate (frogSprite, newpos, Quaternion.identity) as GameObject;
 					//tempFrog.GetComponent<FrogScript> ().ChangeType ("wlan");
 					pondManager.ConveySignalStrength(int.Parse (item.Value.packets [lastPacketIndex].Data [0].ToString ()));
+					if (tempFrog != null) {
+						
+					}
 				}
 			}
 		}

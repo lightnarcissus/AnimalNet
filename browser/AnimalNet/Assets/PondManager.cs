@@ -31,8 +31,7 @@ public class PondManager : MonoBehaviour {
 		if(!activeAddress.Contains(address))
 		{
 
-			Quaternion randEuler = Quaternion.Euler (new Vector3 (0f, 0f, Random.Range (0f, 180f)));
-			GameObject tempObj = Instantiate (pondPrefab, newpos, randEuler) as GameObject;
+			GameObject tempObj = Instantiate (pondPrefab, newpos, Quaternion.identity) as GameObject;
 				tempObj.transform.GetChild (0).gameObject.GetComponent<TextMesh> ().text = address;
 				activeAddress.Add (address);
 			pondList.Add (tempObj);
@@ -50,6 +49,12 @@ public class PondManager : MonoBehaviour {
 	}
 
 	public void AssignUserAgent(string userAgent)
+	{
+		if (pondList.Count > 0) {
+			pondList [pondList.Count - 1].transform.GetChild (0).gameObject.GetComponent<TextMesh> ().text = userAgent;
+		}
+	}
+	public void AssignSSID(string userAgent)
 	{
 		if (pondList.Count > 0) {
 			pondList [pondList.Count - 1].transform.GetChild (0).gameObject.GetComponent<TextMesh> ().text = userAgent;
