@@ -81,57 +81,74 @@ public class oscControl : MonoBehaviour {
 						tempFrog.GetComponent<FrogScript> ().AssignIP (item.Value.packets [lastPacketIndex].Data [0].ToString ());
 					}
 				}
+
 				else if (item.Value.packets [lastPacketIndex].Address == "Frog/ip/ttl") {
 					if (tempFrog != null) {
 						tempFrog.GetComponent<FrogScript> ().ChangeType ("ip");
 						tempFrog.GetComponent<FrogScript> ().SetTTL(int.Parse(item.Value.packets [lastPacketIndex].Data [0].ToString ()));
 					}
 				}
+
 				else if (item.Value.packets [lastPacketIndex].Address == "Frog/ip/dst") {
 
 						holeManager.CheckAdd (item.Value.packets [lastPacketIndex].Data [0].ToString ());
 				}
+
 				else if (item.Value.packets [lastPacketIndex].Address == "Frog/radiotap") {
+					//INSTANTIATE
 					tempFrog = Instantiate (frogSprite, newpos, Quaternion.identity) as GameObject;
 					tempFrog.GetComponent<FrogScript> ().ChangeType ("ip");
 					tempFrog.GetComponent<FrogScript> ().AssignChannel (int.Parse (item.Value.packets [lastPacketIndex].Data [0].ToString ()));
 				}
+
 				else if (item.Value.packets [lastPacketIndex].Address == "Frog/http") {
+					UnityEngine.Debug.Log ("OOOOH HTTTP!!");
+					//INSTANTIATE
 					tempFrog = Instantiate (frogSprite, newpos, Quaternion.identity) as GameObject;
 					tempFrog.GetComponent<FrogScript> ().ChangeType ("http");
 					holeManager.AssignServer (item.Value.packets [lastPacketIndex].Data [0].ToString ());
 				}
+
 				else if (item.Value.packets [lastPacketIndex].Address == "Frog/http/user_agent") {
 					pondManager.AssignUserAgent(item.Value.packets [lastPacketIndex].Data [0].ToString ());
 				}
+
 				else if (item.Value.packets [lastPacketIndex].Address == "Frog/udp") {
+					//INSTANTIATE
 					tempFrog = Instantiate (frogSprite, newpos, Quaternion.identity) as GameObject;
 					tempFrog.GetComponent<FrogScript> ().ChangeType ("udp");
-				}else if (item.Value.packets [lastPacketIndex].Address == "Frog/ssl") {
+				}
+
+				else if (item.Value.packets [lastPacketIndex].Address == "Frog/ssl") {
 					tempFrog = Instantiate (frogSprite, newpos, Quaternion.identity) as GameObject;
 					tempFrog.GetComponent<FrogScript> ().ChangeType ("ssl");
 				}
+
 				else if (item.Value.packets [lastPacketIndex].Address == "Frog/ssl/cookie") {
 					if(tempFrog!=null)
 						tempFrog.GetComponent<FrogScript> ().GiveCookie(item.Value.packets [lastPacketIndex].Data [0].ToString ());
 				}
+
 				else if (item.Value.packets [lastPacketIndex].Address == "Frog/wlan_mgt/ssid") {
 					if(tempFrog!=null)
 						pondManager.AssignSSID(item.Value.packets [lastPacketIndex].Data [0].ToString ());
 				}
+
 				else if (item.Value.packets [lastPacketIndex].Address == "Frog/wlan_addr") {
-					//GameObject tempFrog = Instantiate (frogSprite, newpos, Quaternion.identity) as GameObject;
-					//tempFrog.GetComponent<FrogScript> ().ChangeType ("wlan");
+					//INSTANTIATE
+					GameObject tempFrog = Instantiate (frogSprite, newpos, Quaternion.identity) as GameObject;
+					tempFrog.GetComponent<FrogScript> ().ChangeType ("wlan");
 					string combAddr = item.Value.packets [lastPacketIndex].Data [0].ToString ();
 					string delimiter = ",";
 					char[] delimArray = delimiter.ToCharArray ();
 					string[] combArray=combAddr.Split (delimArray, 2);
 
-					UnityEngine.Debug.Log ("OOOOH" + combArray [0] + "AND" + combArray [1]);
+					//UnityEngine.Debug.Log ("OOOOH" + combArray [0] + "AND" + combArray [1]);
 					pondManager.CheckAdd (combArray [0]);
 					//holeManager.CheckAdd (combArray [1]);
 					//tempFrog.GetComponent<FrogScript> ().AssignIP (combArray[0]);
 				}
+
 				else if (item.Value.packets [lastPacketIndex].Address == "Frog/wlan_radio") {
 					//tempFrog = Instantiate (frogSprite, newpos, Quaternion.identity) as GameObject;
 					//tempFrog.GetComponent<FrogScript> ().ChangeType ("wlan");

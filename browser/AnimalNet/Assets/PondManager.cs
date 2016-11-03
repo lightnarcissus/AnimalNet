@@ -6,9 +6,30 @@ public class PondManager : MonoBehaviour {
 	public List<string> activeAddress;
 	public List<GameObject> pondList;
 	public GameObject pondPrefab;
-
 	public int maxSignal = -80;
 	public int minSignal = -20;
+	//SINGLETON
+	private static PondManager _instance;
+
+	public static PondManager Instance
+	{
+		get
+		{
+			return _instance;
+		}
+	}
+
+	void Awake()
+	{
+
+		if (_instance != null)
+		{
+			Debug.Log("Instance already exists!");
+			return;
+		}
+		_instance = this;
+	}
+
 	// Use this for initialization
 	void Start () {
 	

@@ -5,10 +5,12 @@ public class FrogScript : MonoBehaviour {
 
 	public string packetType="tcp";
 	private int ttl_main=7;
+	public Vector3 currentTarget;
+	private float hopTimer=0f;
 	// Use this for initialization
 	void Start () {
 		StartCoroutine ("PrepareToLive");
-	
+		StartCoroutine ("StartHopping");
 	}
 	
 	// Update is called once per frame
@@ -51,9 +53,11 @@ public class FrogScript : MonoBehaviour {
 			break;
 		}
 	}
-	public void AssignDestination(string dest)
+	public void AssignDestination()
 	{
-		
+		hopTimer = 0f;
+		Debug.Log ("assigning new destination");
+		currentTarget=PondManager.Instance.pondList[Random.Range(0,PondManager.Instance.pondList.Count-1)].transform.position;
 	}
 	public void SetTTL(int ttl)
 	{
@@ -70,9 +74,23 @@ public class FrogScript : MonoBehaviour {
 		float time = 0f;
 		while (time < ttl_main) {
 			time += Time.deltaTime;
+			if (time % 1f < 0.1f) {
+				AssignDestination ();
+			}
 			yield return 0;
 		}
 		DisappearDestroy ();
+		yield return null;
+	}
+
+	IEnumerator StartHopping()
+{
+		while(hopTimer<1f)
+		{
+			hopTimer += Time.deltaTime;
+			transform.position = Vector3.Lerp (transform.position, currentTarget, hopTimer);
+			yield return 0;
+		}
 		yield return null;
 	}
 

@@ -153,7 +153,7 @@ def capture_frogs():
                     print user_agent
                 #print "USER: " + user_agent
             if "wlan_mgt" in layer_name:
-                print layer
+                #print layer
                 if 'ssid' in dir(layer):
                     ssid=layer.ssid;
                     sendMessage("Frog/wlan_mgt/ssid",ssid);

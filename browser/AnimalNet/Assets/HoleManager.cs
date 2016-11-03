@@ -37,8 +37,10 @@ public class HoleManager : MonoBehaviour {
 
 	public void AssignServer(string serverType)
 	{
-		if (holeList.Count > 0) {
-			holeList [holeList.Count - 1].transform.GetChild (1).gameObject.GetComponent<TextMesh> ().text = serverType;
-		}
+		Vector3 newpos=Camera.main.ScreenToWorldPoint(new Vector3(UnityEngine.Random.Range (0f, Screen.width), UnityEngine.Random.Range (0f, Screen.height),2f));
+
+			GameObject tempObj = Instantiate (holePrefab, newpos, Quaternion.identity) as GameObject;
+			tempObj.transform.GetChild (0).gameObject.GetComponent<TextMesh> ().text = serverType;
+
 	}
 }
