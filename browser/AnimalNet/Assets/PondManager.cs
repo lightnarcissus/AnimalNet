@@ -6,7 +6,7 @@ public class PondManager : MonoBehaviour {
 	public List<string> activeAddress;
 	public List<GameObject> pondList;
 	public GameObject pondPrefab;
-	public int maxSignal = -80;
+	public float maxSignal = -80f;
 	public int minSignal = -20;
 	//SINGLETON
 	private static PondManager _instance;
@@ -62,7 +62,9 @@ public class PondManager : MonoBehaviour {
 
 	public void ConveySignalStrength(int strength)
 	{
-		int opacity = strength / maxSignal;
+		Debug.Log ("STRENGTH: " + strength);
+		float opacity = strength / maxSignal;
+		Debug.Log (opacity);
 		if (pondList.Count > 0) {
 			Color currentColor = pondList [pondList.Count - 1].GetComponent<SpriteRenderer> ().color;
 			pondList [pondList.Count - 1].GetComponent<SpriteRenderer> ().color = new Color (currentColor.r, currentColor.g,currentColor.b, opacity);

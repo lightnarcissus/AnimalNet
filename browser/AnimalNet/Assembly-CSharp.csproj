@@ -47,6 +47,7 @@
   <ItemGroup>
      <Compile Include="Assets\FrogScript.cs" />
      <Compile Include="Assets\HoleManager.cs" />
+     <Compile Include="Assets\LegendFrogs.cs" />
      <Compile Include="Assets\OSC\OSCBundle.cs" />
      <Compile Include="Assets\OSC\OSCClient.cs" />
      <Compile Include="Assets\OSC\OSCMessage.cs" />
